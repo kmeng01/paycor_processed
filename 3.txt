@@ -1,0 +1,55 @@
+Payroll-Based Journal: What Is It?
+
+Payroll-based journal is a requirement for nursing homes from the Centers for Medicare & Medicaid Services under the Affordable Care Act. Learn how it affects your long term health facility.
+
+Workforce Management
+Last Updated: July 20, 2020 | Read Time: 5 min
+While COVID-19 has turned the long-term healthcare industry upside down, the Centers for Medicare and Medicaid (CMS) still uphold strict regulations for reporting around direct care staffing and census information. The CMS reporting system is called the Payroll-Based Journal (PBJ).
+The CMS uses the data, from the PBJ, to analyze staffing patterns and populate the staffing component of the Nursing Home Compare website. You’re probably well aware of the importance of this website, as it allows the public to compare the quality of care at nursing facilities.
+The Centers for Medicaid & Medicare Services (CMS) began collecting this mandatory staffing and census information from these providers in 2016; however, changes have been made to the collection requirements. What are the goals for the data collection requirement? The system was designed to:
+Allow the CMS to collect more regular and more frequent data from nursing homes
+Ensure accuracy of data by providing an auditable method of data collection
+Standardize data collection
+Inspect the quality of care delivered at nursing homes by using data such as:
+The level of staff in each nursing home
+Nursing home employee turnover and tenure
+Census data
+Affected employers will need to file staffing and census data within 45 days of the close of each fiscal year.
+If anything, COVID has made PBJ an even more important metric for your business. Everyone—from consumers and lenders to providers and management—use the 5-Star rating to size your facility up and make decisions accordingly. Nearly everyone in your organization is affected by your score. In the end, poor ratings will lead to lower occupancy, which in turn make operations decline.
+Investors and financial partners take the star ratings into account as well, so the ratings will impact your facility’s credit worthiness. Bad credit opens the door to a host of problems, from difficulty obtaining financing for capital improvements and higher interest rates, which negatively impact cash flow.
+Although CMS temporarily waived the submission of staffing data to the federal government during the first quarter of 2020, about 60% of facilities still submitted data. Today, CMS encourages nursing homes to follow best practices and continue to submit data, although it will not be used when calculating their facility’s overall star rating (as of July 2020).
+CMS allows you to manually enter data or upload data from an automated payroll or time and attendance system, or you can do a combo of both.
+Manual entry, especially for procrastinators who wait until the last minute to input data is a chore (after all, who really wants to do it daily or weekly?) And not only that, manual entry practically guarantees errors.
+CMS looks for 70 different errors, all of which fall under one of these pleasant-sounding categories: FATAL, WARNING and INFORMATIONAL.
+If you go the manual route, you have to become a PBJ expert. But you have more important things to do than that.
+If you find a time & attendance and/or payroll system that you trust, automatic uploads save you a ton of time and stress.
+For 30 years, Paycor has offered the long-term care industry-defining payroll and tax expertise. On top of that expertise, which keeps you always up-to-date and current, we also offer award-winning technology. If your time and attendance system isn’t integrated with your payroll system, PBJ reporting requirements will place an incredible strain on your staff, which will take you away from patient care.
+Paycor can help ensure your facility maintains its staffing star rating on the Nursing Home Compare site. Take our self guided product tour and discover how Paycor’s time and attendance solution can help.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

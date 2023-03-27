@@ -1,0 +1,56 @@
+Payroll Risks and Controls: Everything You Need to Know
+
+Roughly 40% of small and medium businesses face a payroll penalty each year. Protect yourself from fraud and human error by understanding these payroll risks and controls.
+
+Workforce Management
+Last Updated:  October 11, 2019 | Read Time: 7 min
+The IRS estimates that 40% of small to medium-size businesses end up paying a payroll penalty each year. Whether you’re a large organization or a small one, there’s always a risk of payroll errors leading to fines, penalties and sometimes litigation.
+Businesses that run payroll on their own, especially small businesses, are at a much higher risk of being disrupted by fraudulent activity and human error. From ghost employees to hour padding to buddy punching, when a company lacks the appropriate internal controls to manage its payroll, it can run into big trouble.
+Here are 6 common payroll risks and controls you can implement to mitigate them:
+No, these aren’t the Employees of Christmas Past, Present and Future. They’re either employees on paper only, are dead but kept on the payroll, or they’re real people who don’t even work at the business that’s sending out paychecks to them. The last of the three ghosts splits the fraudulent profits with a person inside the company who is committing the crime… almost always the person who manages payroll.
+Padding hours is a nice way of saying that someone is lying about the time they actually worked. If you still use paper time cards or let employees enter their time another manual way, this is easy fraud to perpetrate. Especially if there’s little managerial oversight or the employee works remotely.
+It sounds like something mean to do to your friend but in reality, it’s another type of fraud. Again, it’s easily perpetrated when you have in-house systems. Buddy punching is when one employee asks another to clock in for him. According to a 2017 study conducted by PollFish, 16% of employees who submit timecards at work admit to clocking in for their co-workers. Generally, the fudged amounts are small, but added up they can result in pretty big losses.
+In addition to fraud, in-house payroll systems are prone to human error that could easily be caught and corrected by an automated system. A few that are prevalent:
+It’s crucial that you correctly separate your employees from your contractors and freelancers. The latter should not be on payroll; they are a business expense and you don’t pay taxes on them. Companies who run payroll in-house (especially with inexperienced staff) often have this challenge.
+This is probably one of the largest problems with in-house payroll systems. They simply don’t have the multiple levels of security that an outsourced solution does. Running payroll on a system that has a single password that’s “pa$$word” really won’t cut it. Especially when you’re controlling the personally identifiable information of dozens or hundreds of employees in your database. Hackers target small and medium sized businesses for this very reason.
+Laws that have an impact on the employer/employee relationship seem to change every day. Do you have time to keep up with them? If you don’t, you could get in some seriously hot water if you miss a memo.
+
+
+
+
+If you still run payroll in-house, here are 4 simple controls you can implement immediately to protect your organization:
+This sounds like a lot of work, and it is. To control the access to data, it’s important to ensure you have an independent auditor periodically look at your books. You should also only allow changes to important employee information by staff with password access that’s tracked to the minute. And when it comes time to process payroll, have one person prepare, another to authorize and another to actually run the checks.
+If you manually run payroll, always have someone as backup to review the numbers. Be sure to include hours worked, pay rates, deductions and withholdings in your review.
+Be sure to remove check authorizers when they leave the company. Hand checks to employees to prevent paying those ghost employees. Pay employees from a separate checking account that mirrors exactly what you’re calculating on the books.
+You should run payroll variance analyses monthly. Be sure to split the data by department, function or division and run the results against your budget and prior year. See any major changes without an explanation? Investigate!
+To find additional outliers, try looking at salary per FTE, payroll tax ratios and employee benefits ratios. Be sure to consider running these payroll reports for error-free payruns.
+At the end of the day, running payroll shouldn’t be this complicated! And with the right HR & payroll provider it’s not. You can save yourself hours each week and mitigate compliance risk by simply automating your payroll processes. Be sure to view our comprehensive article on all the areas where HR can help with risk management.
+At Paycor, we’ve spent decades perfecting the payroll process. Our solution enables small and medium-size business to quickly and easily pay employees from wherever you are, all while ensuring tax compliance. Through 30 years of user feedback and product innovations, we’ve made payroll simple, so you can get in, make edits, run payroll and get out. Discover why nearly 30,000 organization are partnered with Paycor by talking with a representative today.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,53 @@
+How HR Compliance Software Can Help Your Business
+
+HR professionls must maintain regulatory compliance to avoid risks. Minimize exposure to risks with HR compliance software designed to make your job easier.
+
+Workforce Management
+Last Updated:  December 28, 2017 | Read Time: 7 min
+As an HR professional, you’re expected to understand compliance and take steps to help ensure your company is protected from risk. With laws and regulations changing practically overnight, you’ve got a heavy load to bear. But, compliance is a vital element of any company’s ongoing success, whether it’s a small startup or a multi-billion-dollar corporation. Without a solid focus on compliance, businesses are at risk of being penalized with fines, lawsuits, bankruptcy, and, ultimately, closure.
+If you’re maintaining your employee records in outdated, cobbled-together software, or worse, in an Excel spreadsheet, it’s highly likely that you’re not generating the reports you need to keep your company out of hot water. From accurate timekeeping and payroll and tax updates to consistent recordkeeping and detailed reports, HR technology should be a top priority to help you confidently manage compliance.
+The three big areas of HR where failing to maintain proper records can get you in trouble are:
+As the recruitment industry has evolved, so has its regulatory landscape. Between the EEOC, OFCCP, DOL, and other governing bodies, new rules are constantly being issued that tighten the reins around employers. Furthermore, as hiring activities have moved online, a Pandora’s box of recruitment compliance has been opened that can be nearly impossible to navigate.
+Recruitment compliance is especially challenging for smaller and medium sized employers where resources are tight and HR is responsible for all people-related processes. It takes an informed, disciplined team armed with the right tools to ensure that compliance is addressed successfully.
+EEOC
+Although it is the responsibility of all employers to practice non-discriminatory hiring practices, once your company employs more than 15 workers, this responsibility becomes enforceable by law under the EEOC. The EEOC is the governing body that administers the federal laws and regulations that prohibit, “discrimination against a job applicant or an employee because of the person’s race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age (40 or older), disability or genetic information.”
+To remain compliant with the EEOC, you should have a solid understanding of their prohibited policies and practices. Those companies that fail to comply with the EEOC can face stiff fines and penalties. In 2016, the EEOC reported evaluating 97,443 charges and secured more than $482 million in monetary damages against employers.
+How HR Software Can Help: Having a unified HR and payroll solution means that the majority of the information you need to resolve an EEOC dispute is readily available: training administration, performance management, and employee development. Having these reports instantly accessible increases efficiency so you’re not wasting time photocopying employee files, benefit manuals, payroll records, attendance files and organizing the information you need.
+Office of Federal Contract Compliance Programs (OFCCP)
+Beyond the EEOC, compliance guidelines become even more stringent for federal contractors under the OFCCP. The three major laws enforced by the OFCCP are:
+HRMS Systems Can Help: A properly configured applicant tracking system (ATS) can be your most valuable asset if you’re faced with an OFCCP audit. Standardized job postings, interview questions, pre-selected reasons not to move forward with a candidate, and self-assessment reports help ensure that you meet the standards set forth by the OFCCP.
+An important part of the onboarding process is the completion of the I-9 form. To say that I-9 compliance is complex is an understatement. The proper steps you must follow to ensure accurate completion and records retention can be daunting. Form I-9 is used to verify the identity and employment authorization of individuals hired for employment in the United States. All U.S. employers must ensure proper completion of an I-9 for each individual that they hire. The two components to help ensure compliance are:
+How Human Resource Management Software Can Help: Form I-9 was updated in July 2017, so it’s important to ensure you’re using the most recent version. Your onboarding solution should enable new employees to electronically complete the document prior to their first day on the job. Form I-9 should then be electronically stored to their record, ensuring simple and easy maintenance and immediate access.
+No matter what state your company does business in, or how many employees you have, you are subject to state and federal employment laws. Your employee handbook not only communicates these various entitlements and obligations to employees, but is also useful in demonstrating that your organization strives to be compliant with these regulations. For example, if your employee is called away to active-duty military service, you will want to be sure they understand their rights and obligations when communicating their reason for taking leave. Your Military Leave Policy should clearly define these parameters to the employee. Similar policies should communicate rights and obligations regarding state disability leaves, federal FMLA leave and other government mandates.
+How HR Technology Can Help: A solid HRIS system should provide access to employee handbook templates, sample job descriptions, and employment law alerts to help you stay on track and not force you to create this important documentation on your own.
+Manually collecting and reporting on all of this information is beyond cumbersome, it is out of the question. Ultimately, you need to invest in human resources software that will automate this process for you. A unified platform provides everyday efficiencies, reducing duplicate entry as well as opportunities for costly compliance errors.
+For more inspiration and best practices on compliance management, visit our HR Center of Excellence Compliance Hub.
+NOTE: This article is intended as informative only and is not legal advice. Employers should always consult with an affirmative action expert or labor attorney for official guidance.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

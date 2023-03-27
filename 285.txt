@@ -1,0 +1,65 @@
+Paycor Echo Allows Hiring Professionals to Drive Recruiting with Email
+
+Paycor Echo is for busy hiring professionals that don’t have time to log into their ATS. Echo allows you to drive hiring decisions directly from your email.
+
+Talent Management
+Last Updated:  March 25, 2020 | Read Time: 5 min
+Our idea: Simple tasks should only take seconds. With Paycor Recruiting’s Echo feature, people can change the status of candidates, capture interview feedback, and approve jobs and offers using email—no login required.
+At Paycor we’re always looking to make hiring simpler, smarter, and safer. Echo is the simple and smart answer to busy hiring managers and executives that don’t have time to log in to their applicant tracking system. With Echo, your managers keep the recruiting system up-to-date just by responding to email.
+There are two parts to an Echo response: the Comment and the Command. When someone replies to an Echo email it is saved as a comment on the job or candidate. Recipients also may include “command tags” in their reply (optional). These command tags (#approve, #deny, #phonescreen, #interview, #private) ask Paycor Recruiting to take action on the recipient’s behalf.
+Commands can be placed anywhere in the response as long as they are above the line that says “please put your response above this line”.
+At this time there is not a “Pass” command. For OFCCP compliance someone needs to choose a Reason for Non-Selection when passing on candidates. Replying #pass would not keep our customers in compliance, so we have not implemented this command.
+Example 1: Mark Manager receives a Review Request email and wants to phone screen the candidate.
+One of your recruiters sent Mark and Review Request email. Mark thinks the candidate looks good and wants his recruiter to schedule a phone screen, here’s how:
+Mark Responds:
+This candidate looks great. Please #phonescreen right away.
+Example 2: April Approver receives an Offer Approval Request and wants to Deny it
+Let’s say April thinks the salary is too high for this candidate. Denying the offer is easy….
+April Responds:
+#deny (this salary is way over budget)
+Example 3: Frank Feedback is asked to provide feedback after a Phone Screen.
+Frank Phone Screened one of your candidates at 4PM yesterday. Based on your settings, Paycor asked Frank for feedback at 5PM the same day. Frank liked the person and wants you to schedule an interview.
+Frank Response:
+This candidate was really great. Let’s bring him in for a round of interviews with the team.
+#interview
+You can send an Echo email to anyone, even people that are not Paycor Recruiting users.
+For example, if you request interview feedback from non-users their responses will still be saved to Paycor Recruiting.
+Commands from non-users will be ignored.
+Only Paycor Recruiting users can execute commands. So, if you send a non-user a Review Request and they respond with #phonescreen, Paycor Recruiting will ignore the command.
+Redundant Commands will be ignored.
+Paycor Recruiting will ignore commands that would have no effect.
+Some examples of commands that would be ignored (this is not a complete list):
+Commands that move a candidate or job backwards in the process are ignored.
+Paycor Recruiting is going to err on the side of safety and ignore commands that might have deleterious effects. As such, Paycor Recruiting will not move a candidate backwards in the process and will not close jobs that have already been activated.
+Some examples of commands that would be ignored (this is not a complete list):
+Approval and Denial of Jobs/Offers can be commanded only by Approvers.
+Let’s say you cc: a Paycor Recruiting User on a Job Approval Request but they are not one of the job’s approvers. If this person responds with #approve or #deny Paycor Recruiting will ignore that command (i.e. the response will be saved as a comment in the job’s history, but the action will be ignored).
+
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

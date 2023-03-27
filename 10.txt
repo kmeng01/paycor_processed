@@ -1,0 +1,48 @@
+Exempt vs. Non-Exempt Employees. What’s the Big Difference?
+
+Misclassifying employees can result in enormous financial consequences for a business. Understand the difference in exempt and non-exempt employees.
+
+Workforce Management
+Last Updated: June 24, 2022 | Read Time: 8 min
+Overtime regulation by the Department of Labor (DOL) is one of the most watched compliance issues by employers, and for good reason: Misclassifying employees or underpaying overtime wages can result in enormous financial consequences for a business.
+If you’re struggling to understand general overtime pay requirements and don’t know which areas to stay updated on, don’t worry—we’ve got you covered. The easiest place to start is to make sure you’re properly classifying your employees. All employers must classify job roles for either exempt or non-exempt employees. Misclassifying employees can not only cause confusion for both you and your employees, but could also end up costing you a lot of money. At the highest level, non-exempt employees are paid an hourly rate and have variable schedules, while exempt employees are paid a set salary and work a typical “9-to-5” job. But the DOL has some highly specific rules that can make employee classification a real minefield.
+Most exempt employees are those who are paid an annual salary—not an hourly rate—and are not subject to overtime hours or time tracking. They generally work in office or non-manual work. Although most employers dictate in their employee handbooks that an exempt employee must work 40 hours per week, the DOL doesn’t mandate a minimum number. To qualify for exemption, employees must meet the following three tests:
+Note: Job titles do not dictate exempt status. For an exemption to apply, an employee’s specific job duties and salary must meet all the requirements of the DOL’s regulations. Check the DOL’s Fair Pay Fact Sheets for more detailed information about the specific duties that must be performed in order to meet the requirements of the white collar exemptions.
+Non-exempt employees are paid an hourly wage, rather than on a salaried basis, and those who work more than 40 hours per week are entitled to time and one-half of their regular rate of pay for each hour of overtime worked.
+The Fair Labor Standards Act (FLSA) mandates that most employees in the United States be paid at least the federal minimum wage for all hours worked and overtime pay for working more than 40 hours per week. However, the FLSA provides an exemption from both minimum wage and overtime pay for individuals who are employed as bona fide executive, administrative, professional, outside sales, certain highly compensated employees, and certain computer professional employees. The law also includes exemptions for specific types of workers in unique industries.
+In 2020 the Department of Labor (DOL) updated the new federal overtime provisions of the Fair Labor Standards Act (FLSA). The rules updates included:
+Use our calculator to calculate overtime pay for your employees.
+The EEO-1 report is a compliance survey that requires companies to collect employment data by ethnicity, gender, race, and job category and submit it to the EEOC by May 31 of each year (with notable exceptions for the past two years). The data provided by employers is used to analyze employment patterns and identify pay discrimination, which is why it’s critically important to ensure your workforce is appropriately classified as exempt or non-exempt employees.
+The EEOC announced an updated schedule for EEO-1 Component 1 2021 reporting, with a shorter filing period than in previous years. Here’s what you need to know: data collection opened on April 12, 2022, and the deadline to file was June 21, 2022. We’ll keep you posted on any further updates. If you need a refresher on how to file, check out this article.
+When it is time to report, properly classifying employees and accurately capturing their time is essential to meeting compliance requirements. Paycor’s Time and Attendance software offers employers multiple forms of time-entry (mobile, web, kiosk, clock) so employees can clock in and out from anywhere, anytime. And with mobile punching, employers can verify locations and set precise coordinates to ensure employees are punching in and out from the desired work location. With one location to track and monitor hours worked, employers have instant access to the data they need to accurately report Component 2 data on the EEO-1 survey.
+As many companies have learned the hard way, improperly classifying employees as exempt can lead to serious fines from the Department ofLabor. Don’t make the same mistake. Paycor’s Support Center gives our customers access to a knowledge base of HR tips, alerts, checklists, and templates to help reduce the risk of non-compliance. In addition, our all-new customer portal provides online case management and live chat functionality with Paycor advocates (not a chatbot).
+Reach out to us to learn more.
+Paycor is not a legal, tax, benefit, accounting or investment advisor. All communication from Paycor should be confirmed by your company’s legal, tax, benefit, accounting or investment advisor before making any decisions.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

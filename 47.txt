@@ -1,0 +1,60 @@
+How to Manage Payroll Accurately
+
+If you're unsure on how to manage payroll, look no further. We've got everything you need to know on forms, withholdings, direct deposit and more, right here.
+
+Workforce Management
+Last Updated:  December 20, 2019 | Read Time: 9 min
+If you’re running a small business and you’ve just hired your first employees, congratulations! Maybe you were a freelancer or self-employed, and your business has grown to the point where you need help. Hiring employees is a big step for any company, and it comes with a lot of responsibilities. One of the main obligations you now have as an employer is making sure your employees get paid. Sounds easy, right? You just write a check and that’s it! Well, yes, but there’s a lot more that goes into the process than that.
+When you decide to hire people to help run your business, you need to apply for an Employer Identification Number (EIN) with the IRS. This unique number is assigned to every employer for the purpose of filing federal employer taxes and forms. State and local tax agencies require a separate registration, and may assign an ID number that is different from the federal EIN. You also need to determine whether your new employees qualify as exempt or nonexempt based on requirements put forth in the Fair Labor Standards Act (FLSA).
+Additionally, when employees are hired, you’re required to gather certain legal forms, including:
+Take Note: If you’re planning to pay by direct deposit rather than paper paychecks or paycards, you’ll also need to collect employees’ bank routing and account numbers.
+Running a business requires compliance with many governmental regulations, and a new employer must be diligent in researching federal, state and local mandates. For example, employers must withhold and remit payroll taxes to the appropriate government agency in a timely fashion.
+The Federal Insurance Contributions Act (FICA) requires you to withhold taxes from each employee’s paycheck for paying in to the Social Security and Medicare programs. You’re also required to pay a portion of the taxes. . You also must pay a portion of the taxes. The withholding rates for both the employer and employee are 6.2% for Social Security and 1.45% for Medicare. This is a very simplistic explanation of these taxes, but there are nuances you should make yourself aware of, especially if your employees accept tips. IRS Publication 15, (Circular E), Employer’s Tax Guide, provides detailed information on this subject.
+Federal income tax is paid to the Internal Revenue Service under your federal employer identification number. The amount of withholding is influenced by a variety of factors. Some of the factors are determined by the employee’s Form W-4, such as marital status and exemptions. Other common items that have an impact on federal withholding include pre-tax deductions, pay frequency, and taxable earnings.
+As every state and locality has different laws, it’s important to do your homework to determine whether withholding applies, and if so, how much.
+These are taxes that you, as the employer, are solely responsible for; you do not deduct anything from your employees’ pay. This list is not all-inclusive, but depending on the type of employer you are, you will likely be responsible for:
+Federal Unemployment Tax Act (FUTA)
+State Unemployment Tax (SUTA) (applicable in all states)
+State Disability (not applicable in every state)
+Workers’ Compensation
+
+When you deduct taxes from your employee’s pay, you must pay Uncle Sam and his kids, the states. Some taxes are deposited monthly or semi-weekly, and some are deposited quarterly, so it’s important that you schedule these very important dates on your payroll calendar, or you could end up facing some hefty fines.
+You are required to deposit withheld federal income taxes, social security taxes, and Medicare taxes through the U.S. Department of Treasury’s Electronic Federal Tax Payment System (EFTPS). Deposits are not determined by your payroll schedule. These taxes are deposited on a monthly or semi-weekly basis. You will also use Form 941, Employer’s Quarterly Federal Tax Return, to report your employees’ federal income tax withheld, as well as Social Security, Medicare, sick pay, and unemployment benefits. The IRS uses Form 941 to reconcile your tax liability with your payments.
+The FUTA deposit is made in the quarter during which the total tax due exceeds $500. It’s due by the end of the month following the end of that quarter. Since the FUTA tax isn’t withheld from your employees’ wages, all you’re required to do is file Form 940, Employer’s Annual Federal Unemployment Tax Return.
+State income tax deposits are sometimes made at a different frequency than the federal, and they are always paid to a state tax agency rather than the IRS. State unemployment taxes are typically made to a separate state agency as well (such as a state department of labor) and will have their own filing requirements. Localities with income taxes will add another layer of filing requirements if your business is in one.
+Depositing your federal and state taxes in a timely manner is absolutely crucial to the health of your business. If you’re late making your deposit, the IRS imposes a penalty of 2% on deposits made one (yes, one) to five days late, while a 10% rate is levied on those who are 16 or more days late. The fines can quickly add up.
+Depending on the benefits your company offers, you may take out voluntary deductions from your employees’ paychecks. These payments cover items such as health and welfare benefits; life insurance; short- and long-term disability insurance; retirement plans, such as a 401(k); and flexible spending plans for health or childcare. To further complicate matters, some of these deductions, such as flexible spending plans, are taken out pre-tax, meaning you subtract the money from your employees’ gross wages prior to calculating taxes.
+You might also find yourself deducting money for court ordered child support payments or wage garnishments.
+At the end of every year, you’re responsible for calculating the total amount of all taxes withheld from each employee during the year and providing them with the correct forms.
+By January 31 of the following year, you’re required to send your employees Form W-2, which details their total taxable wages. You send Copy A of the W-2 with Form W-3 to the Social Security Administration and Copy 1 to the state and local tax office indicated on the form.
+Form 1099-MISC is another form you might encounter if you hire independent contractors, freelancers, or other non-employees. If you pay a non-employee $600 or more during the year, you’re required to provide that person with a completed 1099-MISC by January 31 of the year following payment.
+While all of these forms can be filled out and payments made manually, with all of the required deadlines and potential for violations, it’s very risky. It’s important to your business that you get things right not only for compliance, but also to keep your employees happy. You should look for HR payroll software that can automatically perform all of these functions on time, every time – and that can grow as your company grows – is a smart business decision and definitely one to consider.
+If you’re looking for a reliable partner to help manage payroll, look no further than Paycor. Paycor got its’ start in the Midwest, learning to manage the complexities of the nation’s most challenging regulatory environment. For nearly 30 years, we’ve given our clients the right technology, the best support and the most valuable thought leadership, all with the sole focus of helping them achieve their vision. We’ve lead in the way in keeping SMB clients compliant, and it all starts with our payroll solution. Want to see how we can help support your business needs?
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,75 @@
+I-9 Compliance FAQs: Everything You Need to Know for 2023
+
+Avoid a massive liability by understanding how to keep your employees I-9 compliant. Understand the complexities, requirements, and how to correct common errors.
+
+Workforce Management
+Last Updated: December 20, 2022 | Read Time: 20 min
+Are you keeping up with I-9 compliance requirements? If not, your company could be sitting on a massive liability. In a recent Paycor webinar on Form I-9 compliance, HR = expert Becky Becker gave attendees great insights into the risks facing employers who don’t pay enough attention to their employment eligibility verification obligations. If you think this might mean you, don’t panic. Following are some of the most common Form I-9 errors and how to correct them. If you don’t have time to watch the full webinar, we’ve put together these I-9 FAQs leaders need to know now to ensure employees fill out the I-9 form correctly.
+The purpose of Form I-9 is to ensure employers are only hiring people who are legally allowed to work in the United States.
+I-9s were created by the passing of IRCA, the Immigration Reform and Control Act, which became law in 1986. This law created two primary obligations for employers:
+The current Form I-9, dated 10/21/2019, is available on the U.S. Citizenship and Immigration Services website. The latest form was made mandatory on May 1, 2020. Since its creation in 1986, new I-9 forms tend to be issued every several years. It’s important to note that, while the form says it expires October 31, 2022, it is still in use until further notice.
+The form should be used for all new hires and rehires. Existing employees should not complete a new Form I-9 as long as they have a valid I-9 already on file.
+In March 2020, the Department of Homeland Security relaxed its standards for in-person I-9 verification, due to COVID-19. Initially a short-term measure, this change has since been extended through the end of July 2023. 
+Here’s what the changes mean:
+Verifying remote employees has long been a struggle for employers and it’s only going to continue as more businesses switch to a remote-first workforce.
+Common workarounds include:
+Penalties for incorrect or missing I-9 forms can be imposed by ICE, the U.S. Immigration and Customs Enforcement agency. The penalties for I-9 violations have recently increased. The size of penalties depends on several factors including company size and number of violations. The range of possible penalties is regularly increased and now stands at:
+If employers try to trick ICE, or ignore credible warnings, they risk serious fines. Companies can also be punished for ‘subsequent offenses’ even if their prior punishment wasn’t in the recent past.
+Both the size of fines and the number of inspections have risen fast in previous years. In FY 2019, ICE delivered 6500 Notice of Inspections and reached $14.3 million in fines, penalties and forfeitures.
+The good news is, HR teams aren’t expected to be detectives. You don’t need to put every document under a blacklight. Employers must accept original I-9 documents that reasonably appear to be genuine and relate to the individual presenting the document. See more about I-9 compliance here.
+Section 1 of the I-9 must be completed by the employee on or before their first day of employment. (Paycor Onboarding enables employees to fill their details in online before their first day, to avoid any issues.)
+This section asks employees if they are a U.S. citizen and whether they are authorized to work in the country. An employee must fill in their:
+An employee must fill in their:
+Employers must ensure that employees sign their name and date the form. Any missing information could result in a violation. Telephone number and email address fields are optional.
+Frequently spotted errors in the first section of the I-9 include:
+Section 2 is the employer’s responsibility. It must be completed within 3 business days of a hire (i.e., if an employee starts on a Monday, Section 2 must be completed by Thursday). Pro tip: write the company name and ID on the top of every document, in case they get separated.
+Get familiar with the following lists of acceptable documents:
+Employers must:
+Frequent mistakes found in I-9 form Section 2 include:
+Section 3 is also the responsibility of the employer and relates to re-verification of expired documents. Usually, this section will be left blank. Re-verification is not required for permanent residence cards, green cards, passports or drivers licenses. If re-verification is required and an employer doesn’t do so, then they are knowingly employing an undocumented worker.
+Acceptable documents that need to be re-verified:
+If an employee reveals that they do not have authorization to work or they have provided false documentation, their employment must be terminated. However, if they prove that they now have the correct documentation and their status has been “regularized,” an employer can continue their employment, even if they originally provided false documentation. The employer should complete a fresh I-9 with the new documents and attach it to the old Form I-9 , with a signed and dated explanation.
+Beware: If your company has an honesty policy, it should be applied consistently. If you have previously terminated employees when shown evidence of a lie, you may be forced to do this same in this case. Any inconsistency could imply discrimination.
+Here are some major no-nos for employers:
+Errors on Forms I-9 should be corrected by whoever completed the form. So, Section 1 errors should be fixed by employees. Errors in Section 2 and Section 3 should be fixed by the employer and ideally the same person who received the documents and signed the certification. If that person no longer works for your company, it’s easiest to fill out a new I-9 (unless only a small change is required).
+When there are multiple errors, it’s best to complete a new form and attach it to the old copy. Attach a note explaining why the changes were made.
+Federal law doesn’t require companies to keep copies of supporting documentation, though several state laws list specific documents which should be copied and kept.
+Regardless of requirements, it’s always recommended to retain supporting documentation. Making copies and keeping them can help your case in the event of an ICE inspection. For instance, you may have forgotten to write down the expiration date of a driver’s license—keeping a copy of the license means this is only a technical, rather than substantive error, and you’d avoid a penalty.
+Keeping supporting documentation will also help facilitate any internal I-9 audits you conduct.
+When keeping documents, store them with I-9 itself, separate from personnel files. If you use E-Verify, you should also attach the Work Authorization document.
+Forms I-9 should be retained for all current employees. For former employees, they must be retained for 1 year from the date of termination or 3 years from the date of the original hire, whichever is later.
+After the retention period has expired you can purge these documents, but make sure to always get a second opinion, so you’re never put in the position of having to explain to ICE why you accidentally purged the documents they are asking for.
+As I-9 documents are kept on-site, rather than sent to the government, federal agents can only conduct an inspection in-person or by requiring that you send them evidence through certified mail. This means you’ll always be informed of any inspection and you’ll have at least 3 days to produce documents. In California and Oregon, employers are required to post notices for employees if there is an inspection.
+Internal audits are the best way to determine your liability and uncover errors. This way, you won’t need to worry about an ICE Notice of Inspection. How often you should complete an audit depends mostly on your company size. If you operate in an industry with high staff turnover, like restaurants or manufacturing, you’ll likely require more regular audits than most.
+Ideally, you’ll want to hire an immigration attorney or trained specialist to conduct your audit. If you keep the process in-house, make sure that the employee in charge of auditing your I-9 forms isn’t the same one who filled them out in the first place.
+Most companies will have a paragraph in their handbook about immigration compliance, but this just isn’t enough. Creating an official immigration compliance policy will help you act consistently and put you in the best possible position in the event of an unexpected Notice of Inspection from ICE.
+If you’re creating an immigration compliance policy, here are the questions you want to answer:
+Paycor is not a legal, tax, benefit, accounting or investment advisor. All communication from Paycor should be confirmed by your company’s legal, tax, benefit, accounting or investment advisor before making any decisions.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

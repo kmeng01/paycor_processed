@@ -1,0 +1,49 @@
+Could Your Candidate Pipeline Soon Be Illegal?
+
+Candidate pipelines help HR teams streamline recruitment. However new regulations are in place that could make them illegal. Find out more, here.
+
+Talent Management
+Last Updated:  March 5, 2020 | Read Time: 6 min
+That’s why, to streamline recruitment, many companies leverage ‘candidate pipelines’: the process of collecting and maintaining a pool of potential candidates. When a role becomes available, companies can inform (and hire) qualified candidates faster.
+Candidate pipelines—also known as talent or recruitment pipelines—usually include:
+Although there are so many benefits of candidate pipelines, could they soon be a threat to your compliance?
+Think about all the data your candidate pipeline houses:
+With new laws being put in place to protect personal data, it’s possible that your candidate pipeline could soon be illegal.
+The most important data privacy law to be aware of is the General Data Protection Regulation (GDPR), passed by the European Union in 2018. While GDPR only affects recruitment if a company is hiring employees who currently live in the EU, similar regulations are a hot topic in many American state legislatures—so it’s essential for HR leaders to be aware of what GDPR contains and how it could affect candidate pipelines.
+The GDPR strengthened and widened previous European data privacy laws, imposing big potential fines for non-compliance: up to 4% of global annual turnover or €20m ($21.7m), depending on which is higher. In 2019, Google was fined around $57 million for failing to disclose how it uses collected data.
+Essentially, GDPR limits the data companies can keep without permission, requires companies to inform users about data collection, regulates the use of data and restricts how long data can be kept before it must be deleted.
+
+If your company stores the data of candidates who are based in the European Union without their consent, then you are at risk of a big fine. However, it is possible to for candidate pipelines to comply with GDPR, if companies take certain measures:
+Since GDPR was enacted, US companies have feared similar legislation would soon be enacted at a state-level. And for good reason… In 2019, California and Nevada both passed post-GDPR privacy laws (with New York currently passing more data security laws with the potential of privacy laws being passed soon).
+The most prominent US-based data privacy legislation is the California Consumer Privacy Act (CCPA), applying to companies with at least $25m gross revenue offers similar protections to GDPR but with an emphasis on the right to know what data is used, rather than necessarily requiring consent.
+Though effective January 1, 2020, there is a one year moratorium on regulations relating to data stored solely for employment reasons. But that doesn’t mean recruiters are entirely in the clear—you’re still obliged to inform candidates of what data you collect and big fines are still possible in the case of data breaches.
+So, while candidate pipelines are not currently illegal, it’s important to stay up-to-date if you want to avoid blind-side penalties. Now’s the time to ensure that you have consent for any candidate data you currently store and that procedures for collecting consent are integrated into your current recruitment process.
+Paycor Recruiting offers streamlined applicant tracking services while preventing compliance headaches. Data protection features include enabling you to capture candidate consent, label candidates who do not wish to be contacted, and easily delete records whenever required. To view our product, take a self-guided tour.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

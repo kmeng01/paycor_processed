@@ -1,0 +1,166 @@
+When to Begin Tracking Employee Hours for ACA   Resource Center
+
+How are you planning to stay compliant with the Affordable Care Act? Here are some tips for tracking employee hours.
+
+Workforce Management
+Last Updated:  May 23, 2014 | Read Time: 7 min
+From the health care reform experts at Accelerated Benefits
+The Affordable Care Act (ACA) imposes a
+penalty on applicable large employers (ALEs) that do not offer health
+insurance coverage to substantially all full-time employees and
+dependents. Penalties also may be imposed if coverage is offered but is
+unaffordable or does not provide minimum value. The ACA’s employer
+penalty rules are often referred to as “employer shared responsibility”
+or “pay or play” rules.
+On February 12, 2014, the IRS published final regulations on the
+employer shared responsibility rules. These regulations finalize
+provisions in proposed regulations released January 2, 2013. The final
+regulations state:
+* ALEs that have fewer than 100 full-time employees (including
+full-time equivalents, or FTEs) generally will have an additional year,
+until 2016, to comply with the pay or play rules.
+* ALEs with 100 or more full-time employees (including FTEs) must
+comply with the pay or play rules starting in 2015.
+The pay or play rules will take effect for most ALEs beginning January
+1, 2015. To prepare for compliance, employers that intend to use the
+look-back measurement method for determining full-time status for 2015
+will need to begin tracking their employees’ hours of service in 2014
+to have corresponding stability periods for 2015.
+Identifying full-time employees
+A full-time employee is an employee who was employed on average at
+least 30 hours of service per week. The final rules treat 130 hours of
+service in a calendar month as the monthly equivalent of 30 hours of
+service per week.
+The final regulations provide two methods for determining full-time
+employee status—the monthly measurement method and the look-back
+measurement method. These methods provide minimum standards for
+identifying employees as full-time. Employers may decide to treat
+additional employees as eligible for coverage, or otherwise offer
+coverage more expansively than would be required to avoid a pay or play
+penalty.
+The monthly measurement method involves a month-to-month analysis in
+which full-time employees are identified based on their hours of service
+for each calendar month. This method is not based on averaging hours of
+service over a prior measurement period. This month-to-month measuring
+may cause practical difficulties for employers, particularly if there
+are employees with varying hours or employment schedules, and could
+result in employees moving in and out of employer coverage on a monthly
+basis.
+The look-back measurement method is an optional safe harbor method for
+determining full-time status that is intended to give employers
+flexible and workable options and greater predictability for determining
+full-time employee status. The look-back measurement method
+involves:
+* A measurement period for counting hours of service
+* A stability period when coverage may need to be provided,
+depending on an employee’s average hours of service during the
+measurement period
+* An administrative period that allows time for enrollment and
+disenrollment
+Employers that intend to use the look-back measurement method for
+determining full-time status for 2015 will need to begin their
+measurement periods in 2014 to have corresponding stability periods for
+2015. However, employers intending to adopt a 12-month measurement
+period (and, in turn, a 12-month stability period) will face time
+constraints in doing so.
+Consequently, as transition relief, the final regulations allow
+employers to use shorter measurement periods for stability periods
+starting in 2015 under the look-back measurement method. For 2015,
+employers can determine full-time status by reference to a transition
+measurement period in 2014 that meets the following requirements:
+* Is shorter than 12 consecutive months, but not less than six
+consecutive months long
+* Begins no later than July 1, 2014, and ends no earlier than 90 days
+before the first day of the first plan year beginning on or after
+January 1, 2015
+When to begin tracking employee hours
+An ALE that wants to use the look-back measurement method may need to
+start measuring hours of service as early as April 3, 2014. This date
+would apply if the employer wants to use a 12-month stability period
+beginning on January 1, 2015, and take advantage of the maximum 90-day
+administrative period. It can be helpful to work backward to determine
+the applicable dates.
+In this scenario…
+* The stability period would run for the entire 2015 calendar year to
+coincide with the plan year
+* A full 90-day administrative period would run from October 3, 2014,
+through December 31, 2014
+* The minimum permissible transition measurement period of six
+consecutive months would begin on April 3, 2014
+Employers may want to set up the measurement, administrative and
+stability periods to begin on the first day of the month for
+administrative ease. This can be accomplished by using a shorter
+administrative period. Employers would then not have to begin measuring
+hours of service so early. For example, an employer with a calendar
+year plan may use the following timelines:
+* A transition measurement period from May 1 through October 31, 2014
+(six months)
+* A 61-day administrative period (the months of November and December)
+ending on December 31, 2014
+* A full 12-month stability period from January 1 through December 31,
+2015
+However, all ALEs that want to take advantage of the shorter transition
+measurement period in 2014 must begin tracking employee hours no later
+than July 1, 2014. For a calendar year plan, this would allow for a
+six-month transition measurement period (running from July 1, 2014,
+through December 31, 2014), but no administrative period.
+In general, the ACA’s pay or play penalty goes into effect on January 1,
+2015, for both ALEs with calendar year plans and ALEs with non-calendar
+year plans. However, the final regulations include transition relief
+that provides ALEs that have non-calendar year plans with additional
+time to comply, if certain conditions are met.
+Thus, employers that have non-calendar year plans may have some
+additional time before they need to begin tracking employees’ hours of
+service. For example, an employer with a plan year beginning April 1
+that is using a 90-day administrative period may use a measurement
+period from July 1, 2014, through December 31, 2014 (six months),
+followed by an administrative period ending March 31, 2015.
+However, an employer with a plan year beginning July 1 may not use a
+six-month transition measurement period. Instead, the employer must
+use a measurement period that is longer than six months to comply with
+the requirement that the measurement period begin no later than July 1,
+2014, and end no earlier than 90 days before the stability period. For
+example, the employer may have a 10-month measurement period from June
+15, 2014, through April 14, 2015, followed by an administrative period
+from April 15, 2015, through June 30, 2015.
+Want to learn more about how the ACA could affect your organization?
+Get in touch with Paycor to learn how our solutions simplify ACA time tracking.
+Source: ZyWave, Inc.
+This content is intended for educational purposes only and should not
+be considered legal advice.
+
+Enter your email below to receive a weekly recap of the latest articles
+from Paycor’s Resource Center.
+
+
+MktoForms2.loadForm("//app-ab01.marketo.com", "003-JWW-697", 1796);
+Check your inbox
+for an email confirming your subscription. Enjoy!
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

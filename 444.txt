@@ -1,0 +1,52 @@
+2023 W-4 Changes: What HR Leaders Need to Know
+
+The W-4 form is an important part of the compliance landscape for employers. See what changes your HR and payroll team needs to be aware of in the 2023 W-4.
+
+Workforce Management
+Last Updated: January 1, 2023 | Read Time: 8 min
+In case you haven’t heard, the W-4, or Form W-4 has been updated for 2023. What does this mean for employers? Fortunately, not much has changed. And, the IRS is not requiring all employees to complete the revised form.
+Form W-4 is an important part of compliance landscape and completed whenever an employee starts a new job or modifies their tax withholding status.
+The federal income tax is a pay-as-you-go tax: you must pay the tax as you earn or receive income during the year. Employees use Form W-4 to let their employer know the amount to withhold and pay for federal income taxes on each paycheck. An employee’s elections on Form W-4 provide the employer with the factors needed to accurately calculate withholding. If an employee does not correctly fill out a W-4, too little tax may be withheld and result in the person owing tax to the IRS when they file their individual return, including potential penalties. If too much federal tax is withheld per paycheck, the individual will overpay the IRS and will receive a refund at the end of the tax year.
+For decades, the basis of federal income tax withholding from employees has been marital status and number of allowances. Employees and employers formerly used terminology such as “Married-3” or “Single-2.” But those designations have changed. In December 2017, Congress eliminated withholding allowances as the basis for federal income tax calculation. Today, the Form W-4 is aligned the employee’s withholding elections with the language in the federal tax code. Taxpayers whose income is under $400,000 (married filing jointly) or $200,000 (other filing statuses) must multiply the number of qualifying children under 17 by $2,000 and any other dependents by $500 and enter those dollar figures on the form.
+Not much. The IRS doesn’t require employers to update all existing employees to 2023 W-4 forms, and the same applied for 2022 and previous years. However, if an employee wanted to make any changes to their federal withholding elections in 2023, they’ll have to use the new form.
+If it’s been a while since an employee has completed a W-4, it’s important to note that the 2017 Tax Cuts and Jobs Act made some significant updates to the tax code, one of which was to nearly double the standard deduction (from $6,500 to $12,000 for single filers and from $13,000 to $24,000 for joint filers). The standard deductions have increased for as shown in the table below.
+The 2023 form continues the trend of the 2020 redesign which was intended to be easier for employees to fill out and to accurately tell their employers how much federal income tax they want withheld from their pay.
+Employees can elect to withhold federal income taxes for 2022 and 2023 based on marital status alone. To do this, the employee completes only Step 1 (Enter Personal Information) with their name, address, Social Security number and filing status, and Step 5 where they sign and date the form. The result should be less confusion and less time spent navigating the form. It is within optional steps 2, 3, and 4 on the redesigned Form W-4 where the significant changes begin.
+Married taxpayers or taxpayers who have dependents or more than one job may have to do a little more work. Step 2 asks the employee to specify whether they hold multiple jobs or have a spouse who is also employed.
+If the answer’s “yes,” they have to complete Step 2, and then fill out Steps 3 and 4 for just one of the jobs (for the most accurate calculation, the IRS says to use the highest paying job). The IRS helpfully provides a Tax Withholding Estimator calculator to guide employees through the process of estimating their withholdings.
+The calculator:
+To use the calculator for Step 2, some information from the employee’s pay stubs, and prior year tax return, needs to be gathered including: The total amount of wages expected to be paid for the year; the amount of any bonuses; total federal income tax withheld; amount of income tax withheld from the last paycheck.
+Step 3 is where the employee can claim dependent exemptions and deducts the $2,000 per-child tax credit out of their withholding ($500 for non-child dependents). And Step 4 is where employees can make additional adjustments, including having tax withheld for additional income (e.g., interest, dividends or retirement income) or calculate if they choose to itemize their deductions at tax time rather than using the standard deduction.
+We suggest reviewing the 2023 W-4 instructions from the IRS.
+Yes. However, Form W-4 has largely stayed the same since the overhaul in 2020. Changes made include revisions to amounts in Step 4(b).
+Employees use Form W-4 to let their employers know the amount they’d like withheld to pay for federal income taxes on each paycheck. An employee’s elections on Form W-4 provide the employer with the factors needed to accurately calculate withholding.
+It’s not necessary to fill out a new Form W-4 if your financial situation has remained the same. However, if you’ve married, divorced, had children, changed jobs, or added a job, it’s important to fill out a new form to ensure your withholding is correct.
+We’re proud to keep more than 29,000 organizations informed and compliant with federal and state laws and regulations. Since 1990, Paycor has maintained a core expertise in payroll and compliance. We established our compliance expertise in the Cincinnati tri-state area, one of the most complex tax jurisdictions in the country, which is why we’re able to handle payroll and tax complexities in a way our competitors can’t. If you’re a Paycor customer and still have unanswered questions, please contact your payroll specialist for more support.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

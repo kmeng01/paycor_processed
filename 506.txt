@@ -1,0 +1,45 @@
+2023 California Pay Data Reporting
+
+Since 2021, businesses with 100-plus employees—and at least one employee in California—must file pay data with the DFEH. Learn what employers need to know.
+
+Workforce Management
+Last Updated: May 16, 2022 | Read Time: 7 min
+For HR leaders, operating in the Golden State means dealing with notoriously complicated and ever-evolving labor laws such as mandatory pay data reporting. Under California Code Section 12999, private employers that have 100-plus employees—with at least one employee who works in the state of California—are mandated to report hours-worked and pay data by location, job category, and employee sex, race, and ethnicity to the California Department of Fair Employment and Housing (DFEH) on the first day of April each year.
+This legislation was passed in 2020 under California SB-973 because the government found that, despite significant progress made in California in recent years to strengthen California’s equal pay laws, the gender pay gap persists, resulting in billions of dollars in lost wages for women each year in California. Pay discrimination is not just a women’s issue, but also harms families and the state’s economy. In California, in 2016, women working full time, year-round made a median 88 cents to every dollar earned by men, and for women of color, that gap is far worse. Although there are legitimate and lawful reasons for paying some employees more than others, pay discrimination continues to exist, is often ‘hidden from sight,’ and can be the result of unconscious biases or historic inequities.”
+The legislature hoped that this law would encourage employers to self-assess any pay inequalities among the genders, races, and ethnicities of their employees and encourage voluntary compliance with anti-discrimination and equal pay laws.
+Employers that are required to file a federal annual Employer Report (EEO-1) must also report their pay data to the DFEH. The 100-employee-minimum threshold is calculated one of two ways:
+The Snapshot Period is a single pay period between October 1 and December 31 chosen by the employer each year. Employers must include all employees in their tally, including part-timers and remote workers, and those who are employed but on leave. Seasonal employers that may only have employees for a three-month timeframe (e.g., agriculture), but that are also required to file EEO-1, must file their pay data with DFEH as well.
+DFEH collects the following pay data information:
+Employers are required to send their pay data reports to DFEH on or before March 31 each year.
+Employers can submit their pay data through the California Pay Data Reporting Portal using one of three methods:
+Pro tips: It’s important to keep in mind that employers are required to use the portal to submit their reports; no email or hard copies are accepted.
+Employers with multiple establishments must report all their data in a single report—including facilities with fewer than 100 employees—but each facility’s data should be kept separate.
+Paycor creates Human Capital Management (HCM) software for leaders who want to make a difference. Our HCM platform modernizes every aspect of people management, from recruiting, onboarding, and paying associates, to developing and retaining them. But what really sets us apart is our focus on business leaders. For over 30 years, we’ve been listening to and partnering with leaders, so we know what they need: HR technology that saves time, powerful analytics that provide actionable insights and personalized support. That’s why more than 30,000 customers trust Paycor to help them solve problems and achieve their goals.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

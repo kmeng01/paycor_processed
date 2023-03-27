@@ -1,0 +1,46 @@
+What is a W-4 Form? Employee & Employer Responsibilities
+
+W-4 forms are essentially very basic tax returns filled out by employees. Find out deadlines and compliance information here.
+
+Workforce Management
+Last Updated:  January 23, 2020 | Read Time: 4 min
+W-4 forms are essentially very basic tax returns filled out by employees. Specifically, it tells employers the correct amount of tax to withhold from the employee’s paycheck. Need a W-4 Form? Download it here.
+The accuracy of an employee’s W-4 submission will determine the size of their tax refund (or bill) at the end of the year. The amount withheld should be as close as possible to their actual tax obligation—a big deficit can be an unwelcome surprise and may be accompanied by further penalties. Withholding more than necessary is considered by some employees as an easy way to save but, while refunds may seem like a nice treat, you are taking away the chance for employees to invest (or use) the money in the meantime.
+Employees are required to fill out a W-4 whenever they start a new job, or when they wish to change the amount their company withholds from their salary. This could be prompted by too much or too little tax being withheld the year before, or a change may be made necessary because of an altered family situation or when starting a second job.
+While W-4 forms can be submitted at any time, employers should remind their employees that if they want changes to take effect at the start of the following year, they should submit an updated W-4 form by December 1st.
+After receiving an employee’s W-4, employers must use the submission to calculate the exact amount of tax they will need to withhold for each pay period. They can do this using IRS withholding tables, either using the wage bracket method (for manual payroll systems) or the percentage method (for automated payroll systems). Employers have 30 days from receiving a W-4 to implement the changes into their payroll process. Keep in mind, the IRS may request to see a specific employee’s submission so be sure to file W-4 Forms in an accessible location.
+What should employers do if a worker doesn’t submit a W-4?
+If an employee doesn’t submit a W-4, employers must withhold at the standard rate that applies for single filers with no other adjustments.
+
+No, it’s fine for employers to keep calculating withholdings based on the previous form. However, it’s always a good idea for employees to think about their tax withholding regularly—it’s possible to do a “paycheck checkup” on the IRS’s online estimator.
+Is this the first time you’re hearing about the 2020 W-4 update? Check out this article to remain up-to-date.
+The W-4 dictates how much of employees’ wages should be withheld for taxes each pay period, while the W-2 reports how much employees earned in the previous year and how much was deducted. Importantly, while the W-4 is prepared by employees and given to employers, the W-2 is prepared by employers and given to employees. A W-4 can be submitted at any time, while W-2s are prepared annually, and submitted by employers on or by January 31, before employees submit their tax returns.
+A “lock-in” letter is an official order sent by the IRS to an employer instructing them to withhold tax from a specific employee at a determined rate. This is only deemed necessary when an employee has routinely requested too small an amount to be withheld. After a “lock-in” letter has been received, any further W-4 which the employee submits requesting a lower withholding amount will not be valid, until approved by the IRS.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

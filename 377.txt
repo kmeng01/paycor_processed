@@ -1,0 +1,56 @@
+Compliance Update: HDHP, OSHA, Paid Leave, I-9
+
+Paycor is monitoring key compliance topics during the COVID-19 emergency. Here is the latest information on HDHP, OSHA, Paid Leave and I-9 compliance.
+
+Workforce Management
+Last Updated:  April 8, 2020 | Read Time: 6 min
+At Paycor, we’re diligently keeping an eye on new or updated legislation that may be put into effect. We’ve gathered a few significant federal laws and regulations that directly relate to COVID-19 below.
+Changes: IRS Notice 2020-15 eliminates the potential administrative and financial barriers to testing and treatment of COVID-19. The notice states that all medical care services and item purchases associated with the testing and treatment of COVID-19 are to be disregarded in determining if a health plan is a High Deductible Health Plan (HDHP). It also allows HDHPs to approve health benefits related to COVID-19 before the patient reaches their deductible.
+Important: As this IRS notice is not a mandate, ask your HDHP plan administrator for guidance.
+No changes yet: OSHA doesn’t have specific rules that cover COVID-19; however, they do have general standards that are applicable for preventing on-the-job exposure to the virus.
+Existing laws: Personal Protective Equipment (PPE) standards, which cover using eye and face protection, gloves, gowns and appropriate respiratory masks. If respirators are required for worker protection, employers must apply a respiratory protection program that complies with the Respiratory Protection standard.
+The General Duty Clause of the Occupational Safety and Health (OSH) Act of 1970, which mandates that employers must provide each employee with “employment and a place of employment, which are free from recognized hazards that are causing or are likely to cause death or serious physical harm.”
+Important: OSHA’s recordkeeping requirements require that employers record work-related illnesses and injuries on their OSHA 300 log. The Coronavirus is a recordable illness if the employee contracts the virus on the job.
+State laws: 28 states have state-specific OSHA standards.
+If sick, stay home: Encourage workers who are sick to stay home. Do not require them to provide a doctor’s note, as per guidance from the CDC.
+Existing laws: Many states already have paid sick/paid family laws in place. See Paid Sick Leave Laws by state and Family Leave Laws by state. (Paycor will update this topic as more information from the states become available.)
+Expanded paid leave: The federal government passed a sweeping relief package, including updated paid leave on Wednesday, March 18. Effective April 2, employers with fewer than 500 employees must provide two weeks of emergency paid sick leave at regular pay rate to those affected by COVID-19. Refundable tax credits will be offered against employer Social Security Taxes, capped at $511 per day for sick leave paid to employees suffering from COVID-19, and $200 per day for employees caring for family members.
+FMLA: Currently, FMLA (see our explainer article here) provides up to 12 weeks of unpaid leave, guarantees job protection during the absence, and includes coverage for healthy people to take time off to care for a sick family member, applying to businesses with 50+ employers.
+Effective April 2, FMLA coverage is expanded to all companies with fewer than 500 employees (with exemptions for businesses with under 50 employees whose business viability would be jeopardized). Employees employed for at least 30 days now qualify for an addition 10 weeks of leave with at least 2/3 of “regular pay”.
+Form I-9 Review: Key Details
+On Friday March 20, 2020, the Department of Homeland Security (DHS) announced it would relax its standards for I-9 document verification amid the coronavirus outbreak.
+Employers with employees taking physical proximity precautions due to COVID-19 will not be required to review the employee’s identity and employment authorization documents in the employee’s physical presence. This provision only applies to employers and workplaces that are operating remotely. If there are employees physically present at a work location, no exceptions are being made at this time to review and verify documents in person.
+Remote Inspections
+Employers taking physical proximity precautions must inspect the physical documents remotely (over video link, fax, e-mail etc.) and obtain, inspect and retain copies of documents within 3 business days for the purpose of completing Section 2.
+Once normal operations resume, employees must report to their employer within 3 business days for in-person verification of their identity and employment authorization documents. Once this physical inspection takes place, the employer should enter the following under additional information (in Section 2 or Section 3 as appropriate): COVID-19, documents physically examined and the date the documents were physically reviewed.
+E-Verify Updates:
+The United States Citizenship and Immigration Services (USCIS) has implemented the following polices to help minimize the burden on both employers and employees during the COVID-19 pandemic:
+These sites have the most up-to-date information about COVID-19.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

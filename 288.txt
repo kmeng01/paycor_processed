@@ -1,0 +1,42 @@
+How To Create a BYOD (Bring Your Own Device) Policy
+
+Employers asking their workforce to use personal devices (phone, computer, tablet) should have a BYOD policy like this in place. Download it here.
+
+
+Last Updated: March 23, 2020 | Read Time: 8 min
+Many employees are working remotely so now you have to ask: should they take company equipment (laptops for example) home or should they use their own personal devices?
+If you have the option to give employees company equipment for home use—great, do it—just make sure you document the process and get everyone to sign on the dotted line.
+But for many companies, there’s just not enough “company equipment” to go around, in which case you’ll have to develop your own Bring You Own Device (BYOD) policy to establish best practices and expectations.
+There are advantages to BYOD. Employees can work with the devices they prefer and know well, and you may be able to cut costs and raise productivity. But there are risks, as you can probably guess—data security foremost among them. That’s where your BYOD policy can help. Your Bring Your Own Device policy can spell out the precautions and security protocols employees must take when using their home devices. And if things go wrong, you’ll want a plan in place.
+Any BYOD policy should be a collaboration between IT, HR and legal. If you’re short on time, it may be possible to simply expand current policies relating to things like acceptable internet use. Here are some other things to consider:
+Decide whether to allow employees to use any laptop, tablet or smartphone they happen to have, or limit the range of permitted devices.
+When an employee starts working from home, they may burn through their data plan faster than normal. They may need to upgrade software or increase their monthly data plan. If so, a company should consider offering a stipend to cover rising costs.
+What type of tech support (if any) can you offer for personal devices? If an error occurs, whose responsibility is it to fix it? And if a device breaks, will the company replace it? 
+If a personal device is to be used to store important work-related information, a company should specify the security requirements. This will likely involve strong passwords and multi-factor authentication. (Check out this free password generator—it’s amazing.) 
+Similarly, important data should only be transferred on safe connections and not public networks. A BYOD policy should be clear about the networks on which an employee is permitted to use their device. If possible, an employer can provide a unique VPN for employees. 
+Learn How To Protect Payroll Data
+It’s essential to specify what company data can be stored on a personal device. If a device is unencrypted, employees should know not to store any confidential corporate or credit card data. 
+Companies must decide whether an employee can share their device with their friends and family. If not, this should be specified in any BYOD policy. 
+Employees’ personal devices will likely contain applications that aren’t relevant to work. Access to some of these—like those used for social media—may be allowed only outside of work hours. However, companies may want to reserve to right to request the deletion of apps at risk of including malware. 
+Employees should be aware that the company has the right to access and audit any devices used for work, to ensure that the BYOD policy is being followed. 
+If a device containing sensitive data is stolen, employees should know how soon they need to report it, and be aware that to prevent risks, all data may have to be remotely wiped. It may be good practice to ensure that all company-related data is backed up on an official cloud account. 
+When an employee leaves the company, what will happen to their device? If the device has been used to handle company data, if may have to wiped or at least checked. It’s important that employees know this before using their personal devices for work matters. (For advice on one of the hardest things HR leaders have to do-lay people off—read this article.) 
+To hold employees accountable and ensure compliance, business leaders need employees to sign and acknowledge the policy. But If you have dozens of employees—or more—the manual process of gathering signatures and storing documents can be overwhelming.
+Paycor can help store important employee documents and forms—like the one in this article—as well as gather electronic signatures to eliminate manual burdens and mitigate risk. Learn More.
+You can easily edit the language as needed.Javascript is required to interact with this content.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

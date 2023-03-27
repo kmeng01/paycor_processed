@@ -1,0 +1,86 @@
+OSHA Emergency Temporary COVID Vaccine Mandate
+
+OSHA has finalized its emergency temporary standard, which strongly encourages vaccination of employees of large companies. Find out what you need to know. 
+
+Workforce Management
+Last Updated: January 13, 2022 | Read Time: 12 min
+January 13, 2022 Update: The Supreme Court ruled to block the proposed vaccine-or-test mandate for large employers (businesses with 100 employees or more). In a separate ruling, the court voted in favor of a vaccine mandate for workers employed at healthcare facilities that receive federal funding through Medicare and Medicaid. It’s estimated that this ruling could affect more than 17 million workers.
+For healthcare organizations and employers that choose to establish vaccination and testing requirements, Paycor is here tosupport you with an immunization tracker, expert HR advice and a comprehensive suite of products to help keep your business compliant. Contact our team or learn more here.
+The Occupational Safety and Health Administration (OSHA) has finalized its emergency temporary standard (ETS), which strongly encourages vaccination to protect unvaccinated employees of large employers (100 or more employees) from contracting COVID-19. Covered employers are required to create, apply and enforce a mandatory COVID-19 vaccination policy for all employees, or adopt a policy that requires employees to either get the vaccine or wear a face covering at work and submit to weekly COVID-19 testing. 
+Q: Who is covered by the OSHA ETS?
+A: Private employers in the U.S. with 100 or more employees are covered by the ETS. If your company doesn’t have more than 100 employees, it isn’t covered by the rule; however, if you cross the 100-employee threshold at any time, the ETS will be enforced and applies for the duration of the ETS regardless of whether the workforce drops below 100 employees at any time.
+There are two exceptions to the rule: Employers that are covered by the Safer Federal Workforce Task Force COVID-19 Workplace Safety: Guidance for Federal Contractors and Subcontractors and those that are in a healthcare setting covered by the requirements of 29 CFR 1910.502. Section 1910.502.
+Q: Are non-profits that have more than 100 employees covered by the ETS?
+A: Yes.
+Q: Who should we include in the more than 100 employee count?
+A: You must include all employees across all locations or worksites, regardless of vaccination status, part-time or full-time status, or where they perform their work (including remote employees).
+If you are an independently owned and operated franchise, only count the employees for that individual franchise, not the parent company.
+Q: Are independent contractors included in a business’s employee count?
+A: No.
+Q:  Are remote employees required to submit vaccination documentation or proof of a test?
+A: No, employees who never interact with other individuals indoors are exempt. This includes remote workers as well as those who work exclusively outdoors.
+Q: When is the regulation effective?
+A: The ETS is effective November 5, 2021.
+Q: When do we have to comply with the regulation provisions?
+A: All unvaccinated employees are required to wear masks beginning December 5. Weekly testing and results are required beginning January 4, 2022.
+Q: How does the ETS define “fully vaccinated”?
+A: Fully vaccinated means an employee has received either the single-dose Johnson & Johnson or the two-dose Pfizer or Moderna vaccine a minimum of two weeks prior. It also includes employees who have received any combination of two doses of the above vaccines.
+Partially vaccinated means someone has started the vaccination series but hasn’t completed it or two weeks haven’t passed from the second dose of the vaccination.
+Q: How often must an unvaccinated employee submit a test?
+A: If you haven’t already instituted a mandatory vaccination policy, your unvaccinated employees must submit to weekly testing (every 7 calendar days regardless of work schedule). You must receive documentation no later than the 7th day following the date of the employee’s last test.
+Employees who work remotely part of the time, must be tested within 7 days prior to returning to the workplace.
+Q: Who pays for testing?
+A: Your company isn’t required to pay for costs associated with testing although you may elect to do so.
+Q: What type of tests can be submitted for proof?
+A: Tests cannot be self-administered or self-read unless the test is observed by your authorized company representative or an authorized telehealth practitioner. Allowable tests include NAATs (processed in 1-2 days) and Antigen Tests (processed in 15-30 minutes).
+NOTE: Antibody tests DO NOT meet the definition of a COVID-19 test for the purposes of this ETS.
+Q: What happens if an employee tests positive?
+A: If an employee tests positive (whether vaccinated or not), they must isolate until they meet return-to-work criteria. Employees can be allowed to work in complete isolation or work remotely, if practical.
+An employee can return to work after a negative NAAT test (see What type of tests can be submitted for proof above) or after they follow CDC isolation guidance: 10 days since symptoms first appeared, 24 hours without a fever, and improvement of other COVID-19 symptoms. An employee can also return to work if recommended by a licensed healthcare provider.
+NOTE: Paid sick leave for an employee who tests positive is not a requirement of the ETS but it may be a requirement at the local or state level. Check your location’s guidelines.
+Q:  What employee data do we have to maintain under the ETS?
+A: You must keep a record of every employee’s vaccination status with acceptable proof of vaccination (see next question for what is considered acceptable proof). You must also keep a list of every employee’s vaccination status.
+If your company allows non-vaccinated employees to submit to weekly testing and masking, you must maintain a record of every test result provided.
+These records and the list are classified as employee medical records and must be kept for as long as the ETS in place. This data is also subject to applicable legal requirements for confidentiality of medical information.
+Q: What is acceptable proof of vaccination under the ETS?
+A: Acceptable proof is any one of the following:
+You can keep a digital copy of the proof (e.g., a scanned or photocopied image), as long as the information is legible.
+It is acceptable for you to have collected vaccination status information prior to the effective date of the ETS as long as you continue to maintain records of acceptable proof.
+Q: What is the ETS requirement for paid time off relating to COVID-19 vaccination?
+A: All covered employers must give employees up to four hours paid time off to receive each vaccine dose during working hours as well as reasonable time off for recovery from side effects following a dose. If an employee elects to receive a vaccine during non-work hours, you do not have to grant paid time off for the time they spent receiving the vaccine. NOTE: You cannot require the use of accrued sick leave or PTO for vaccines received during work hours.
+Any paid sick leave for recovery from vaccine side effects can be paid using accrued sick leave or PTO. NOTE: If an employee does not have leave available to cover side effects, you must still provide paid sick leave. While the ETS doesn’t recommend a cap for paid sick leave to recover from side effects, it does state the time off must be reasonable.
+Covered employers are included in the paid time off requirements whether implementing a mandatory employee vaccination policy or allowing negative testing and masking.
+Q: Are vaccination and health screening records and rosters subject to inspection by OSHA?
+A: Yes, if your company knowingly accepts falsified vaccine or screening information, you may be subject to penalties of up to $13,653 per serious violation, or up to $136,532 per willful or egregious violation.
+Q: Is proof of vaccination or a negative COVID test required before an employee can be hired?
+A: Unvaccinated new hires would need to be tested for COVID-19 within seven days prior to reporting to a workplace where other employees will be present and provide documentation of their test results no later than arrival on their first day of work.
+Q: What is Paycor doing to help?
+A: Paycor offers our customers an immunization and COVID-19 employee vaccination tracking tool to keep track of immunization records and tests. See our Immunization Tracking product page for more information.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

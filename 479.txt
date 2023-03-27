@@ -1,0 +1,49 @@
+8 Things to Look for in a Payroll Solution
+
+There's no one size fits all answer to payroll solutions. Learn what features and functionality you should consider for your organization.
+
+Workforce Management
+Last Updated: November 21, 2018 | Read Time: 7 min
+According to Benjamin Franklin, “…in this world nothing can be said to be certain, except death and taxes.” We don’t think that Ben would mind that we took some liberties and added another certainty: “…in this world nothing can be said to be certain, except death, taxes and payroll.” Regardless of the type of business, people need to be paid and someone needs to do the heavy lifting. Depending on the size of your business and how much work you want to take on, that “someone” can be you, your bookkeeper or CPA, your payroll department or an outsourced payroll provider.
+Processing payroll and properly filing taxes to federal, state and sometimes local government entities can be a risky proposition. One small misstep could result in significant penalties. That’s why the majority of small to midsized businesses opt to partner with an expert rather than going it alone. But, not all technology is the right fit for every business; there’s no one-size-fits-all answer. Some providers sell off-the-shelf solutions without understanding the needs of your organization and then disappear, which is unfortunate. A payroll system should be configurable enough to work the way you need it to. And, your payroll provider should be by your side from the initial pre-purchase discussions through implementation and beyond to solid customer service when you need it.
+If you’re just beginning your search for a new payroll software program, check out these eight things to keep an eye on to help ensure you get the right system for your company.
+The payroll service provider you select should give you confidence from day one by providing every detail of your potential implementation process. A payroll provider can’t manage the entire implementation process; they require company data to build out the system. Items such as department names, deductions, job classifications, and employee information like home addresses and Social Security numbers. It’s important to ask for references from the provider’s other customers that are similar to your business, so you can assess how their implementation processes went.
+Every product and service should be built with the customer in mind, including your payroll solution. With the prevalence of smart phones, having the ability to access information and take action 24/7/365 – for both managers and employees – is important. The solution should be easy to navigate and intuitive for everyone, not difficult to use and packed full of “features” you’ll never need. And, the functionality should be integrated without third-party bolt-ons for important tasks such as creating reports. Which brings us to our next point.
+Your payroll, HR and time systems should “talk” to each other, enabling you to manage employee data across systems without resorting to time-consuming duplicate entry. Look for a provider that offers a single platform to deliver this kind of integration. When your systems are integrated, you don’t have to reconfigure everything every time your business changes or a third-party module requires a major update.
+
+A new payroll solution shouldn’t just be easy for your payroll team or managers to use, you should also consider the needs and aptitudes of your employees. Not everyone will be a “power user;” in fact, the majority won’t be. You’re considering implementing payroll and HR solution for a reason: to automate some of the daily tasks you perform, saving time and money. Employees should be able to easily navigate the system to access PTO balances, schedules and pay stubs on their own. For example, back to that 24/7/365 access: If an employee is buying a car on Saturday, they should have immediate access to the financial information they need, rather than waiting until Monday to ask their manager.
+Maintaining compliance when it comes to federal, state and local taxes can be time-consuming, but it’s an important component of payroll processing. Filing payroll taxes on time and accurately processing W4s, W2s and 1099s reduces your company’s exposure to risk and can insulate you from costly fines and penalties. The payroll solution you choose should make tax filing and reporting to government agencies a snap. If you rely on in-house payroll, and don’t have someone purely focused on compliance, it can be challenging to stay on top of laws and regulations, as they are a continual moving target. Ideally, the payroll and tax solution you select will file these critical reports to all government agencies for you, increasing your peace of mind when it comes to tax compliance.
+Your new payroll system should quickly and easily generate the reports you need when you need them. For example, if the CFO wants to assess your company’s total labor costs broken down by location, you should have that information at your fingertips. What about calculating employee overtime to decide whether you need to adjust that week’s schedules? Consider choosing a provider that stores data in the cloud, not only to make access to reporting simple and quick, but also to save space on your company servers.
+While it’s, of course, important to ensure you’re compliant with tax laws, businesses have a lot of other laws and regulations that they need to stay in compliance with. Running afoul of regulations mandated by the Equal Employment Opportunity Commission (EEOC), Fair Labor Standards Act (FLSA), and Department of Labor, can get you in hot water. For example, you want to ensure you’re complying with minimum wage laws, and also making sure your employees are correctly classified. If your organization is ever audited by any of these agencies, you should have immediate access to all of the pertinent information.
+
+Employers collect a lot of sensitive information about their employees that, in the wrong hands, could result in devastating financial situations such as identity theft. Payroll databases can be a prime target for hackers. They contain the very information hackers find valuable, including: Social Security and bank account numbers, check stubs with address information, and family data. That’s why making sure that your systems are as secure as possible is so important. Make sure the company has security measures in place such as multi-factor authentication, a dedicated risk assessment team, data encryption, and company-issued laptops.
+While the previous eight items are very important when searching for a payroll solution, that’s just part of the picture. You also need the expertise of a provider who can not only help you find the right solution for your business, but also be there for you when you have questions or need help. The customer service a provider offers is a strong differentiator for providers. It’s important to ask a few questions of any contenders for your business: Does my company have a dedicated service representative? Can I talk to someone immediately, or do I have to submit a service ticket and wait until the company gets back to you?
+More than 30,000 organizations trust Paycor as their payroll and HR partner. We offer much more than just technology, we offer expertise at every stage of the buying and implementation process. Contact us to set up a meeting and see how our solutions can support your business, or take a guided tour of our products to find the best fit for your company.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

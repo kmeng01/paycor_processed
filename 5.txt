@@ -1,0 +1,45 @@
+How to Pay 1099 Employees
+
+Independent contractors, aka 1099 workers, are more prominent than ever. Find out how to pay these workers to be compliant with regulations.
+
+Workforce Management
+Last Updated: January 16, 2020 | Read Time: 5 min
+As the gig economy grows more employers are looking to hire independent contractors (aka 1099 workers). But since paying independent contractors isn’t a walk in the park, many employers are looking for step-by-step instructions. Here’s a breakdown of everything you need to know:
+This subject is something you will need to discuss in detail with the person you’re hiring for the job. Often, they will have a written contract that stipulates how and when they should be paid. The two most common methods of payment are hourly and by the job or project. Some independent contractors — such as attorneys — prefer to be paid on retainer, which means you pay them a lump sum at the beginning of each month in return for a certain number of allotted hours of work.
+When you first engage with a 1099 worker, you’ll also need to consider some additional payment agreements, such as:
+These payment terms are just as important as the payment amount, and they should be decided before the person begins work.
+The short answer: Not your company. That’s the clear distinction between a contractor and an employee of your company that we mentioned at the beginning of this article. If your company is submitting payroll tax payments to the IRS and state and local governments, that person must be classified as an employee. A freelance worker, on the other hand, is responsible for paying all of their federal and state and local taxes as well as Social Security and Medicare (FICA) taxes. Since they are self-employed, they’re also required to pay both their portion and the employer’s portion of those FICA taxes.
+
+The IRS’s Form 1099 (more formally known as Form 1099-MISC) is used by businesses that have work performed by freelance or contract staff. People who hire workers such as housekeepers, accountants or attorneys — and pay them $600 or more per year — are also supposed to send them a Form 1099 and file the form with the IRS.
+In a nutshell, employee compensation is tallied on a Form W-2 and contractor compensation is calculated on a Form 1099. The W-2 also shows how much federal income tax as well as state and local taxes were withheld. Form 1099 doesn’t show withheld taxes because the contractor is responsible for paying those. And that’s where the confusion over whether a person is an employee or independent contractor can set in. We’ll get to that in a minute, but let’s cover the basics before we dive any deeper.
+First things first. Before you can complete a 1099, there’s another form you need to be concerned with if you work with freelancers or other contract labor: That would be Form W-9, Request for Taxpayer Identification Number (TIN) and Certification. The W-9 is the document the contractor provides to your company when they first start working with you. It’s also what you use to report how much you pay them to the IRS.
+The W-9 contains the contractor’s business name and address, a taxpayer identification number (either Social Security number or employer identification number [EIN]), tax classification, and their signature. A Social Security number is used if the independent contractor is a sole proprietor of their business, for example a freelance graphic designer who has no employees. The EIN is used by businesses that have employees, such as a janitorial service you contract with. If the contractor doesn’t give you a TIN or provides one that’s incorrect, you can withhold 24% of their pay (i.e., backup withholding) and send it to the IRS.
+More than 30,000 medium-sized and small businesses trust Paycor to help them manage their most valuable asset—their people. Paycor is known for delivering modern, intuitive reporting, HR and payroll software, but what distinguishes us is our singular focus on helping business leaders, entrepreneurs and HR professionals make a real difference in their organizations. Take a product tour today to see how we can help you make an immediate, positive impact.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

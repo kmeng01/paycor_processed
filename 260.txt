@@ -1,0 +1,62 @@
+4 Common Payroll Mistakes and How to Fix Them
+
+Managing overtime pay, pay equity, workers’ comp, and payroll taxes is tricky business. Read up on the most common payroll mistakes you could be making.
+
+Workforce Management
+Last Updated: August 30, 2022 | Read Time: 21 min
+From FLSA, EPA, Workers Comp and more, there are lots of federal laws to keep track of to ensure payroll is compliant. State and local taxes only add complexity. That’s why HR and business owners need to have processes in place to consistently apply pay policies, accurately calculate overtime and streamline leave policies. This is often streamlined with payroll services or payroll software, but if you don’t have the proper controls in place and your company is audited or sued, it can be difficult to provide accurate records and audit trails. The good news is that there are payroll resources that can help, starting with this list of common payroll errors to watch out for. 
+The FLSA, the federal law that mandates a minimum wage and overtime pay, only applies to employees and not contractors, which is an important distinction.
+If an employer misclassifies workers as FLSA exempt, it’s likely by accident. Regardless of intent, if overtime wages aren’t paid employers may be in danger of lawsuits and penalties.
+Employers are working with independent contractors and interns more than ever. But as you may know, gig workers aren’t entitled to benefits such as overtime pay and minimum wage. If your employers aren’t properly classified, they could miss out on benefits, and that could put your organization in hot water.
+Classifying employees and independent contractors is a distinction made by the IRS, which reviews at the business relationship your company has with a worker to determine whether they’re an employee or not.
+For an official determination you’ll need to file Form SS-8 with the IRS.
+The EPA seems straightforward: women and men in the same workplace must receive equal pay for equal work. To qualify for equal pay, the jobs don’t have to be exactly the same, but they do have to be significantly similar.
+Salary isn’t the only form of compensation covered by the EPA. Overtime, benefits, vacation pay, travel reimbursements and bonuses are all protected. Keep in mind, if the EPA determines there’s a wage inequality, you can’t reduce the wages of either party to equalize pay.
+The top 3 states with the most sex discrimination cases were Alabama, Mississippi and Louisiana. A total of 1,860 people have been assisted by the EPA. In the past five years, the EEOC has recovered $65.3 million for individuals filing EPA charges. 
+Source: https://www.eeoc.gov/continuing-impact-pay-discrimination-united-states
+Title VII of the Civil Rights Act of 1964 and the Equal Pay Act of 1963 prohibited pay discrimination based on gender. But today, 42 states have gone above and beyond the federal law to safeguard women in the workforce.
+While Massachusetts, California and New York have pushed to protect equal pay, states like Florida, North Carolina and Alabama have close to nothing on the books.
+Where does your state stand on pay equity? The answer may surprise you.
+If Phil Knight was here, he’d say, “just do it”. But often, discovering pay discrepancies isn’t that simple. With today’s HR & payroll technology, some providers offer pay equity dashboards, allowing you to easily identify pay discrepancies by individual, department, location and more.
+Let’s say you haven’t made the investment in technology and you’re not looking to any time soon. How can you identify problem areas on your own and equalize the pay?
+Workers’ compensation insurance provides lost wages, rehabilitations costs and medical expenses to employees that are injured or become sick at work. If a worker is killed on the job, workers’ compensation also pays death benefits to the related families.
+According to regulators, since employees agree not to file lawsuits but instead to receive payment for job-related injuries, workers’ compensation is considered an exclusive remedy.
+If an employer chooses to ignore workers’ compensation insurance, employees can file suits. But you should never take the risk. Unless regulators determine negligence is at play, insurance will keep you from being held personally liable for the accident. (And just to drive home the point: employers who choose to ignore workers’ comp will face stiff penalties and potential criminal charges.)
+The average Workers’ Compensation claim is $42,008. Source: Inquiry Facts.
+First things first, IIPPs aren’t a one-size-fits-all plan. Your program should be tailored to your industry and your business.
+Here’s 3 tips to get started on an IIPP:
+State and federal taxes include:
+Federal Unemployment TaxesThis is a tax based on the gross pay of employees, documented on Form 940. Payments can be made annually or quarterly.
+Federal and State Income TaxesForm 941 (Employer’s Quarterly Federal Tax Return) requires employers to report income and employment taxes withheld from their employees and deposit the funds to a bank, according to the Federal Tax Deposit Requirements.
+FICA TaxesOtherwise known as Social Security and Medicare taxes, these taxes are withheld from employee pay AND matched by employers. Depending on the size of your company, FICA taxes get paid once or twice a month. FICA taxes are reported quarterly on Form 941.
+It’s simple, if you fail to pay payroll taxes, you’ll be penalized. Specifically, you’ll be fined a percentage of your gross payroll deposit based on the number of days your deposit is late. 
+*Wages of more than $200,000 earned in 2022 will be taxed an additional 0.9%
+Technology alone isn’t enough. You need technology plus expertise to keep your payroll processes compliant. And you need ongoing support, not impersonal, 1-800 number call centers. To succeed, you need a dedicated team of payroll and tax experts that not only understands HR software, but are intimately familiar with your business. Are your ears perking up? Click here to learn more.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

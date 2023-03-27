@@ -1,0 +1,81 @@
+How To Calculate Overtime Pay for Hourly, Salary, and Tipped Employees
+
+Overtime pay can be a complex issue. Let’s dive into some key factors to remember when calculating overtime pay for your eligible employees.
+
+Workforce Management
+Last Updated: December 20, 2022 | Read Time: 12 min
+Overtime pay can be a complex issue, especially when you factor in the different state and federal overtime laws. The Department of Labor had overtime pay on its Spring 2022 agenda, and plans to release new details this fall.
+The contents of the meeting have not been released, but there are hopes that the DOL increases the salaried employees’ rate to Obama’s 2016 proposal of $47,476. Currently, it is $35,568. Stay tuned for updates through Paycor’s Department of Labor Solution.
+The Fair Labor Standard Act (FLSA) sets the current boundaries of who is eligible to receive overtime pay. The current law is as follows:
+Let’s dive into some key factors to remember when calculating overtime pay for your employees. Keeping in mind that these are only federal guidelines, your state may have different rules (and you’ll definitely want to check with your local labor laws before instituting any changes).
+In the workplace, you’re either considered an “exempt” or a “non-exempt” employee based on your specific job duties. Only non-exempt employees are eligible for overtime pay according to the FLSA. 
+Employers are required to pay at least the federal minimum wage ($7.25) for regular hours and any hours of overtime at a pay rate of one-and-a-half times the employee’s regular rate for any hours worked over 40 during a workweek. Keep in mind that states’ minimum wages may be greater than the federal minimum.
+The workweek is considered any 168 hours in seven consecutive 24-hour periods that can begin on any day and at any time. It’s not necessary that all employees of a company have the same workweek, but once a workweek is established by the employer, it’s best to remain consistent to avoid paying overtime.
+Some states also have rules about the number of hours one can work in a day. For example, if an employee works more than 8 hours in a day, then they are eligible for overtime pay for that day, even if they work only 40 hours to get their weekly salary. While the FSLA sets out its guidelines, the State rules must be adhered to.
+Be sure to review the regulations issued by your state’s department of labor.
+It’s important to keep an accurate record of the regular and overtime hours worked by employees in case of an audit by the Department of Labor or a lawsuit. 
+Any time an employee is “on duty,” that hour counts toward the 40 total hours allowed at regular pay. This includes if employees are required to be at a certain location to begin work or remain at the place of business to perform services.
+Some common examples of activities that generally aren’t included in the regular hours worked:
+Unless you have a policy that states employees aren’t allowed to work certain hours, all hours worked in excess of 40 hours per week must be paid time and a half.
+This includes any time worked beyond the normal 40-hour workweek, as well as any time worked on weekends or holidays. If you don’t have a policy in place specifying employees’ work hours, then all hours worked over 40 in a workweek must be paid at the overtime rate.
+Weighted average pay is the pay an employee receives based on the different hourly wages of each job they perform. This is done for an employee who handles many roles, but they all pay a different hourly rate. You take the average of the hourly pay of each job to get the rate of pay. Also, you calculate overtime based on the weighted overtime pay rate.
+An employee’s regular pay rate is based on the amount of calculated earnings divided by the number of hours worked. This includes a base rate and any additional compensation such as commission or non-discretionary bonuses. The chart below explains what is included in determining the regular wage.
+See the examples below for a better understanding of how to calculate overtime for both hourly employees and salaried non-exempt employees.
+The Paper Company paid Tom a production bonus of $200. He worked 48 hours this week and is paid a $9 hourly rate.
+Regular Earnings:
+48 (all hours worked) x $9 (the hourly rate) = $432
+$432 (regular earnings)
++200 bonus
+$632 total gross earnings
+Overtime Pay
+$632 ÷ 48 hours = regular rate of $13.17
+$13.17 x 0.5 = overtime pay of $6.59 per hour
+$6.59 x 8 hours = total overtime due of $52.72
+Tom’s total gross earnings: $632.00 + $52.72 = $684.72
+Sam is a call center employee who agreed to be paid on a weekly basis of $600. She works fluctuating hours every week. Under the FLSA, her agreement does not waive her right to overtime pay. Last week she worked 44 hours and was also awarded a commission of $50.
+Regular Earnings
+$600 regular earnings
++$50 commission
+$650 total gross earnings
+Overtime Pay
+$650 ÷ 44 hours = regular rate of $14.77
+$14.77 x 1.5 = overtime pay of $22.16 per hour
+$22.16 x 4 hours = total overtime due of $88.64
+Sam’s total gross earnings: $650 + $88.64 = $738.64
+Many employers assume that overtime is calculated the same for their tipped employees as everyone else, but it is much more complex.
+A tipped employee is anyone who generally makes $30 or more a month in tips (though some states have a lower cutoff). If you’re making payroll for a restaurant, this will likely include a big chunk of your staff.
+For a full rundown of requirements by state, read this list provided by the Department of Labor.
+For regular hours, tipped workers’ salaries will comprise of a basic cash wage plus any tips. If this combined amount does not reach the highest of all applicable federal, state or local minimum wages, then employers are responsible for making up the difference.
+In some areas, though, employers may be able to claim a tip credit against their minimum hourly wage obligation. Under DOL rules, a tip credit is determined by taking the federal hourly minimum wage rate ($7.25) minus the minimum cash wage for tipped employees ($2.13), which works out at $5.12 per hour. However, a tip credit cannot exceed the number of tips actually received by the employee. Employers should also be aware that the maximum tip credit differs by state.
+Confused? You’re not alone. Keeping track of all of this is impossible to do on paper, but with the right tools in place, you can be sure to stay compliant with federal and state laws.
+Keeping track of employee hours is vital for any business. Not only does this help you to track overtime pay, but it also helps you to see where your employees are spending their time.
+There is an easier way to calculate overtime pay!
+For additional help understanding overtime rules, check out Paycor’s Department of Labor solution page, which offers you peace of mind by providing everything you need in one place. Get access to Paycor’s overtime resources, including an overtime calculator.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

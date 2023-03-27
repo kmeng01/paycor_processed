@@ -1,0 +1,50 @@
+The California Compliance Challenge
+
+California offers businesses incredible opportunities—if it were a country, it would have the 5th largest economy in the world. But for HR leaders, operating in the Golden State means dealing [&hellip;]
+
+Workforce Management
+Last Updated: February 14, 2022 | Read Time: 9 min
+California offers businesses incredible opportunities—if it were a country, it would have the 5th largest economy in the world. But for HR leaders, operating in the Golden State means dealing with notoriously complicated and ever-evolving labor laws. Failing to meet labor standards means heavy fines and the risk of class actions, so finding a way to get (and stay) compliant isn’t optional.
+The good news is, Paycor offers HR leaders the technology and expertise to tackle these compliance challenges, whether at state, local or federal level. Our platform unifies time and attendance with payroll, which is important, since California labor laws cover everything from employee schedules to what’s written on paychecks. If you are just getting started with employing California citizens, we’ve provided a quick overview of the laws you should know.
+Paycor’s dedicated compliance team keeps our product and our customers up to date with the latest regulatory changes. Let’s walk through some of the most important labor laws you’ll need to be aware of if you’re operating in California and how our system can help you stay on the right side of the law.
+California isn’t the only state to require that employers provide pay stubs (or “itemized wage statement”) to employees, but failure to do so accurately and in full can cost employers. There’s a long list of information that pay stubs need to provide to comply with California labor law:
+Full-Page Pay Stubs 
+Paycor makes it easy to produce fully itemized wage statements which include all the relevant information required by California labor law and any industry-specific regulations. Rather than having to collect the data yourself, the process is automated, so you can always get your paychecks out on time and error-free and store all wage statements for your records.
+While businesses have to pay minimum wage wherever they operate, nowhere is staying compliant more complicated than California. If your business operates across different locations in the state, with employees switching between locations, they’ll be subject to different minimum wages on a daily basis. It’s important to note that the statewide minimum wage is higher for companies with more than 25 employees; many cities mandate higher minimum wages; and tipped workers must receive the full minimum wage from their employer.
+Minimum wage alerts help you keep track of all federal, local and state minimum wage laws. Paycor will alert you if an employee is ever set to receive a wage lower than the minimum for the location in which they are working. You can also receive notifications if an employee’s pay rate is ever set too low
+California legislates against the practice of over-scheduling. If an employee arrives for their scheduled shift only to be told they aren’t required, businesses are still required to pay employees a guaranteed number of hours. Specifically, an employer must pay half of scheduled shift, up to maximum of 4 hours. If a scheduled shift is less than 4 hours, employer must pay for 2 hours. This excludes events like power outages and natural disasters.
+Paycor Time can automatically generate hours if an employee doesn’t work.
+Employers can also use Paycor Scheduling to optimize labor allocation.
+If businesses fail to correctly calculate and pay overtime, they face big fines. It’s essential to be aware of the regulations and not let any overtime go unnoticed. When an employee has worked:
+In Paycor Time, employers can easily apply any required overtime rule. All overtime pay will be calculated and applied automatically. The system is also equipped to handle alternate week rules, like 9/80.
+Employees in California are entitled to a paid rest break of at least 10 minutes for every 4 hours worked and an unpaid meal break of at least 30 minutes every 5 hours. If employers fail to provide these, they must pay a penalty of 1 hour’s wages for every day a rest wasn’t provided or 1 hour’s wages for every day a meal break wasn’t provided.
+Paycor can help you set a meal and breaktime policy to comply with California laws. This tool can automatically allocate extra pay if a break is missed and avoid paying extra when excess breaks are taken.
+Paycor creates Human Capital Management (HCM) software for leaders who want to make a difference. Our HCM platform modernizes every aspect of people management, from recruiting, onboarding and paying associates, to developing and retaining them. But what really sets us apart is our focus on business leaders. For over 30 years, we’ve been listening to and partnering with leaders, so we know what they need: HR technology that saves time, powerful analytics that provide actionable insights and personalized support. That’s why more than 29,000 customers trust Paycor to help them solve problems and achieve their goals.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

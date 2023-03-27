@@ -1,0 +1,53 @@
+How to Ensure COBRA Administration Compliance
+
+As with most facets of HR, COBRA compliance is chock-full of rules and regulations. Learn what your company needs to do.
+
+Workforce Management
+Last Updated:  December 19, 2018 | Read Time: 7 min
+In 1986, Congress passed the groundbreaking Consolidated Omnibus Budget Reconciliation Act healthcare benefit. More commonly known as COBRA, the law revised the Employee Retirement Income Security Act (ERISA), Internal Revenue Code and the Public Health Service Act to provide employees with continuation of group health plan coverages that otherwise might be discontinued.
+COBRA includes requirements to qualifying former employees the right to a temporary continuation of healthcare coverage for them and their dependents at group rates. Coverage is only available under certain specific events. Group healthcare coverage for COBRA participants is usually significantly more expensive than healthcare coverage for active employees. This is due to the fact that employers typically pay a portion of the healthcare premium for active employees and COBRA participants are required to pay the full premium themselves. COBRA is attractive because it’s sometimes cheaper than buying individual healthcare coverage.
+If your company has 20 or more full- and part-time employees on more than 50% of business days in the previous calendar year, you’re required to provide COBRA coverage. Each part-time employee is counted as a fraction of an employee. The fraction is equal to the number of hours the part-time employee actually worked divided by the hours they must work to be considered a full-time employee.
+COBRA has specific criteria for group healthcare plans, qualified beneficiaries, and qualifying events:
+You’re required to include all employees (both full- and part-time) when determining whether your group healthcare plan must comply with COBRA.
+A qualified beneficiary under COBRA is different from a beneficiary of, for example, a life insurance policy. In this case, a beneficiary is a person who’s covered by your group healthcare plan on the day before a qualifying event occurs (see below); this includes the employee and their dependents. In certain cases, retirees and their dependents can also be qualified beneficiaries.
+Qualifying events are the drivers that result in an employee losing their health insurance. Which type of qualifying event determines the qualified beneficiaries, as well as the amount of time that a healthcare plan has to provide COBRA healthcare coverage to them.
+
+You’re required to provide your qualified beneficiaries with coverage that is identical to what’s available to current employees.
+Qualified beneficiaries are generally responsible for paying for their COBRA coverage. The premium can’t be in excess of 102% of your current employees’ plan costs (the value of coverage plus 2% for administrative fees).
+Beneficiaries have to make their first payment within 45 days after the they elect COBRA coverage. Subsequent premium payments are due on the date in the plan and have a 30-day grace period. Payment is considered to be made on the date it is sent, not the “received by” date.
+
+COBRA administration has four basic compliance components:
+Notifying employees of their COBRA rights. You’re required to provide a COBRA general notice to employees within 90 days of their becoming eligible for healthcare benefits. The best ways to provide notice are by sending a letter via first-class mail to the employee’s home and including the general notice in your benefits summary plan description (SPD).
+Providing a timely qualifying event notice of COBRA eligibility. When employees or their dependents become qualified beneficiaries through one of the qualifying events we listed above, you have to notify your benefits plan administrator within 30 days. The plan administrator is then required to send an election notice to the qualified beneficiary or within 14 days of receiving the qualifying event notice, letting them know that they’re now eligible to enroll in COBRA, outlining the terms and amount of their new premium payment, as well as the start and end dates of their coverage. If you don’t outsource your COBRA administration, you have 44 days to provide the election notice to the qualified beneficiaries.
+Collecting premiums, reinstating coverage and supplying appropriate notices if premiums are not received. If the qualified beneficiaries don’t elect COBRA coverage within 60 days of your sending the election notice, your work is done, and you don’t have any further obligations. 
+If COBRA coverage is elected within 60 days of your sending the election notice, you have to allow 45 days from the date of election for the qualified beneficiary to make their first premium payment. Once you receive it, you’re required to notify the health insurance carrier to make sure that the coverage is reinstated back to the initial end date so there’s no gap in coverage. If the beneficiary continues to pay premiums on a timely basis, you have no further obligation. However, if they stop paying, you have to allow a 30-day grace period to receive the premium. If nothing is received by the end of the 30-days, you can cancel coverage. When you do, you have to provide a written Notice of Termination of Coverage as soon as possible.
+Sending Ineligibility Notices. Current or former employees who aren’t eligible for COBRA continuation coverage but have requested coverage must be sent a Notice of Unavailability of Continuation Coverage, explaining the reasons why.
+As with most facets of HR, COBRA continuation coverage is chock-full of rules and regulations, as well as deadlines and paperwork. Failure to comply by not providing coverage or proper notification can result in substantial financial penalties. If you’d rather not go it alone, give us a call.  Our HR and benefits administration tools can help keep your business compliant with proper documentation and proactive alerts.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,47 @@
+How to set up payroll for SMB
+
+Paying employees is one of the core responsibilities of any company. Read on to learn what setting up payroll for SMB will look like if you go it alone or if you choose to use a payroll provider.
+
+Workforce Management
+Last Updated:  October 28, 2020 | Read Time: 5 min
+Paying employees is one of the core responsibilities of any company. But the idea of setting up payroll for the first time is enough to cause nightmares for many small business owners. It’s not just that it takes time—it’s that small errors can come at a big cost to your business and run the risk of big fines from the IRS.
+The decision any small business owner has to make is whether to set up payroll all by yourself or get help. You might wonder, is it really so complicated? Let’s take a look at what setting up payroll will look like if you go it alone or if you choose to use a Payroll provider.
+The reality is, doing it alone really is difficult—especially if you don’t have experience. The most challenging part is right at the start: you’ll first have to set up general ledger accounts to track your money and enable reliable bookkeeping. Next, you’ll have to choose your pay schedule, taking into account state law on pay periods. Employees love regular paychecks but the shorter the pay period the more work for employers who process payroll manually.
+Processing payroll requires many documents, starting with an Employer Identification Number (a “Taxpayer ID Number”), for which you’ll have to apply.
+Here’s a selection of other documents and data you’ll need to gather and (crucially) keep updated:
+The steps listed so far, though tricky, are mostly ‘set and forget’: they don’t have to be repeated. However, there’s a lot you’ll have to do every single pay period—starting with precisely tracking the time worked by all hourly workers as well as all Paid Time Off, overtime and sick leave. To stay FLSA compliant, you’ll also need to make sure you’re paying all workers the minimum wage at all times.
+If you’re processing payroll manually, it’s time to get the calculator out. To calculate an employee’s net pay, you first have to calculate their gross pay, before all deductions and withholdings—taxes (local, state and federal), medical insurance, retirement contributions and more.
+To make sure every detail is correct, you’ll want to run reports. If you’re taking the manual route this can be very time consuming, but it’s essential. You need to know exactly how much cash you have available, your total tax withholding and total tax liability.
+All payroll information—including employee wages, hours worked and overtime earned—must be tracked and stored for Department of Labor oversight.
+Finally, you’ll have to actually pay employees. You need to send direct deposits (at least 2 business days in advance of pay day), print and mail checks or, more rarely, distribute funds to payroll cards. You also need to make sure you pay all required taxes, on time and in full. In some states you will also need to give employees a physical pay stub.
+The biggest benefit of using a payroll provider is that the hardest steps—like setting up general ledger accounts, organizing your departmental structure and storing hoards of employee data—are done for you. Paycor streamlines the entire process so that every pay period you only need to confirm calculations are correct, rather than wasting hours on admin.
+Some of the key benefits include:
+
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

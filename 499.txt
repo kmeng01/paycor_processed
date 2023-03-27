@@ -1,0 +1,53 @@
+How to Calculate Imputed Income for Domestic Partner Benefits
+
+Imputed income is a tough topic to digest, but we tackle it here for you along with examples of how to make the calculations.
+
+Workforce Management
+Last Updated:  December 2, 2020 | Read Time: 4 min
+Providing benefits to employees’ domestic partners operates differently to provide benefits to legal spouses and dependents. Employers have to calculate the domestic partners ‘imputed income’. If you don’t know how to do that, don’t worry—we’ve prepared this guide explaining everything you need to know.
+If one of your employees gets married, their spouse is entitled to some tax-free benefits offered by your company; health insurance is the primary one. If, however, that same employee is in a domestic partnership, no such luck… with one exception. If the domestic partner can also be claimed as a tax dependent on the employee’s income taxes, they’re treated like a spouse. To qualify as a dependent, the domestic partner must live with the employee full-time, have gross income of $4,300 or less (for 2020), and receive more than half of their total financial support from the employee.
+If you determine that domestic partners don’t qualify as a dependent and they receive health benefits, the contribution you make toward any premium is counted as a type of employee income called imputed income. That can come as quite a shock to employees who might incorrectly believe that a legal domestic partner’s coverage is the same as a married couples.
+It’s important to highlight this detail in your open enrollment materials to eliminate any unwelcome surprises around domestic partner coverage when payday or year-end rolls around.
+Just like their regular pay, this imputed income is taxable income for the employee. You are responsible for calculating the estimated fair market value (FMV) of those health benefits so you can report the additional employee income to the IRS, pay your business’s share of FICA taxes and deduct that expense from your business income.
+Note: It’s not required that you withhold federal tax or state income tax. Most companies calculate this amount at the end of the year and report the value of the benefit as income on the employee’s W-2 for that tax year.
+Unfortunately, the IRS doesn’t offer clear guidance on this subject, so it’s left up to you to figure out. But don’t worry, we’ll give you a head start.
+One simple way to do the calculation is to determine the difference between your company’s cost of an employee-only monthly premium and the cost of an employee-plus-one monthly premium. Multiply that number by 12 and you will get your total.
+For example:
+Employee-only premium = $600
+Employer pays = $450
+Employee pays = $150
+Employee-plus-one premium = $1250
+Employer pays = $937.50
+Employee pays = $312.50
+$937.50 – $450 = $487.50/month
+$487.50 x 12 months = $5,850
+If all these calculations are making your head spin, we totally get it. When you partner with a provider who can manage payroll complexities like imputed income, wage garnishment and child support, you can offload the headaches, so you can focus on impacting your bottom line. Talk to Paycor and discover how we can help you remain compliant while giving you back time in your day.
+
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

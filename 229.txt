@@ -1,0 +1,57 @@
+What are W-3 Forms? FAQs and Helpful Tips for 2023
+
+Confused about W-3 tax forms, especially with the addition of Covid-19 tax credits? We've got the answers and visuals to the most commonly asked questions.
+
+Workforce Management
+Last Updated: February 6, 2023 | Read Time: 8 min
+As a trusted HR & payroll provider, Paycor gets hundreds of questions about tax forms, especially Form W-3 each year. To help HR professionals mitigate risk, our compliance experts answered the most frequently asked questions around Form W-3.
+The form usually doesn’t change much from year to year, but you’ll want to double-check for potential discrepancies related to Covid-19 tax credits. Additionally, this year, disaster tax relief is available to those affected by recent disasters. Remember, if you’re ever confused by payroll terminology, you can consult our payroll glossary.
+Technical answer: Form W-3 is used to total up all parts of Form W-2. Both forms are filed together and sent to Social Security Administration (SSA) every year. Form W-3 is also known as “Transmittal of Wage and Tax Statements.”
+What employers really need to know: As an employer, your responsibility is to review all W-2s for your workforce, summarize employee wages and tax information and then combine that data into one W-3 form.
+The difference between Form W-2 and Form W-3 is the person(s) who complete the forms. Employees are required to complete Form W-2 while employers are responsible for completing Form W-3.
+Employers must file both W-2 and W-3 forms with the Social Security Administration by January 31 of every year.
+Any employer required to file Form W-2 must also file Form W-3. Be sure to use the correct version. For example, use the 2022 version for reporting 2022 taxes, even though you may be working on the form in 2023.
+To remain compliant, you’ll need to mail or electronically file W-2 forms and Form W-3 with the SSA by January 31 of every year.
+Take a deep breath. Completing Form W-3 may not be as challenging as you think. Because this form asks for the same information as Form W-2, it’s more of a time suck than anything else. To help, we’ve provided Form W-3 instructions in this article
+However, since many employers still have questions about the individual sections of Form W-3, we’ve also broken down everything you need to know here:
+A control number is a unique number assigned by an employer to identify individual W-2 wage a tax statements. This section is optional.
+Most likely, if you’re a private business you’ll check “941 or 941-SS”. To be sure, ask your accounting department or legal team.
+Unless you’re a non-profit or government entity, select “None apply”.
+Enter the combined income and tax information from all the W-2s you’re including in this W-3 filing.
+W-2s and W-3s can be filed by mail or electronically. However, if you have 250 or more W-2 forms, you must electronically file both forms.
+To file W-2s electronically, you’ll need to register for the Social Security Administrations business services (BSO) online.
+When you complete that step, you have 2 options:
+If you decide to mail the forms, send them to the following address:
+Social Security Administration Direct Operations CenterWilkes-Barre, PA 18769-0001
+If you use “Certified Mail” to file, change the ZIP code to “18769-0002”. If you use an IRS-approved private delivery service, add “Attn: W-2 Process, 1150 E. Mountain Dr.” to the address and change the ZIP code to “18702-7997”. Go to IRS.gov/PDS for a list of IRS-approved private delivery services.
+Keep in mind, you can’t just print off a W-3 form from the IRS website and file it with the SSA. The form is printed with special red ink, so you’ll need to buy the official form from the same place you buy your W-2 forms. If you partner with an HR and payroll provider, they’ll complete the forms for you.
+If you’re a Paycor customer and still have unanswered questions, please contact your payroll specialist for more support.
+We’re proud to keep more than 30,000 organizations informed and compliant with federal and state laws and regulations. Since 1990, Paycor has maintained a core expertise in payroll and compliance. We established our compliance expertise in the Cincinnati tri-state area, one of the most complex tax jurisdictions in the country, which is why we’re able to handle payroll and tax complexities in a way our competitors can’t.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,47 @@
+4 Manufacturing Industry Trends in 2023
+
+We’ve outlined four new trends that are showing up in manufacturing this year.
+
+Employee Experience
+Last Updated: January 20, 2023 | Read Time: 7 min
+Every year there’s always new industry trends that make an impact in manufacturing and 2023 is no exception. Of course, safety and employee health remain top of mind. Most manufacturers have created environments that protect their workforce from COVID as best as possible, and policies are in place should someone test positive. But as pandemic-related policies become commonplace, we’ve outlined four trends that are showing up in manufacturing this year.
+Enterprise resource planning (ERP) systems help manufacturers manage facility operations and can include anything from payroll to production. It’s a centralized method that gives leaders insights into the business and helps create efficiencies throughout. Because ERPs can help reduce costs, automate processes, and provide real-time information, they’re in almost every manufacturing facility.
+COVID-19 however changed the way in which manufacturers use their ERP systems. In a recent survey, 60% of manufacturing leaders said that supply chain and logistics are their biggest operational challenges, and 57% said it’s difficult to access real-time data. However, to help improve future performance, 60% said they plan to rely on analytics and reporting. (Canam Research and CyberTech).
+Part of the problem is a lot of manufacturers have on-site systems that lack the agility a cloud-based ERP can provide. In this era of rapid change and constant disruptions, responsiveness is necessary to succeed. A cloud-based ERP can give manufacturers the real-time insights and analytics they need to make immediate decisions to keep production moving. Becoming cloud-based also allows them to layer in other applications, such as employee safety apps or back-to-work systems, in order to quickly meet their needs. Paycor’s HR, Payroll, and Benefits solutions integrates with several ERP partners, which you can review in the Paycor Marketplace.
+To say the job market has been a roller coaster since the pandemic is an understatement. In addition to the great resignation, there’s been layoffs and furloughs in almost every industry. And while you may not consider “job market instability” a trend, it’s unfortunately something manufacturers have to deal with this year.
+For manufacturing, the extent of staffing issues can vary depending on what product the company makes and sells. During COVID, those who produced non-essential goods reduced headcount and relied heavily on automation and optimization to control costs. But manufacturers who made essential goods had to increase headcount in order to ramp up production and satisfy demand.
+Now, as the world slowly returns to normal, manufacturers will continue to reevaluate their workforce based on product demands and a potential recession in 2023. For some, it remains a struggle to hire enough employees to maintain desired operations and they’ve had to think outside the box when it comes to recruiting and finding new talent which could include using Paycor’s applicant tracking tools to help develop a pipeline of skilled technical workers to fill critical roles. While others are working hard to implement creative retention strategies to hold on to their workforce. Either way, manufacturers will continue to keep a close eye on labor costs while making sure to meet customer demands.
+Nobody could’ve predicted the abrupt disruption that COVID brought to everything, especially the supply chain and manufacturing. In the future, ignorance won’t be a viable excuse for explaining any type of production stoppage. Whether it’s preventing supplier and maintenance issues or preparing for a large cohort of employees retiring, an increased emphasis on having that data is a bigger trend than ever before.
+In order to generate real-time insights during production, manufacturers can expect almost every surface to be transformed into a sensor for data collection. Using software (such as Paycor Analytics) to analyze their people data will also play a key role in forecasting labor costs and production time. The ability to collect data from multiple sources will give manufacturers a comprehensive understanding of their business which is an absolute must as they reevaluate planning models.
+For manufacturers, the more agile their business is, the better their company does. From working with suppliers to recruiting, hiring, and retaining employees, they need data that tells them what’s on the horizon and whether or not they need to pivot. A connected manufacturer will have the insights they need to lower costs and improve efficiencies.
+The manufacturing skills gap in the U.S. could result in 2.1 million unfilled jobs by 2030 (Deloitte and The Manufacturing Institute). As older workers begin retiring, the more traditional, apprenticeship training model may not be ready to facilitate the types of changes needed. Manufacturers will have to employ more efficient training methods such as virtual reality and mixed-model assembly to drive results and upskill employees.
+To become more resilient in 2023 many manufacturers are expanding their operations to include additional production lines. In mixed-model assembly, employees don’t stick with a single process, but instead learn multiple processes so that they can help build a variety of products. This flexibility enables manufacturers to diversify operations and supplement production based on staffing conditions and market demands. It can help manufacturers achieve greater product diversity, shorter lead-times, and significant cost reduction.
+It’s crucial for manufacturers to develop a business culture that encourages employees to develop a wide range of skills that will benefit both their own careers and the business. This amount of training can be a daunting task. Paycor’s Learning Management tool can be an invaluable asset to help you develop, manage and track the progress of your training programs.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

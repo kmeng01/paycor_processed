@@ -1,0 +1,137 @@
+Pros and Cons of DOL-Proposed Overtime Changes
+
+Paycor examines some pros and cons of the pending Department of Labor overtime rule changes to the Fair Labor Standards Act.
+
+Workforce Management
+Last Updated:  January 27, 2016 | Read Time: 7 min
+A change that’s been close to two years in the
+making—raising
+the Department of Labor (DOL)’s white collar overtime exemption
+threshold—is likely to be enacted soon.
+Update: On November 22, a U.S. District ruled in
+favor of an injunction blocking the final overtime rules from being
+implemented on December 1, 2016. At this time, we are awaiting more
+information on updates to the rule and the final implementation date.
+If you have implemented changes already, we recommend businesses not
+change any plans, pay structures, or policies that have been
+updated.
+Here’s a quick refresher on what that change means:
+* The Fair Labor Standards Act (FLSA) sets wage and overtime standards,
+including qualifications that exempt higher-salaried, professional, and
+managerial workers from overtime pay when they work more than 40 hours
+in a week.
+* The most notable and wide-reaching of these exemptions—the white
+collar salary level exemption—is subject to change, which would raise
+the minimum salary for exempt employees from $23,600 annually to $50,440
+annually.
+* The change is estimated to affect around 5 million American
+workers.
+At face value, raising the white collar exemption seems logical and
+beneficial, but there are potential ramifications that worry
+employers, especially small business owners. The DOL opened the proposed
+change to public comments over the summer, which quickly showed how much
+concern owners, executives, and payroll professionals have: the
+Department received over 250,000 individual pieces of feedback on the
+proposed rule.
+Let’s take a look at some of the pros and cons of this new legislation.
+An Old Rule Needs Updating
+On one hand, increasing the exemption salary level is broadly beneficial
+and even common sense. The initial white collar exemption level was set
+in 1975 and hasn’t been changed since. Forty years’ worth of inflation
+has put a $23,600 per year salary below the poverty line (the poverty
+line for a family of four was $24,008 in 2015) in today’s society,
+whereas it used to place someone in the upper 38 percent of workers in
+1975.
+Also falling under the “common sense” approach, one of the stipulations
+of the DOL’s proposed increase is for the white-collar exemption salary
+to be tethered to the poverty line, which will more easily facilitate
+future increases or alterations.
+Women and Minorities Could Benefit
+More than just updating the overtime threshold for modern standards, the
+DOL’s proposed rule means women and minorities in the workplace stand to
+receive a lot of the benefit from this change.
+The gender wage gap puts a lot of women in middle management firmly in
+the zone that would be covered by the salary exemption increase. On
+average in 2014, female managers earned $981 per week compared to the
+$1,346 weekly salary earned by men.
+The proposed rule also addresses the gap in median income experienced by
+black and Hispanic Americans. In 2013, white Americans reported a median
+income of $55,257 annually, significantly more than the $40,963
+average for Hispanic and black Americans’ median of $34,598.
+Could Promote Better Company Behavior
+The proposed change could serve as detriment to some larger companies,
+who may be cutting corners when it comes to paying employees for
+overtime.
+Could Be Rough for Small Businesses
+For small businesses with fewer employees and locations, overtime can be
+costly, especially when there may be just a few vital managers or
+workers whose occasionally heavy workweeks are both expected and
+necessary. This could either lead to tighter budgets for those
+businesses or unexpected layoffs of valuable employees no longer
+over the exemption threshold.
+Rural Businesses May Suffer
+Smaller companies based in rural areas have this issue uniquely
+compounded, as salaries in the $30,000 to $49,000 range can represent
+a comfortable income in small-town America. Having to pay overtime in
+those areas of the country can potentially cripple a business’ ability
+to operate and grow.
+Increased Litigation and Disputes
+Another fear applies to businesses of any size: an uptick in the
+already-increasing
+trend of lawsuits being filed over wages and hours. As these types
+of litigation often involve recently released employees and their former
+employers, more concerns abound for small to mid-sized businesses. Those
+who may choose to cull their workforce in order to help the bottom line
+and meet FLSA compliance regarding the new overtime rules could lose any
+financial savings to court costs and representation.
+As with just about any sort of economic edict of federal origin, there
+are a lot of intricacies involved in raising the white collar overtime
+exemption threshold. And, things may change again before the rule
+becomes final sometime this year. Keep abreast with updates and news in
+Paycor’s
+Resource
+Center and assess your company’s readiness for these changes with
+our
+7-Step
+Guide to compliance.
+
+This content is for educational purposes only and is not intended to
+serve as legal advice.
+Sources: U.S. Department of Labor, University of Wisconsin-Madison
+Institute for Poverty Research, U.S. Bureau of Labor Statistics, Wall
+Street Journal
+Enter your email below to receive a weekly recap of the latest articles
+from Paycor’s Resource Center.
+
+
+MktoForms2.loadForm("//app-ab01.marketo.com", "003-JWW-697", 1796);
+Check your inbox
+for an email confirming your subscription. Enjoy!
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

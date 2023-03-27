@@ -1,0 +1,59 @@
+COVID-19 ADA Requirements
+
+The health and safety of your employees is top priority. Read the ADA guidance on COVID-19.
+
+Benefits Administration
+Last Updated: January 13, 2022 | Read Time: 8 min
+January 13, 2022 Update: The Supreme Court ruled to block the proposed vaccine-or-test mandate for large employers (businesses with 100 employees or more). In a separate ruling, the court voted in favor of a vaccine mandate for workers employed at healthcare facilities that receive federal funding through Medicare and Medicaid. It’s estimated that this ruling could affect more than 17 million workers.
+
+
+For healthcare organizations and employers that choose to establish vaccination and testing requirements, Paycor is here to support you with an immunization tracker, expert HR advice and a comprehensive suite of products to help keep your business compliant. Contact our team or learn more here.
+
+
+The Americans with Disabilities Act (ADA) is a federal law that provides protection to disabled workers. The ADA prohibits employers from discriminating against employees on the basis of a physical or mental disability. This legislation applies to any business with at least 15 employees and prohibits discrimination against those with disabilities in all aspects of employment. How does the Coronavirus pandemic impact ADA compliance? Short answer, we don’t know yet.
+The ADA broadly prohibits discrimination in all aspects of the job, from hiring to firing and everything in between, like promotions, training, compensation and benefits. Businesses are required to remove barriers for people with disabilities by making “reasonable accommodations”—this can include altering work processes, providing special equipment or making changes to the workplace. However, businesses are not required to do this if it would significantly alter the job, lower production standards or cause “undue hardship” (though they must take requests seriously and seek alternative solutions.) The ADA limits what medical questions can be asked of job applicants or employees and what medical examinations can be required. It also mandates that all medical information must be kept confidential.
+Read our FAQ: How To Hire People With Disabilities
+COVID-19 is a new disease—literally a “novel” virus—and while the whole world is racing to learn more, much is still unclear, particularly about its long-term effects. The ADA defines disability as physical impairments that substantially limit major life activities (e.g. breathing). The ADA does not recognize impairments that are both transitory and minor. So where does COVID fit in? As of this writing, the EEOC is taking a “wait and see” position.
+The ADA protects employees and job applicants against disability discrimination, unless they pose a “direct threat” to the workplace. In the case of a pandemic, any potential sufferer does indeed pose such a threat, as they could spread the disease to others, and so it is legal for an employer to prohibit those who have tested positive (or are showing symptoms) from the workplace.
+That COVID-19 poses a “direct threat” does not mean, though, that the ADA does not apply. The EEOC has issued guidance on what employers can and can’t do in relation to workplace testing and other potentially contentious issues.
+The ADA normally places strict limits on medical testing and health-related questions in the workplace. However, the EEOC has confirmed that businesses can require employees to be tested and screened for symptoms, provided this is done evenly and without discrimination. It would not be permissible to test only those of a particular race or national origin.
+Employers can also ask employees whether they have been in close contact with anybody who has shown symptoms—however, these questions should be kept general. Employers should refrain from limiting this to specific questions about an employee’s family.
+It is also permitted to test and screen job applicants for symptoms but only after an employer has made a conditional offer of employment. If the applicant shows symptoms or tests positive, businesses may opt to delay the employee’s start date or withdraw the job offer. However, this doesn’t apply to those who are merely at high-risk.
+While testing for COVID-19 is allowed, businesses should be aware that especially when testing for symptoms like fever, not only are common testing methods often unreliable, but fever does not necessarily indicate that an employee has COVID-19, and the absence of fever doesn’t mean an employee is healthy.
+Importantly, the results of any medical-related tests and questions should be considered confidential medical information and stored separately from an employee’s personnel file. In states like California employers will also be subject to more rigorous data privacy legislation.
+If an employee tests positive you should let them know that you will follow ADA privacy rules and so will not reveal this information to their colleagues, unless instructed to. An employee can choose whether to allow their manager or supervisor know—otherwise any sick leave can be described as a non-disciplinary leave of absence.
+During the pandemic many businesses have moved to remote work to ensure the safety of everyone. As risks drop, businesses (though not all) will return to the workplace—but what about employees who are at greater risk? According to the EEOC, it’s reasonable for high-risk employees to request to continue (or begin) teleworking. However, this isn’t necessarily the only option for employers.
+Instead, what’s important for ADA compliance is that employers seek reasonable accommodation. An alternative could be proposed: an at-risk employee could be offered their own office space, isolated from others, or provided with an allowance to travel by taxi so they can avoid public transport.
+However, businesses are only required to offer these reasonable accommodations if employees are still able to carry out all essential functions of their position (even if their jobs were temporarily adjusted during the crisis to enable remote work).
+Important: an employer cannot unilaterally exclude high-risk employees from the workplace unless it can be shown that they cause a ‘a significant risk of substantial harm to the health or safety of the individual or others’ and this risk cannot be eliminated by reasonable accommodation.
+Many businesses will want to know whether employees have travelled, or plan to travel, to high risk areas. Outside of a pandemic, this could fall foul of ADA restrictions. However, as the pandemic poses a “direct threat”, it is permitted for employers to ask employees where they have travelled to and follow CDC and local health authority guidance on whether the employee can return to the workplace.
+Paycor is not a legal advisor. All communication from Paycor should be confirmed by your company’s legal advisors before making any decisions. For more information, consult EEOC guidance.
+Paycor builds HR software for leaders of medium & small business. For 30 years, we’ve been listening to and partnering with leaders, so we know what they need: HCM technology that saves time, powerful analytics and expert HR advice to help them solve problems and achieve their goals. Take a self-guided tour of our software and see for yourself.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

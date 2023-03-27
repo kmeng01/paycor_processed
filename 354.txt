@@ -1,0 +1,54 @@
+Payroll Tax 101 - How to Calculate Payroll
+
+Get an education on what payroll taxes are, 2020 rates, how to calculate the payroll tax and more. Find out where the money goes!
+
+Workforce Management
+Last Updated:  December 10, 2019 | Read Time: 9 min
+Everyone in the United States who receives a paycheck, irrespective of what their job may be, is required by federal law to contribute to payroll taxes. Certain amounts of these taxes are the responsibility of the employee, and others are paid by the employer. In this post, we’ll delve into what payroll taxes are, what the rates are for 2019, changes for 2020, how to calculate payroll taxes, where the money goes, and who pays what.
+Simply put, payroll taxes are an amount of money that is paid to the Internal Revenue Service (IRS) – and to states and local entities that collect income tax – based on the wages of employees. The taxes are deducted from employee paychecks and are used to finance two government-run programs: Social Security and Medicare. These social insurance taxes make up 24.2% of combined federal, state, and local government revenue, and they’re the second largest source of government revenue in the United States. Federal income tax takes first place.
+All told, as an employer, you are responsible for the following taxes with regard to employee pay:
+This tax is calculated based on the most recent Form W-4 an employee has filled out. The IRS publishes annual tables to help you determine the amount of tax to be withheld from each employee’s paycheck. The percentage is dependent on the employee’s gross wages, filing status, and the number of exemptions listed on the W-4.
+These taxes vary wildly depending on the state. Seven states do not tax individual income: Alaska, Florida, Nevada, South Dakota, Texas, Washington and Wyoming. New Hampshire and Tennessee impose income taxes solely on dividends and interest and not earned wages.
+These next two federal payroll taxes are also known as “FICA“, which stands for “Federal Insurance Contributions Act.” You’ll see them printed as “FICA – Medicare” and “FICA – Social Security” (or some variation thereof) on employee pay stubs.
+This 6% tax is solely paid by the employer. Employers can take a credit of up to 5.4% of taxable income if they pay state unemployment taxes. This credit is lower in “Credit Reduction States” where the state has not repaid money it borrowed from the federal government to pay unemployment benefits.
+Each state administers its own unemployment insurance program within guidelines established by federal law. Three states – Arkansas, New Jersey and Pennsylvania – require minimal employee contributions in certain situations.
+*Wages of more than $200,000 earned in 2019 will be taxed an additional 0.9%
+FICA and Unemployment taxes are relatively standard and, therefore, easier to calculate. Federal and state income taxes, however, can be a bit more of a challenge.
+Form W-4 determines the amount of Federal income tax that is withheld from a paycheck. This form shows employees’ filing statuses and number of exemptions they claim. IRS Publication 15B, Employer’s Tax Guide, in Section 17: How to Use the Income Tax Withholding Table, indicates how much tax to withhold from each employee. This tax table is updated annually by the IRS, so it’s important to keep on top of things.
+A similar tax table is produced annually by each state. As an example: if your employees work in Georgia, you can download the 2019 Georgia Income Tax Tables to determine precisely how much state income tax to withhold from your employees’ paychecks.
+
+There’s no way around it: Your company is required by law to submit payroll taxes to the government. If taxes are paid late, incorrectly paid, or just not paid at all, your business can be faced with harsh penalties and accrue thousands of dollars in interest on unpaid taxes.
+The percentage rate charged for a penalty depends on how late your payroll tax deposit is received. For late amounts or deposits that aren’t properly prepared, the penalty rates are:
+Overseeing the payment of payroll taxes can be extremely overwhelming. If you’re a small business owner with only a handful of employees, the process can be manageable. But, it can also be fraught with uncertainty. A single mistake in calculations could end up costing you thousands. If you work for a larger company with many employees, managing payroll on your own with spreadsheets or disparate systems, is simply untenable.
+The good news is, by hiring a payroll provider, you won’t have to worry about submission guidelines, accuracy of payment, or getting your payroll taxes paid on time. We will take care of it for you, saving you the hassle and anxiety every time payroll rolls around.
+Looking for a hassle-free way to manage payroll and tax compliance? Paycor got its’ start in the Midwest, learning to manage the complexities of the nation’s most challenging regulatory environment. For nearly 30 years, we’ve lead in the way in keeping SMB clients compliant, and it all starts with our Payroll product. Click here to learn more about our payroll and tax expertise, or contact one of our expert solutions consultants so we can learn more about your business.
+NOTE: This information is meant to be a general article about how payroll taxes largely work. This article is not intended to serve as tax or legal guidance for your business. For advice specific to your company, consult a tax professional.
+
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

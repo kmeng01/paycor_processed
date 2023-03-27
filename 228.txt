@@ -1,0 +1,56 @@
+Electronic Visit Verification for Home Health Care
+
+Technology has improved the home health industry. Learn benefits of Electronic Visit Verification (EVV) and how to use it.
+
+Employee Experience
+Last Updated:  January 15, 2021 | Read Time: 5 min
+As technology continues to impact and improve our lives, it also changes the way we have traditionally done things. In the healthcare industry, for example, one area of significant growth—COVID crisis—has been the home healthcare market. Even established brick-and-mortar healthcare facilities are exploring home healthcare options. As a result, the government has recognized the importance of establishing guidelines for tracking and monitoring home health care visits.
+
+Electronic visit verification (EVV) is a way to confirm and track home health care services electronically. EVV was established in the 21st Century Cures Act of 2016 to keep better records of home health care services provided and reimbursed under Medicaid. The EVV mandate was designed to help ensure that people get the care they need while cutting down on fraudulent claims.
+It’s easy. Care providers can use a mobile phone or other device to record the type of service provided as well as the location, time, date and duration of the service. They can also use the EVV system to access up-to-date patient health data.
+
+EVV can be used to manage and monitor the delivery of home healthcare services. The switch from paper-based notations and patient monitoring to electronic records helps streamline operations, improve efficiency, and reduces human error and fraud.
+Specifically, there are several ways EVV will positively affect home health agencies.
+EVV will help you stay connected with your caregivers even when they don’t have access to landlines. You will gain real-time visibility of their locations and schedules and have multiple ways to verify visits including GPS coordinates and electronic signatures. Additionally, you will have secure broadcast messaging capabilities from the office and secure communication among care team members
+With EVV you can see client demographic information and reporting on Key Performance Indicators (KPI). You can also see messages from and to care team members, care plans and history as well as care team information.
+EVV also gives you complete point-of-care visit documentation, tasks completed, notes and assessments. It can provide optimized driving directions with accurate, GPS-based mileage. It also gives your team full timekeeping capabilities, including out-of-home visits, trips to care-related facilities, trips to the agency and other non-client activities.
+In short, an EVV system will help reduce missed visits and late starts, paper documentation and overall costs while improving patient care and client outcomes.
+
+While it can be tempting to focus on the downside of such governmental regulations, ultimately it’s the patients who will benefit from increased accountability. Caregivers will also benefit from the increased connectivity and overall efficiency and reduced paperwork.
+And while there is a cost associated with using an EVV system in compliance with your particular state, the entire home health industry will benefit from the decrease in fraud and likely see speedier reimbursement times as a result.
+
+While the 21st Century Cures Act identifies several key data points that need to be collected and electronically verified, each state can establish its own system. They can also decide specifically how to gather, track and report EVV data and if they want any additional compliance rules.
+Home care agencies will need to be ready to comply with their state’s specific EVV system, which means they should start by locating and understanding their particular state’s requirements.
+Once you determine and implement your state-approved solution, you will need to train your staff to use it and test the technology to work out any issues.
+Some agencies are requiring caregivers to use their own smartphones, however this could cause some issues around security and reliability. Additionally, caregivers who use their personal phones for work will expect some form of reimbursement. Another option is to issue corporate-owned devices to your caregivers. While this means an additional cost, home health agencies can ensure that the devices are secure, reliable and only used for work.
+
+Paycor can help your team expand operations in order to meet the challenges of the growing home health market. With Paycor Mobile, your employees will be able to punch in and out, review schedules, select benefits and request time off from their phones.
+EVV is the natural next step toward improving patient care and reducing fraud in the 21st century, and Paycor is here to help you move forward. Contact our team today to learn more.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,61 @@
+Quick Reference Guide for the Paycor W-2
+
+**Box 8**  
+Allocated tips that are not included in boxes 1, 3, 5 or 7.
+
+**Box 10**  
+Total dependent care benefits that the employer paid or incurred on the...
+
+Workforce Management
+Last Updated: January 22, 2013 | Read Time: 1 min
+Box 8
+Allocated tips that are not included in boxes 1, 3, 5 or 7.
+Box 10
+Total dependent care benefits that the employer paid or incurred on the
+employee’s behalf (including amounts from a Section 125 cafeteria plan).
+Any amount over $5,000 is also included in box 1,3 and 5.
+Box 12
+Some deferrals listed in this box may be subject to limits.
+Code C – Taxable cost of group-term life insurance over $50,000.
+Included in boxes 1, 3 (up to social security wage base), and 5.
+Code D – Elective deferrals to a section 401(k) cash or deferred
+arrangement. Also includes deferrals under a SIMPLE retirement account
+that is part of a section 401(k) arrangement.
+Code P – Excludable moving expense reimbursements paid directly to
+employee. Not included in boxes 1, 3 or 5.
+Code W – Employer and employee contributions to employee’s Health
+Savings Accounts.
+Code AA – Designated Roth contributions under a section 401(k) plan.
+Code BB – Designated Roth contributions under a section 403(b) plan.
+Code DD – Cost of employer-sponsored health coverage. The amount
+reported is not taxable.
+For more information about Form W-2, visit
+www.irs.gov.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,57 @@
+Payroll Security in 2023: Tips to Keep Your Business Secure
+
+Hackers love payroll systems because they're full of personal information. Safeguard your payroll data by using these tips.
+
+Workforce Management
+Last Updated: January 1, 2023 | Read Time: 10 min
+Payroll data can be a treasure trove of lucrative information for hackers. Just think how much personal information a hacker can get from payroll… social security numbers, bank accounts, check stubs and home addresses for starters. Your employees depend on you to keep their personal information safe, so here’s what you need to know about payroll security in 2023.
+The average cost of a data breach reached $5.09 million per incident in 2022 (IBM and the Ponemon Institute). If your organization is hacked, it could be devastating for your business, and your customers will have questions of liability.
+The good news: It’s unlikely you will be held responsible for a third party hacking your payroll system.
+The bad news: If the leak results in the stolen identify of an employee(s), they may spend months and tens of thousands of dollars rebuilding their credit, giving them grounds to file suit against your organization for the damages incurred as a result of sloppy data security.
+Payroll security not only safeguards the money you pay employees, but it also protects data that could be dangerous if it falls into the wrong hands: social security numbers, birthdates, home addresses, etc.
+Every payroll period, your company is managing mountains of personally identifiable information (PII) on your employees. If you lack security systems, your database is left vulnerable to potential hackers.
+A breach in payroll information can lead to more than just identity theft. In fact, a minor leak can lead to fraud, hurt your brand image and result in the loss of employee trust, confidence and loyalty. Smaller companies might be lulled into a false sense of security thinking, “hackers have bigger fish to catch.” That line of thinking can come at a significant cost. According to Forbes, payroll fraud occurs nearly twice as often in smaller businesses than large organizations. The reason behind this is quite simple, these companies tend to have fewer anti-fraud controls in place, making them an easier target.
+Unfortunately, payroll fraud is more than a quick cash grab. The Association of Certified Fraud Examiners (ACFE) reports that payroll fraud schemes are the longest lasting form of fraud, with an average lifespan of 30 months. Without proper technologies in place, you could go years without ever detecting the ongoing theft of your data or money.
+Hacking isn’t the only challenge businesses need to be on the lookout for. Payroll fraud can result in large losses to a company as well. Here are some more common methods of fraud:
+What if the biggest threat to your organization wasn’t the hooded hacker operating in a foreign country but instead your own employees? A recent study found that employees are responsible for 74% of cyber breaches (Arlington Research). While some breaches may be instigated by disgruntled or ex-workers, the overwhelming majority are the result of employee negligence who expose sensitive information through unapproved cloud and mobile apps or fall victim to targeted phishing attacks.
+Related Post: Payroll Risks and Controls: Everything You Need to Know 
+Training is critical; especially when not everyone is in the same office together. Ensure your employees are trained on how to spot common scams with phishing emails or text messages. A breach costs more than $1 million more on average when remote work was shown as a factor (Egress)
+You never know who might be looking over your shoulder. After all, it only takes a name and their social security number to steal a person’s identity. Consider investing in a physical privacy filter if you work in an open environment.
+The past decade has been kind to hackers who operate out of coffee shops and other public places. Believe it or not, if you’re connected to an unsecured network a hacker can use special equipment to capture personal information such as home addresses and social security numbers. Ensure you and your employees use a VPN.
+With today’s technological devices, keychains are becoming ever more popular. If you log into your work accounts from a peer’s computer there’s a decent chance their device automatically saved your username and password to its keychain. That means someone could log into your account and access confidential employee files.
+A basic payroll system security audit involves a few steps. First, talk to your team. They use the system most, so they can tell you about any system issues they experience. If something doesn’t work right, employees often develop workarounds that can lead to a security breach. Second, ask your IT team to look at all internal systems that work with your payroll system, such as your ERP or POS system, and check for potential vulnerabilities. Third, ensure that all of your employees are familiar with the latest internet scams, social engineering and phishing attempts.
+These tips may help you avoid a breach in payroll data, but they won’t ensure your security. For that, you’ll need a Human Resource and payroll service provider like Paycor.
+Paycor is not only a leader in HR and payroll technology but we’re also experts at keeping your payroll data and personal information confidential and secure, which is important as ransomware attacks in our industry are on the rise. Ransomware had a massive effect on companies in 2022. 80% of critical infrastructure organizations experienced a ransomware attack in the last year (Claroty).
+Our network and servers are housed in enterprise-class data centers with the ability to detect patterns and signatures with a malicious purpose. Paycor’s infrastructure has continuous live backups that guarantee data reliability and consistency.
+Paycor ensures that your data storage is encrypted at every endpoint. With disk level encryption, we can prevent files from being transferred from stolen company devices like laptops or servers. Also, Paycor encrypts data at the file level to prevent online database breaches.
+Paycor’s Advanced Threat Detection feature stops “zero day” viruses that the cyber security community have yet to discover. This feature uses behavioral analytics such as file access patterns to proactively isolate the infected endpoint before a data breach occurs.
+Our dedicated security team performs vulnerability scans and penetration tests across our entire network. In addition, we alternate various third-party software companies to scan our network twice per year to ensure best-in-class security.
+Want to learn more about keeping your data secure? Connect with a Paycor representative to discuss how our payroll software protects you and your employees.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

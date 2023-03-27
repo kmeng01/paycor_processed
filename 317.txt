@@ -1,0 +1,89 @@
+HR Risk Management, Reduce Vulnerabilities
+
+Compliance regulations are no joke. Risk exists in every step of human resource management, including hiring, paying, and terminating employees. Navigate the challenges by starting here.
+
+Workforce Management
+Last Updated:  November 5, 2019 | Read Time: 23 min
+Tightrope walkers are kind of like human resource managers.
+You have big, long term goals and you want to make a difference. Yet day to day, you step carefully, balancing the complexities of the workplace.
+We love to talk to HR professionals about their strategic goals – for inspiration, check out Unlock the True Power of HR.
+In this article, however, we’re focusing on another aspect of your job: risk management, or risk balancing. We’ll walk you through some (certainly not all!) of the most common risks HR professionals need to balance throughout the employee lifecycle, starting with…
+HR Risk: Not building compliance into your recruiting process.
+We’re not going to sugarcoat this: there are a lot of federal, state and local laws that govern the recruiting and hiring process.
+The EEOCThe Equal Employment Opportunity Commission investigates complaints based on sex, age, disability, religion, national origin, color and race. One way the EEOC regulates hiring is by looking at what information you collect & the way you interview candidates.
+The OFCCPOffice of Federal Contract Compliance Programs is the agency that ensures employers that do business with the Federal government comply with the laws and regulations requiring nondiscrimination.
+How HR can help: An applicant tracking system can help you stay compliant. Ask tough questions before buying one.
+If your company only hires a few people a year, and you have legal counsel, you might be okay to continue, cautiously, with a DIY approach. Once your company is growing, you’ll likely invest in buying (or upgrading) ATS recruitment software.
+HR leaders can make a real difference by asking tough questions. It’s your job to make your potential or current ATS vendor prove that their ATS has compliance built in.
+HR Risk: Asking forbidden questions.
+Hiring the right people is essential to creating and sustaining a successful business. And while you might be tempted to extract as much information as you can from candidates during an interview, be aware that some questions can get you in serious hot water. In fact, asking questions on certain topics can result in charges of discrimination, a potential lawsuit and/or an investigation by the EEOC.
+For more info on how to properly conduct an interview, check out our Interview Guide.
+How HR can help: Educate hiring managers on what questions are acceptable.
+Some questions may be obvious to avoid, while others might not be so apparent—especially if you don’t work full-time in HR. As an HR leader, be sure to educate the hiring managers and anyone else who might be asking a candidate questions on what to avoid.
+HR Risk: Not approaching your drug testing policy strategically.
+Should my company drug test job candidates? There’s an easy and hard way answer.
+Let’s start with the easy one. First, know your state’s drug test laws (here’s a cheat sheet) and follow them.
+Now, the trickier part: assessing the risk of testing, or not testing, in your particular case. Every company (and every industry) faces different kinds of recruiting challenges, but for now the unemployment rate is low, so most company’s are looking to broaden the candidate pool, not limit it.
+The rate of marijuana positives in the general U.S. workforce increased nearly 20% since 2014. Mandating drug testing for marijuana will limit the pool of candidates, which may be worth it in your business, but either way, it’s a risk-balancing decision.
+How HR can help: Lead your executive team in a pro/con brainstorm exercise.
+HR professionals have unique insight into the business—you know your company’s culture and values, you know what it takes to recruit and hire for open roles, and you probably know better than anyone how much turnover you can expect in the coming year or so. That gives you the perfect vantage point to moderate an open-ended conversation about if and how to introduce drug testing into your recruiting process.
+Lead your team through a discussion of the pros/cons of drug testing. The goal is to get it all out on the table (or whiteboard) and make the right decision for your business.
+HR Risk: Skimping on the background check.
+You’ve finally found the perfect candidate for an important position and the last thing you want to do is slow the momentum. It’s so easy to skip this part, but here’s the risk: a background check is a preventive measure that safeguards the integrity (and legal standing) of your company as well as the safety of your employees.
+How HR can help: 5 Ways to get it right.
+HR Risk: Neglecting to include language in an employee handbook that would help protect against lawsuits.
+There’s no requirement for a company to have an employee handbook, so why bother?
+HR professionals need to strike a balance between the big ambitious goals your company wants to pursue and the need to protect the company from fines, penalties and lawsuits. The employee handbook is a great example of this balance. On the one hand, a handbook is the perfect vehicle to talk about company culture and values and make people aware of all the benefits that your company offers. On the other, a handbook is valuable documentation, in that it spells out your company’s key policies and demonstrates your company’s compliance with federal and state law.
+How HR can help: Create an employee handbook that serves multiple purposes.
+Rally your company leaders to answer the big questions (why should people want to work here, what does our company value, etc.) while behind the scenes, work toward the goal of making sure your employee handbook includes clear language on the nitty gritty topics highlighted below. These are the topics you want to get clearly articulated in writing, in the event your company ever has to defend itself in a lawsuit or audit.
+HR Risk: Assuming a payroll breach won’t happen to you.
+In 2018, Statista reports that U.S. companies got hit with nearly 1,700 cyber breaches that leaked 170+ million records. Payroll hacks are especially damaging—just think how much personal information is in your payroll (Social Security numbers are the tip of the iceberg).
+But more than that, employee negligence can have severe repercussions when it comes to workplace security. Whether it’s leaving an app open or using unapproved software/websites, employee actions can leave a company vulnerable to phishing attacks.
+How HR can help: Promote commonsense security habits.
+HR wears many hats, but no one expects you to be a computer scientist. However, you can encourage (and train) employees on best practices for basic security.
+How HR can help: Kick the tires of your current payroll system.
+A little commonsense goes a long way, but not all the way. To really get serious about security, you need to expect more from your payroll system software. A good first step is to ask your payroll vendor tough questions that they should be able to easily answer.
+HR Risk: Misclassifying Employees.
+The Department of Labor’s Wage and Hour Division (WHD) is cracking down on labor law violations. In 2018, the WHD collected a record $304 million in wages owed to workers. Among the most common legal complaints are wage and hour lawsuits, frequently filed by employees who feel they have been paid unfairly. Lawsuits range from employees seeking overtime pay to challenging classifications.
+How HR can help: Know wage & hour best practices.
+If you can tell a worker where to be, what to do and when to do it, that worker is probably your employee—not a contractor.
+HR Risk: Not paying employees equally for comparable work.
+Pay equity laws have existed for decades, but over the past few years, states and local municipalities have begun to closely examine their laws in an effort to close the gender pay gap. Nearly all states have equal pay laws, but many were enacted some time ago and lack any emphasis on discriminatory pay practices for workers. As a result, states and cities are revising their current practices. California, New York, Maryland and Massachusetts are examples of states that have recently strengthened their laws. But even as momentum picks up at the state and local levels, movement on a federal level lags.
+How HR can help: Conduct a pay-equity audit and remedy disparities.
+Typically, when we talk about the employee experience, we’re talking about the best-case scenarios—how to engage your talented team and build a great company culture. That’s an exciting part of HR and by all means, keep expecting the best!
+However, in this section, we want to help you mind some of the risks that come from not having clear plans in place.
+HR Risk: Assuming “harassment” can’t happen here.
+The Workplace Bullying Institute found that 27% of employees report being bullied, which is both a company culture issue and a liability. The EEOC defines harassment as a form of discrimination that violates federal statutes like Title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967 (ADEA) or the Americans with Disabilities Act of 1990 (ADA). All companies – big and small – must understand the definition of harassment, recognize the applicable mandatory training provisions, and ensure effective delivery of programs to protect their businesses.
+How HR can help: Define & train employees on harassment.
+To avoid exposing your organization to legal risks, not to mention a serious drain on employee morale and decline in productivity, be sure to implement an anti-harassment plan for your entire workforce.
+HR Risk: A botched termination results in litigation.
+Most managers would agree: the least favorite part of their job is terminating employees. This anxiety, combined with an inherently uncomfortable situation, can led to mistakes and potential legal troubles.
+How HR can help: Develop a multi-step plan for termination. 
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

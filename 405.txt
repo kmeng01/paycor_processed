@@ -1,0 +1,53 @@
+Payroll for Restaurants, Avoid Financial Missteps
+
+Having tipped employees makes restaurant payroll more complex. Also, states have different regulations. For accurate payroll for your restaurant start here.
+
+Workforce Management
+Last Updated:  January 7, 2020 | Read Time: 7 min
+When you’re a small business owner running a full-service restaurant, you can’t afford to make financial missteps. It’s especially important for small businesses to keep an eye on their labor costs. As all restaurant owners well know, restaurant industry payroll is highly complex making it more prone to errors. Not only do you have to figure out wages for your tipped employees, but you also have the added complication of figuring out shortfalls and calculating your FICA tip credit. That’s a lot of computing—and a lot to potentially mess up.
+States’ minimum wage requirements vary, but federal law dictates that if you operate in a state that uses the Federal Labor Standards Act (FLSA) federal minimum wage, your employees have to earn enough in tips to make up the difference between the state’s minimum wage and the FLSA minimum. For example:
+In Arkansas, the minimum wage is $10.00 an hour. State law dictates that an employee who receives tips must be paid at least $2.63 per hour worked. If the employee doesn’t make at least $7.37 an hour in tips, you’re responsible for making up the difference.
+A handful of states require employers to pay their tipped employees the full state minimum wage before tips.
+Some states mandate that employers pay their tipped employees a minimum wage above FLSA requirements (currently $2.13/hour).
+Other states have a minimum wage payment that is equal to FLSA at $2.13.
+And some states have no minimum cash wage law on the books; they pay the federal rate of $7.25 an hour.
+Regardless of their position in the restaurant, according to the Department of Labor, a tipped employee is one who repeatedly receives more than $30 a month in tips. Most full-service restaurant employees will earn far more than $30/month in tips. In fact, in their survey of more than 15,000 restaurant workers, Payscale found that servers worked a median of 31.70 hours a week, earning $3.40 an hour in tips.
+A tipped employee must still make federal minimum wage of $7.25 an hour, but as much as $5.12 of that minimum wage can be earned through tips.
+You can take a tip credit of up to $5.12 per hour against the federal minimum wage. The thinking behind this practice is that the employee’s tipped income should be enough to make up the $5.12. If the employee does not make up the difference in tips, then the tip credit will not be enough to meet minimum wage requirements. When this happens, you are responsible for making up the difference of the tip shortfall. To ensure that your numbers are accurate, it’s best to set up a daily tip report system to track tips. Paycor can help! Our payroll solution allows tips to be keyed or imported directly into your paygrid.
+The IRS enacted an income tax credit known as the FICA Tip Credit. The goal of the FICA tip credit is to ensure that restaurants are reporting staff tip earnings. The FICA Tip Credit is calculated on any tips claimed over $5.15 per hour calculated at the FICA percentage of 7.65. If a restaurant owner chooses to participate, the credit may help the employer save hundreds of dollars each year per employee.
+Paycor can help by calculating and providing you with the Tip Credit Detail Report. Your tax credits are reported on IRS Form 8846.
+Employees are required to report all wages and tip income to you in addition to the IRS. The IRS says that you’re responsible for ensuring that all of the tip income that your employees report during a pay period equals at least 8% of your restaurant’s total receipts during the same pay period.
+If the total amount of tip income you report is less than 8%, you’re required to make up the difference via one of two methods: gross receipt or hours worked. A good faith agreement is another method the IRS allows, but it’s not recommended and rarely used, so we’ve left it out of this post.
+At the end of the year if the employee has not claimed 8% of gross receipts you will allocate tips to the employee that will report I box 8 on Form W-2. You will reconcile the claimed tip amounts annually on Form 8027.
+Overtime is calculated on the full minimum wage and not the cash wage payment minus the tip credit. For example, let’s go back to the Arkansas restaurant. State minimum wage is $9.25 an hour, and the minimum wage for restaurant employees is $2.63. Any overtime hours will be paid at $9.25, not $2.63.
+If you think all of this sounds complicated, you’re right. Sure, you can manually process your payroll, but should you?
+There’s no need to go it alone. In fact, most restaurant owners seek outside help to run payroll. There are two ways to do this: You can hire an accountant or use a payroll service for your restaurant. Especially if you’re new to the restaurant world, the best way to help ensure that you’re properly calculating your payroll tax, maintaining compliance with labor laws, and getting all the tax credits and benefits possible is to get expert help.
+
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

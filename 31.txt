@@ -1,0 +1,80 @@
+HR Software for Small Business: 3 Things to Look For
+
+Searching for new HR software can be overwhelming. Find out what you need to look for during your evaluation
+
+Workforce Management
+Last Updated:  November 29, 2018 | Read Time: 15 min
+When you own your business, there are a lot of “you should’s.” You should network. You should follow up with prospects. You should build a brand. You should prioritize customer service. But no small business guru ever said you should do more paperwork. Or you should project manage every step of recruiting and onboarding new employees. Or that you should worry more about compliance. If you own a business, or if you think like an owner, repetitive administrative tasks can be time consuming. Any organization with one or more employees can benefit from HR and payroll software.
+And these tasks are just the tip of the iceberg. When you really do the math and add up how much time it takes to run the “people management” or HR part of your business, you’ll see where so much of your time is really going.
+
+As a small business owner, you need to understand your own tolerance for risk. Compliance is a complex and constantly shifting challenge. If you get it wrong, mistakes can be costly.
+Large companies devote entire teams to staying on top of the minutiae of maintaining compliance and avoiding payroll errors. Small businesses don’t have that luxury. And without the right payroll and HR technology, you will run into two big problems that significantly increase your exposure to risk.
+Small business owners can easily get lost in a maze of government regulations. There are literally thousands of rules, most of which don’t even apply to your business. Figuring out which rules do apply, however, is not a game you want to play (and ignorance is no defense in an audit).
+Willfully failing to file payroll taxes is the most serious rule to break (it’s a felony), and the IRS is coming down hard on this one. As a matter of fact, a former president of Remote Surveillance Technology Solutions Inc., was recently slapped with a two-year prison sentence and a $2.2 million fine for failure to pay employment taxes. If you’re the person at your company responsible for filing payroll taxes and you don’t, you can be held personally liable for the Trust Fund Recovery Penalty, which is 100% of the unpaid tax, plus penalties and interest accrued from the first due date.
+Misclassifying employees as contractors is a common rule violation, especially among small businesses. But big businesses get busted too. FedEx cut labor costs by misclassifying their drivers as independent contractors, and they ended up paying $228 million in a settlement with California drivers.
+You can find hundreds of overtime fines on the DOL (Department of Labor) website. An example: after an investigation by the DOL, Boehm Family Enterprises LLC. paid $33,731 in back wages and an equal amount in damages to 12 mechanics and painters to resolve violations. Willfully failing to file payroll taxes is the major law that is broken (it’s a felony), and one the IRS is coming down on hard.
+
+As your company grows and you hire different types of employees, you must file your payroll taxes differently. Changes in the nature of your payroll taxes can come from many different places based on your individual company, including: Social Security, Medicare, Federal withholdings, state withholding. Managing payroll, properly filing taxes and staying ahead of regulatory compliance is a risky proposition for any business. (In it’s most recent annual report, the IRS issued &4.5 billion in employment tax penalties.*) If you have a typical tolerance for risk, you’ll want a payroll provider that understands your business, brings proven and current compliance expertise, and can deliver data security through multi-factor authentication and data encryption.
+Source: Wasp Barcode Technologies, 2015
+As you begin your search, it’s easy to get lost in features and functions. Do yourself a favor: don’t. The truth is, most payroll and HR tech offers similar benefits, at least on paper. Your job is to lift the hood. Don’t fall for flashy demos and beware of low prices: you get what you pay for. Instead, look for these three things in a potential partner: usability, reporting and compliance, and trusted expertise.
+
+Your payroll and HR system should make your life easier and be easy to use. As you evaluate the usability of an HR system, keep in mind these four factors: implementation process, the user experience, integration and employee self-service.
+Your provider should give you peace of mind from day one by giving you all the details of the implementation process. Your provider can’t do everything for you—they’ll need information from you, such as company departments, deductions, tax ID numbers and employee information—but you should be able to relax, knowing you will soon be saving time and money with a new system.
+Great applications shouldn’t be difficult to learn—they should guide you through processes in a logical way that’s easy for you to remember. You should determine during the buying process if the solution seems intuitive and how much training it will require. Also, your provider should offer short training sessions that won’t take up much of your time.
+Your employee timekeeping, payroll and HR systems should talk to each other so you can manage all of your employee data in one place. Aim for a provider with one platform, which can deliver this kind of integration. That way, you won’t have to convert to a new platform when your company’s needs change. Also, all of the provider’s development and service resources will be dedicated to one platform, instead of spread out across many.
+Your new system shouldn’t just be easy for you to use, it should be easy for your employees too. When assessing a system’s ease-of-use, think of the casual user, not a “power user.” The system you choose should be easy enough for all of your employees and managers to navigate.
+One of the main reasons for implementing payroll and HR technology is to save time and help automate some of the tasks you perform when others ask you for information—whether scheduling information for a manager or a PTO balance for an employee. In this regard, your solution should be efficient: your employees should be able to navigate the system easily to find their PTO balances, work schedules and pay stubs. Payroll and HR systems should also offer you 24/7 online and mobile access. If an employee has a question on Saturday, they should be able to locate the answer themselves, rather than waiting for you or your team to answer it on Monday.
+
+Reporting is an important part of running any business. You probably have to provide reports to other departments, your employees, your accountant and any number of government agencies. Ease of reporting is one of the crucial factors you should look for when exploring your options.
+You shouldn’t have to worry about IRS penalties or other legal issues. Your provider should make tax filing and reporting to various government agencies easy. This aspect of your process must work seamlessly and be up-to-date with the latest tax and compliance changes, so you don’t have to worry.
+If you rely on in-house payroll, it can be challenging to stay on top of minimum wage and other requirements, as they are always changing. For example, take tax reporting. What if you have to take involuntary deductions such as child support or garnished wages? If you don’t stay on top of those details, you may end up facing costly fines. Ideally, your payroll provider will offer an option to file reports to government agencies for you, further increasing your peace of mind when it comes to taxes.
+Your system should quickly generate meaningful reports. For example, you might need to access reports for your own decision making, such as when you want to assess your total labor costs. You might need to run a report on employee overtime to decide whether you need to adjust scheduling. Or you may want to pull a specific payroll report to ensure your payroll run is error free. There are countless reports you may need to run, and your provider should have easy solutions that consolidate and present information to you.
+Look for providers who store information in the cloud not just to make access fast and easy, but also to save space on your internal servers. Keeping data in the cloud helps you get the reports you need when you need them without worrying about system crashes or overloaded hard drives.
+Your payroll and HR system should handle your HR compliance and provide you with what you need to stay compliant with IRS guidance, the Fair Labor Standards Act, the Equal Employment Opportunity Commission, the Affordable Care Act and other federal and state requirements. Your provider should be able to help reduce your risk of an audit. What if, during an audit, you are asked to immediately access time and attendance data? If data is stored in multiple spreadsheets and folders or not tracked or stored, you could be in a difficult spot.
+Choosing a new payroll and HR system requires an investment on your part, and you should make sure you’re reaping the benefits of that investment. Outsourcing your payroll and streamlining HR tasks should free up the administrative time you’ve been spending entering hours, managing tax and compliance issues and answering requests your employees can now answer themselves. This gives you more time to focus on strategic business initiatives.
+A good return on investment may also take the form of a great user adoption rate. What’s the point of purchasing a new system if nobody uses it?
+
+As you evaluate proposals, you’ll probably notice that one or two vendors offer payroll and HR at a lower price than others. A low price is almost always a red flag for lack of expertise and support.
+For example, you don’t just need payroll, you need payroll that can handle the complexities of your local tax environment and multiple fed IDs. You don’t just need timekeeping and benefits, you need a time solution which fits the needs of your employees and benefits to help attract and retain top talent. You don’t need off-the-shelf, one- size-fits-all tech; you need base tech tailored to your business. You need technology plus expertise, at every level and at every stage, to keep your platform modern and adaptable to your industry and the marketplace.
+To determine if a vendor can deliver the expertise required for true partnership, look for these telltale signs.
+Your payroll and HR provider should be interested in learning about you and your business. This should start at the very beginning with the sales process. Does the vendor just show you a product demo, or do they ask questions to understand your business needs? Once you become a client, you may find there is a gap between what you need and what your provider can do. Are they willing to go out of their way to address client needs? A truly expert partner will offer ongoing support, not impersonal, 1-800 number call center support. Look for a partner that provides a dedicated team of experts who understand your business.
+Your payroll and HR partner should also make it easy for you to give feedback. Some applications have feedback buttons embedded in them, so you can share ideas, see other suggestions and view the status of your ideas.
+You want your business to grow, and your provider should be able to grow with you. When you are first starting out, you may not need anything more than basic payroll and HR functionality. As your business grows, you may find you need to add a time and attendance system. Eventually, you might need a full-featured human capital management platform.
+Make sure you select a provider that can meet your future needs as well as your present ones. You also want a provider which is going to continue to be a valued business partner well into the future. They should be investing in the future of their products and services to provide you the best solution over the long term.
+Any provider you choose should be bonded and insured, have a frequently tested disaster recovery plan in place, and have regular financial audits. They should also have regular SOC 1 audits, which consist of tests and controls related to payroll processing. You should ask any potential provider about how your funds will be handled—will they be kept separate from the company’s operating funds? Will they be held at large commercial banks? Will the provider perform a daily reconciliation of your account? If the provider will be entrusted with handling your money, paying your employees and paying your taxes, you need to be confident they are a trustworthy company
+It is worth your time to consider the benefits of payroll and HR technology. Not only will it make your job easier and increase your profits, you will be able to maximize efficiencies in your time and manage your compliance risk. Make your search easier by using our Buyer’s Guide to HCM Software to help the conversations with potential vendors.
+Enter your email below to receive a weekly recap of the latest articles
+from Paycor’s Resource Center.
+
+
+MktoForms2.loadForm("//app-ab01.marketo.com", "003-JWW-697", 1796);
+Check your inbox
+for an email confirming your subscription. Enjoy!
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

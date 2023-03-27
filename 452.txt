@@ -1,0 +1,89 @@
+Payroll Terms and Acronyms Glossary
+
+There are a multitude of terms and acronyms in the world of payroll. Use this glossary to find the definitions you need to successfully complete your work.
+
+Workforce Management
+Last Updated:  December 1, 2020 | Read Time: 16 min
+Whether you’re a seasoned pro or a newcomer to running payroll, there’s a lot of jargon and terminology you need to know. That’s why we’ve created this helpful list of common terms that you’ll come across in the business of payroll. If you know and understand all the following terms and acronyms, you’re officially an payroll expert.
+ 401(k) plan is an employer-sponsored retirement plan that employees can have money deducted from their paychecks on a post-tax and/or pretax basis. Some employers choose to match the amount employees save up to a certain percentage.
+ 
+ In payroll processing, an accrual occurs any time there is a difference between the pay cycle allocation and the actual expenses paid.
+ An acronym for Automated Clearing House, ACH refers to an electronic network dedicated to credit and debit transfers. These transfers often include payroll direct deposits.
+ 
+ For employees working on a part-time or hourly basis, the annualized salary is a calculation of the amount any given employee can expect to earn in a single year. Essentially, one week’s earnings are multiplied by the number of weeks worked in a year, or often, one month’s salary is multiplied by 12 to determine the annualized salary.
+ The IRS defines an independent contractor as any worker who is self-employed, as opposed to traditionally employed by a company. In terms of payroll, independent contractors are significant in that they do not require money to be withheld for Social Security or Medicare.
+ CPP stands for Certified Payroll Professional. This professional designation is provided for those who successfully complete the certified payroll professional examination.
+ Any time a predetermined amount of money is taken from an employee’s check at the end of the pay period, it is referred to as a deduction. Most often, deductions are made for items such as health benefits and union dues.
+ 
+ Disposable earnings refer to any wages that are left over after all government taxes and defined deductions have been taken out of the paycheck. This amount is then used to determine the level of pay subject to garnishment or child support withholding.
+ 
+ The Electronic Federal Tax Payment System (EFTPS) was created in hopes of automating the otherwise clumsy process of handling physically mailed tax payments. With EFTPS, employers and taxpayers can pay their taxes by phone or online free of charge. This program has greatly reduced costs for employers while making it easier for individual taxpayers to get their taxes in on time.
+ The employee identification number is a tax code for employers and is somewhat similar to the Social Security number given to individuals. This identification number is used by both the IRS and by individual state tax systems.
+ 
+ These employees are paid a salary (not an hourly rate) and must perform executive, administrative or professional duties. They are not paid overtime rates for hours exceeding 40 in a week.
+ 
+ Passed in 1938, the Fair Labor Standards Act (FLSA) instituted a number of regulations over working conditions designed to keep employees safe and fairly paid. This act mandates that all non-exempt employees working overtime (over 40 hours in a week) be paid time and a half. The FLSA also established the federal minimum wage and provided several mandates related to child labor. The individual regulations in FLSA may, under certain circumstances, be superseded by state and local laws.
+ First passed in 1993, the Family Medical Leave Act (FMLA) allows employees to take leave from work in order to care for themselves or family members. When these employees return to work, their prior salary and health benefits must be fully restored.
+ The Federal Insurance Contributions Act (FICA) mandates a payroll tax to be imposed on both employees and employers. This tax is then used to fund such programs as Social Security and Medicare. The amount an employee pays in payroll taxes over the course of his or her career may be indirectly related to the level of benefits for which he or she is eligible.
+ Form 1099NEC refers to a set of tax forms used to report income outside of traditional employee wages. This form is most often used by freelancers and independent contractors. Unlike the Form W-2, Form 1099NEC does not require a company to withhold taxes or other deductions.
+ The W-2 form is a lot like a 1099, but it is used to report wages earned for traditional employees. The W-2 also contains information pertaining to taxes withheld (such as Social Security) and compensation outside of wages (such as moving allowances).
+ The W-3 form is completed by employers, and summarizes employee wages and tax information from the W-2 form. Also known as “Transmittal of Wage and Tax Statements”, it’s sent to the Social Security Administration (SSA) every year at the same time as the W-2.
+ Form W-4 is filled out by employees to indicate the number of allowances they want to take. The employer uses the form to calculate how much of an employee’s salary is withheld for tax purposes.
+ 
+ When an employee’s wages are garnished, he or she is forced to forfeit a given portion of the paycheck to a debtor. Garnishments are most common for employees who have failed to pay their debts (such as student loans) and for child support payments.
+ A high-deductible health plan (HDHP) is a health insurance plan that has lower premiums and higher deductibles than a typical health insurance plan. Participating in an HDHP is a requirement for having an HSA.
+ 
+Health Savings Account (HSA) funds can be used for qualified medical expenses and are wholly owned by the employee. Those funds are not subject to certain taxes at the time of deposit. When they pair the HSA with a high-deductible health plan (HDHP), employees contributing to an HSA are given a certain level of personal control over their spending on health care costs.
+ The individual retirement account (IRA) offers employees greater control over their retirement savings. With this retirement plan, employees can deposit funds and enjoy access to tax advantages.
+ 
+ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996 mandates that employers report new hires and rehires to state agencies and any other required agencies within a certain time frame following the date on which the new employee was first hired. States use this information to enforce laws and benefits such as welfare assistance and fraudulent use of collecting unemployment insurance.
+ A non-exempt employee is entitled to overtime pay when they work more than 40 hours in a week. Overtime pay is equal to 1 ½ times the employee’s regular rate of pay.
+ Under normal circumstances, payroll processing takes place at the predetermined end of a pay period. However, if an employee is hired, promoted or terminated, that payroll may begin or end in the middle of the usual pay period. In this situation, the partial pay system is used. For salaried employees, the partial pay rate can be calculated by dividing the annual salary by the number of work days in one year.
+ The term “pay period” refers to the frequency with which an employer chooses to pay employees and contractors. Common pay periods include weekly, bi-weekly and monthly. The chosen pay period is defined by its beginning and ending dates.
+Related: Pay Frequency Requirements by State
+ 
+ When hiring independent contractors, employers must be able to provide proof, or reasonable basis, that the contractor label is actually justified.
+ Any non-U.S. citizen living permanently in the United States is referred to as a resident alien. Resident aliens are taxed at the same rate as U.S. citizens.
+ If an employee has not received compensation for hours worked in a previous pay period, the employer may be required to provide retroactive pay, or payment outside of the originally schedule pay period. Retroactive pay can apply to both hourly wages and overtime earnings.
+ Simplified employee pensions or SEPs are similar to IRAs but differ in that they allow employees to make contributions above and beyond the usual IRA limits. The SEP is the most popular IRA plan among self-employed workers.
+ 
+ When employees are terminated through no fault of their own, they may be eligible for a special payment known as severance pay. This is designed to tide recently terminated employees over until they are able to obtain employment again.
+ 
+ In most circumstances, resident aliens can only be employed by organizations or companies that have sponsored their admission into the United States. Upon the resident alien’s admission, the sponsor is required to sign an affidavit agreeing to support the admitted individual.
+ Supplemental wages include any earnings employees incur outside of the agreed-upon pay rate. These wages may include tips, commissions and bonuses. They are taxed differently than regular wages.
+ 
+ The acronym SSA can refer to either the Social Security Act or the Social Security Administration. The Social Security Act was enacted by President Roosevelt in 1935 as part of the New Deal plan. Its aim was to set up a social insurance system in order to reduce destitution among senior citizens and the disabled. The Social Security Administration is the government body set up by the Social Security Act. Its job is to administer both Social Security and the Supplemental Security Income (SSI) program.
+ SSN stands for Social Security number, or the code assigned by the Social Security Administration to every American’s social security account. Applicants cannot gain employment without providing this number.
+ 
+ The Worker Adjustment and Retraining Notification (WARN) Act was signed in 1988 in hopes of protecting employees and their families from the economic fallout surrounding unannounced mass layoffs. Under this law, employers are required to notify employees at least 60 days before a plant closing or other type of mass layoff.
+ In payroll processing, withholding involves deducting money from an employee’s salary to fulfill government requirements. Withholding may also take place in order to siphon a portion of an employee’s paycheck to alternative causes (such as union dues), but these deductions must be approved by the employee in question.
+While these are useful basic terms to know, the ins and outs of payroll processing are far more complex and definitely require a more thorough knowledge. If you don’t want to go it alone, you can entrust your payroll to the experts at Paycor.
+For nearly 30 years, Paycor has maintained a core expertise in payroll, tax filing and compliance. We established our expertise in the Cincinnati tri-state area, one of the most complex tax jurisdictions in the country, so we’re able to handle payroll and tax complexities in a way our competitors can’t. If you’re struggling with tax filing challenges or payroll complexities, contact our team to learn how we can support your business.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

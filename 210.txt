@@ -1,0 +1,69 @@
+OSHA Manufacturing Safety Regulations and Compliance
+
+Nothing is more important to an HR professional in manufacturing than the health and safety of their co-workers. Learn more about OSHA manufacturing safety regulations and compliance here.
+
+Workforce Management
+Last Updated:  October 28, 2020 | Read Time: 9 min
+Nothing is more important to an HR professional than the health and safety of their co-workers. HR leaders in manufacturing have the added stress of keeping their workforce safe in a potentially unpredictable and dangerous environment. Workplace injuries can occur from contact with machinery, exposure to toxic substances, electric or fire hazards, or a myriad of other causes. This is why Congress established the Occupational Safety and Health Administration (OSHA) in 1970; to help assure safer conditions for American workers.
+According to the Bureau of Labor and Statistics, there were roughly 14,000 work-related fatalities in 1970. By 2018, that number had fallen to 5,250, due largely to OSHA safety guidelines and enforcement. This reduction is even more noteworthy considering that, during the same period, the U.S. workforce nearly doubled from 78 million people to over 146 million at more than 10 million worksites.
+But while significant progress has been made, still more needs to be done. Each year more than 3.5 million U.S. workers suffer occupational injuries or illnesses that cost businesses an estimated $97.4 billion in compensation expenses alone. Employers also incur peripheral costs due to incident investigations, lost productivity, and replacing and training employees.
+As part of its ongoing mission, OSHA developed a comprehensive set of safety requirements for manufacturing facilities. The HR department plays a key role for their company because they are typically responsible for overseeing all aspects of OSHA compliance. This includes communications, training and implementation as well as tracking compliance and reporting.
+Paycor recognizes the importance of following OSHA standards, not only to prevent injuries but also to avoid penalties for noncompliance. Our tools can help you navigate the dense, regulatory jungle and manage your compliance.
+The first step is to make sure you have a clear understanding of which OSHA standards apply to your business. OSHA’s manufacturing safety guidelines cover a wide range of categories such as equipment safety, protective attire, work spaces, warning signage and reporting requirements. Let’s look at these in more detail.
+
+OSHA safety guidelines cover machinery during normal use as well as when maintenance is being performed.
+OSHA requires guard devices on all machinery that will prevent the operator from getting caught in the machine and to keep anyone from reaching inside the machine while it is operating. Machine guards should also protect operators or bystanders from sparks or flying debris. Guards must not be removed while the equipment is in operation or modified in any way that would reduce their effectiveness.
+When equipment is undergoing maintenance or repairs, measures must be taken to ensure the equipment cannot be operated. Power supplies must have lockout devices to prevent anyone from inadvertently turning the machinery on.
+If tags or locks are placed on machinery, they must include information on who placed it and the time of placement. Only the original individual or an officially designated party is allowed to remove the tag after inspecting the machine to ensure no one is still working it.
+
+OSHA also developed comprehensive requirements for Personal Protective Equipment (PPE) to be worn in manufacturing facilities. These OSHA dress code guidelines are intended to protect workers literally from head to toe.
+Workers are required to wear hard hats anywhere they risk injury from falling objects. This also includes forklift operators or other drivers unless the vehicle cab is fully covered and protected from falling materials.
+Safety glasses are required for workers operating machinery that may expose them to sparks or other flying debris. Laboratory workers that use chemicals, acids or caustic liquids, gases or vapors must also wear protective eyewear as should all visitors who could be exposed to the same risks.
+Workers who may be exposed to a noise level at 85 decibels or more during a typical eight-hour day are required to wear ear protection. If the noise levels reach 90 decibels, OSHA requires the employer to either reduce the noise levels or the amount of time the worker is exposed to the noise in the work area.
+Electricians or other workers using high voltage machinery that has the potential of creating an arc flash are required to wear a flash suit or similar type of protective clothing.
+OSHA requires that gloves be provided for workers whose hands may be exposed to cuts, punctures, abrasions, chemical burns or extreme temperatures.
+Steel-toe work boots are required in any facility or environment where heavy materials may be dropped or a worker’s foot could be run over by machinery. This requirement is only for individuals working in the manufacturing portion of the facility. Temporary steel or plastic caps can be worn over regular shoes provided they meet safety requirements.
+
+Some manufacturing facilities contain areas that OSHA identifies as a “confined space.” A confined space is generally defined as an area large enough for a worker to enter temporarily to perform certain functions but that are not designed for prolonged occupancy. Such locations will often have a restricted means of entry or exit. Some examples of confined spaces are: storage tanks, vessels, silos, hoppers, vaults, pits, manholes, tunnels, equipment housings, ductwork, pipelines, etc.
+Additionally, OSHA uses the term “permit-required confined space” to describe any confined space that may contain any of the following: 1.) a hazardous atmosphere; 2.) any material that may potentially engulf an entrant; 3.) walls or floors that slope into a smaller area that could trap or asphyxiate an entrant; or 4.) any other safety or health hazards, such as unguarded machinery, exposed live wires, or heat stress etc.
+
+OSHA has specific requirements for warning signs that are required in manufacturing facilities. Some type of universal pictorial identification and color codes must be utilized for non-English speaking employees or visitors. Danger signs must use red letters or background while general warning or caution signs must have a yellow background. General safety signs are white with green lettering.
+All workers entering an area with warning signs must be aware of the meaning of the signs and the hazard(s) present. All warning signs must be clearly visible from a safe distance, and any warning labels or tags must be securely affixed to the equipment or other objects so as to prevent accidental removal.
+Additionally, all signs that identify first aid stations, eyewash stations or emergency showers must be visible to all workers and visitors. And finally, all EXIT signs must be clearly visible throughout your facility and all exit doors must be unlocked and free from obstruction during operations.
+
+Another way HR plays a vital role is by facilitating documentation and reporting. Manufacturers must maintain detailed records of all employee training programs and workplace accidents. Remember, OSHA can send an inspector without notice and safety violations could bring fines of up to $500,000 and even jail terms. OSHA can issue citations for safety or health violations, falsifying documents or even denying an inspector access to your facility. However, OSHA is not an adversary. They also offer free consultation and evaluation services, and can provide assistance programs to help improve the safety of your facilities.
+Reporting Requirements
+OSHA requires employers to report all:
+Reporting and tracking is very important as this data helps OSHA shape new safety standards that can prevent future injuries and illnesses.
+With this in mind, now is a good time to re-evaluate the safety of your facilities and the quality of your reporting systems and procedures. How familiar are you with the latest OSHA safety regulations for your state? Are all your employees up to date with their safety training? How are you currently reporting workplace accidents and injuries? Do you have easy access to all necessary OSHA reports and documentation? What tracking method are you using?
+If you can’t answer these questions confidently, remember Paycor can help keep you current with the latest OSHA safety standards and requirements by state. Our tools such as Learning Management and HR can also help you better facilitate employee training and track your reports and documentation.
+If an ounce of prevention is worth a pound of cure, then your HR team is an invaluable part of your business. By actively managing OSHA compliance, they will help prevent costly workplace accidents and even save lives.
+
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

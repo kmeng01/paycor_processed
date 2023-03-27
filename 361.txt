@@ -1,0 +1,52 @@
+Managing Contractor Payroll: What You’ll Need to Know
+
+The complexities of paying a contract worker can be tough to decipher. Start here and learn how to distinguish contractors from employees.
+
+Workforce Management
+Last Updated: August 15, 2019 | Read Time: 5 min
+As a business owner, it’s a given that you’re expected to pay your employees accurately and on time. But something almost as important is making sure you don’t pay your contract or freelance workers the same way you pay employees. Let’s clarify.
+Independent contractors are not classified as employees by the Internal Revenue Service (IRS), so instead of being paid through your payroll system, they’re paid separately as a business expense. When your business requires hiring both employees and independent contractors, it’s important that you understand the distinctions between the two. Why? Three letters: IRS.
+The IRS looks at the business relationship your company has with a person to determine whether they’re one of two types of workers: an employee or an independent contractor. [The Fair Labor Standards Act (FLSA)](/hcm-basics/what-flsa), the federal law that mandates a minimum wage and overtime pay, only applies to employees and not contractors, which is an important distinction. The two key factors they use to make this determination are:
+
+In general, if someone works for you and you have the ability to control exactly what will be done, when it’s done, and how it’s done, that person is considered an employee of the business – regardless of whether they’re full time or part time. If, on the other hand, you only have control over the final result of the work but not when or how it’s done, then that person is considered an independent contractor. **Put simply, a freelancer is self-employed, and an employee works for your company**.
+To really know whether your worker is an employee or independent contractor, you can file [IRS Form SS-8 Determination of Worker Status for Purposes of federal Employment Taxes and Income Tax Withholding](https://www.irs.gov/pub/irs-pdf/fss8.pdf).
+Different tax forms are required for different workers. For employees, on their first day of the job and yearly going forward (if their situations change), they’ll need to fill out a Form W-4 to determine how many deductions for federal income tax they want you to withhold from their paychecks. You are then required to pay in federal and state payroll taxes on wages paid, as well as unemployment tax, for each of your employees. At the end of the year, you fill out and send Form W-2, which shows employees their yearly wages and taxes withheld for their tax returns.
+This is not the case for independent contractors. When they begin a project, they’ll need to fill out Form W-9, providing you with their social security or tax identification number. This puts tax payment responsibility on the shoulders of independent contractors instead of you, the employer.
+
+Keep in mind, all independent contractors should be paid through your accounts payables, not through your payroll system.
+Since businesses aren’t required to pay independent contractors time and a half for working overtime, many businesses purposefully attempt to misclassify workers. Don’t make the same mistake. There are large, impactful penalties for misclassifications.
+If the IRS believes you intentionally and deliberately misclassified employees as freelancers, they can require you to remit 20% of all the wages paid, plus pay 100% of the FICA taxes. But here’s the worst part, the person who’s responsible for the actual process of withholding your payroll taxes (e.g. your bookkeeper or CPA) can personally be held liable for any unremitted tax.
+Let’s look at a few, recent examples.
+Uber settled with drivers who claimed to be misclassified as independent contractors. While the company still insists its drivers are contractors and not employees of the company, they anticipate paying out claims and attorneys’ fees of between $146 million to $170 million for the lawsuit.
+In 2016, FedEx faced a similar situation and agreed to pay out $240 million to 12,000 of its drivers to settle misclassification lawsuits.
+While these are, of course, very large companies, smaller companies can get hit, too. It makes good financial sense to periodically look at your employees and contractors and make sure everything is buttoned up on the classification front.
+Paycor helps business leaders recruit, manage, develop, pay, train and retain their employees. Our Payroll software solution is exceedingly usable, enabling you to quickly and easily pay employees from wherever you are, all while ensuring tax compliance. You can get in, make edits, run payroll and get out.
+Need help classifying your employees? Use our free worksheet below.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

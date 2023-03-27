@@ -1,0 +1,45 @@
+Understanding Tax Impacts of Disregarded Entities for Business Owners
+
+A disregarded entity is a single-owner business that the IRS directly ties to its owner for federal income tax purposes. Read about the pros and cons.
+
+Workforce Management
+Last Updated: May 9, 2022 | Read Time: 6 min
+When you start a business, one of the most significant choices you’ll make is determining your company’s business entity. This decision affects the legal protections for your business and can also affect the size of your tax bill when it comes time to file your small business taxes. The most common forms of business are sole proprietorship, partnership, corporation, S corporation, and limited liability company (LLC).
+A disregarded entity is a single-owner business that the IRS directly ties to its owner for federal income tax purposes, as well as certain states’ income tax. Rather than filing separate business and personal forms, the owner pays any business taxes owed as part of their personal tax return. They can also claim business losses on their personal return.
+The business is called a disregarded entity because the IRS doesn’t consider the company and owner separate.
+The most common business the IRS classifies as a disregarded entity is the single-member LLC. In a “limited liability” company, the owner’s personal assets are protected, meaning if the owner is sued, the person suing them can’t come after the owner’s home, car, or bank accounts. The IRS automatically categorizes single-member LLCs as disregarded entities, but the business owner is free to select a different classification as long as their business qualifies. To have the business treated as a corporation, the business owner must file IRS Form 8832, Entity Classification Election.
+LLCs that are operated by spouses are generally classified and taxed as a partnership, but in states with community property laws the IRS might be more flexible and allow those businesses to be classified as a disregarded entity.
+The IRS also classifies two other less common types of corporations as disregarded entities: a qualified real estate investment trust (QREIT) subsidiary and a qualified subchapter S subsidiary.
+The business owner is responsible for paying a disregarded entity’s federal taxes on their personal tax return, so a disregarded entity doesn’t have to file a separate federal income tax return for the business itself. State tax laws likely have different requirements, so as a business owner it’s up to you to refer to your state’s tax or revenue office to understand what is required in your area.
+NOTE: It’s important to keep in mind that if the business has employees, a disregarded entity is still responsible for payroll and excise taxes if they are required. And the owner is also still responsible for paying self-employment taxes. Being a disregarded entity also does not release the owner of a single-member LLC from the responsibility of self-employment taxes. These taxes are paid in addition to your income taxes, but the amount you pay is also deductible, up to a maximum cap.
+A disregarded entity has several benefits when compared to a typical corporation, including:
+A disregarded entity might not be the perfect choice when deciding how to classify your business. It can have a couple of distinct disadvantages including:
+As you can see, laws that affect disregarded entities can be complicated. Talk with your accountant or attorney for specific advice pertaining to your situation.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

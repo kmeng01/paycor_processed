@@ -1,0 +1,61 @@
+How to Pay Payroll Tax
+
+In the complex world of payroll, mistakes can result in costly penalties. Learn how to pay payroll taxes and manage tax filings here.
+
+Workforce Management
+Last Updated:  December 8, 2020 | Read Time: 9 min
+Paying payroll tax isn’t optional—and, if you do it incorrectly, you’ll face major compliance headaches. You’re required by federal (and, depending on where you do business, sometimes state and local) laws to withhold payroll taxes from your employees’ wages. Your company can face pretty stiff penalties if you don’t make your payroll tax deposits in full and on time. Just like with your personal income taxes, not remitting payroll taxes can lead to financial liability and even criminal penalties. So, obviously, if you choose to process your payroll in-house, it’s in your company’s best interest to make sure you’re doing it properly.
+The payroll tax process includes issuing Form W-4; preparing paychecks; accounting for withholding of benefits, taxes and other deductions; making deposits of taxes withheld; issuing Form W-2; and the required employer taxes. Finally, reporting on the employee taxes you withheld, the required employer taxes and the deposits you’ve made.
+“Payroll taxes” are, the taxes you’re required by law to pay on the wages you pay your employees. They include:
+Exactly when you pay your federal income tax will vary depending on the type of business you run. You will either have a monthly or semi-weekly deposit schedule.
+Your deposit schedule for FICA taxes (Social Security and Medicare) and federal income taxes is based on a lookback period. The lookback period is based on your total gross Social Security, Medicare and Federal Income tax liability for the twelve-month period ending on the most recent June 30. For example, the lookback period to deposit your employment taxes in 2021 is the 12-month period ending June 30, 2020.
+
+If your business is new, you won’t have a lookback period, so you’ll make monthly payroll tax deposits during your first year. Your payment to the IRS is due by the 15th day of the following month. For example, payroll taxes that you withhold in September are due to the IRS by October 15th. As we mentioned above, depending on the tax obligation of your business, your payments can change to another deposit frequency the following year.
+Your deposit schedule is dependent on whether you file Form 941 for reconciling tax payments quarterly or Form 944 for reconciling yearly tax payment. Keep in mind that the schedule for your deposit can change, so it’s important to check your status each year.
+If you are a semi-weekly depositor and your payday falls on Wednesday, Thursday or Friday, you must deposit your taxes by the following Wednesday. If payday falls on Saturday, Sunday, Monday or Tuesday, your taxes are due the following Friday.
+Regardless of timing, the IRS requires every business to make payroll tax payments either by electronic funds transfer using EFTPS, your CPA or bookkeeper, or a payroll tax filing service.
+Your FICA taxes are deposited along with your federal income tax. Be certain to deposit both the employee and employer amounts for your FICA tax.
+Federal unemployment tax is solely paid by you as the employer. You do not withhold FUTA tax from your employee’s wages. When your FUTA tax liability is more than $500 in a quarter, you are required to make quarterly deposits for this tax. You’re not responsible for paying FUTA tax quarterly if your liability for a quarter is $500 or less. However, you do have to roll over that amount into the next quarter. Once you owe more than $500, then you deposit the tax by the appropriate due date. The amount remaining at the end of the calendar year is required to be deposited by January 31st. You will use Form 940 to report your annual Federal Unemployment Tax Act (FUTA) tax by January 31st. In 2021, this deadline is moved to February 1 (see below).
+This tax is due by the end of the month following each quarter as seen here:
+ 
+Note: when a deposit due date falls on a weekend or legal holiday (in 2020, this is true for January 31, July 31 and October 31), you may make your deposit on the following business day.
+Depending on where you do business, you might also be required to withhold and pay state and local income taxes, and pay state unemployment tax. Policies for paying these payroll taxes vary, so it’s important to do your research. Remember, just because the state your company is based in may not have state taxes, doesn’t mean that you’re exempt from paying. If you have employees who reside in other states, you’re responsible for ensuring that you’re following their laws.
+
+After you’ve made the deposits for all of your payroll taxes, don’t put your feet up on the desk to relax! You’re not done yet. The final major requirement is to ensure that you’ve maintained the records required to prove you’ve paid your taxes.
+Federal tax records must be retained for at least four years after the due date of the return or the date the taxes were paid, whichever is later. Similar record-keeping requirements exist in each state, as well.
+Data you should hold onto includes:
+Last, but definitely not least, it’s important to understand the types of penalties your company could face for failing to pay taxes by the deadline.
+When filing Form 941 you can be fined 2% for being 1-5 days late, 5% for being 6-15 days late, and 10% for being more than 16 days late or within 10 days of first notice from the IRS, up to a maximum of 15%.
+There’s also the Trust Fund Recovery Penalty (TFRP) for failing to pay your payroll taxes when they’re due. This penalty is imposed on the responsible party; that is, if you’re managing payroll in-house, you’ll be fined. If your bookkeeper or CPA is managing payroll, they incur the fine. And, if you outsource your payroll, the payroll provider shoulders the responsibility. The TFRP is 100% of the unpaid tax. In addition to penalties, interest also accrues from the due date.
+You can also be fined for not paying payroll taxes because you inadvertently misclassified workers as independent contractors rather than employees and assumed you didn’t have to withhold.
+Additionally, failure to provide Form W-2 by the end of January could subject you to a $50 fine for each form that wasn’t sent or was improperly prepared.
+If all of these rules, regulations and potential pitfalls have you pulling out your hair and thinking, “I just want to run my business, not mess with payroll all day!” there’s a simple solution: Let the experts handle it. When you entrust your payroll function to a business that specializes in payroll and tax compliance (and has pros who monitor tax legislation every day), you can eliminate that burden and return focus to your business… instead of worrying about calculations, preparation and whether you’re getting your payments in on time.
+For nearly 30 years, Paycor has maintained a core expertise in payroll, tax filing and compliance. We established our expertise in the Cincinnati tristate area, one of the most complex tax jurisdictions in the country, so we’re able to handle payroll and tax complexities in a way our competitors can’t. If you’re struggling with tax filing challenges or payroll complexities, contact our team to learn how we can support your business.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

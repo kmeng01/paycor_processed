@@ -1,0 +1,56 @@
+Payroll Compliance in 2023: What You Need to Know
+
+Payroll compliance is too important to be left to chance. Here’s everything you need to know to stay up to date on payroll rules in 2023.
+
+Workforce Management
+Last Updated: December 28, 2022 | Read Time: 13 min
+Payroll compliance can be extraordinarily complex and quite costly if not done right. Unless payroll processes are in place to consistently apply pay policies, accurately calculate Fair Labor Standards Act (FLSA) overtime, and streamline administration of FMLA and other leave policies, you can leave your business vulnerable to litigation. Ensure you are protecting your business by staying up-to-date on compliance changes.
+2022 will usher in some changes that will have an effect on payroll policies and procedures:
+Many states have also made important updates that will affect payroll:
+15 states have increases to their minimum wage effective January 1, 2023, and 3 have increases schedule for June, July, and September. For a detailed look at the latest minimum wage regulations where you are, check out Paycor’s guide to Minimum Wage by State.
+Here’s the good news. Paycor clients don’t need to take any action for new rates and caps to be calculated. Federal, state and local withholding changes are programmed into Paycor’s system effective 1/1/2023, and updates are made throughout the year.
+The federal government continues to enforce workplace rights through lawsuits. In fiscal year 2021, the Equal Employment Opportunity Commission (EEOC) made an astonishing 61,331 charges of workplace discrimination and secured a total of $350.7 million in compensation.
+Wage and hour settlements continue to be the primary compliance exposure for businesses, so HR professionals and executives should focus their efforts on prevention.
+Spending money now to help ensure compliance is better than spending even more money down the road in the event of a lawsuit. These are some typical wage and hour mistakes HR professionals should try to avoid making.
+Classification issues can be a big problem for employers in dealing with the complexities of the FLSA. Often, employers improperly classify workers as exempt and fail to pay the overtime wages they’re due, which can result in penalties and legal trouble.
+In 2021, for example, FIS Holdings Inc. settled with the U.S. Department of Labor for $3.85 million stemming from the DOL’s investigation of unpaid overtime compensation for 1,000 pipeline workers in 40 states.
+The most common roles that are excluded from receiving overtime pay are “white-collar exemptions” for executive, administrative and professional employees. To qualify, the employee must be paid a salary (not hourly), earn minimum annual pay of $35,568, and regularly perform certain duties. For example, an executive is required to supervise two or more employees. For all hours worked past 40 in a work week, non-exempt employees must be paid 1.5 times their regular pay rate.
+Another major compliance challenge confronting employers is the misclassification of workers as independent contractors or interns. In our gig economy, employers are beginning to rely more frequently on contractors and freelancers to reduce payroll costs and tax liabilities. When it comes to when, where and how much they work, gig workers have more freedom and autonomy than employees. But gig workers aren’t entitled to employment benefits such as health insurance or overtime pay.
+If you misclassify some employees as independent contractors, and they don’t receive those benefits, your company could be in hot water when it comes to compliance.
+On October 13, 2022, the DOL published a Notice of Proposed Rulemaking (NPRM) that recommends the Department revise its guidance on determining the distinction between employees and independent contractors. The notice proposes to repeal the Independent Contractor Status Under the Fair Labor Standards Act (2021 IC Rule) rule published on January 7, 2021, and replace it with an analysis to determine status that is more consistent with the FLSA as interpreted by judicial precedent. The DOL believes the proposed rule would “reduce the risk of employees being misclassified as an independent contractor, while providing added certainty for businesses that engage (or wish to engage) with individuals who are in business for themselves.” More information about the rule can be found here.
+With so much confusion about who’s classified as what, it’s easy to see how slip-ups can happen. It’s important to periodically audit your employee database to make sure everyone is appropriately classified.
+The Equal Pay Act (EPA) dictates that men and women in the same workplace receive equal pay for equal work. The jobs don’t have to be 100% alike, but they do have to be substantially similar. Job content, not title, is the determining factor to test for job equality. The EPA covers all forms of compensation, not just salary: overtime, bonuses, benefits packages, stock options, vacation pay, and reimbursement for travel expenses. If a wage inequality between men and women is discovered, you cannot reduce the wages of either party to equalize pay.
+Every state, as well as the federal government, has a Workers’ Compensation program to provide compensation to employees who are injured on the job. As each state has different rules to abide by, it’s important to keep up-to-date on any changes, especially if you have offices in multiple locations. The most common examples of employer violations include failure to:
+Since Workers’ Compensation is state-specific, any fines levied will vary.
+Companies can mitigate the chances of lawsuits filed due to being out of compliance with the above laws by:
+Most lawsuits come about because companies have records that are incomplete or difficult to understand. If you don’t practice good record keeping, class-action wage and hour lawsuits can easily be lost, damaging your company’s bottom line and reputation. Having solid payroll practices in place along with an online payroll software will go a long way toward helping ensure compliance.
+It definitely can be, and you certainly don’t want to put your business at risk of litigation or fines due to compliance errors. Paycor can help. With accurate timekeeping, payroll and tax updates, proactive compliance warnings to ensure proper tax setup, consistent recordkeeping and detailed reports, our HCM technology helps you confidently manage compliance. We’ve got more than 29,000 customers and more than 30 years’ experience helping business leaders like you. Contact us today to see how we can help.
+Paycor is not a legal, tax, benefit, accounting or investment advisor. All communication from Paycor should be confirmed by your company’s legal, tax, benefit, accounting or investment advisor before making any decisions
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,69 @@
+I-9 Compliance: How to Avoid Costly Mistakes
+
+The I-9 can be one of the most intimidating documents for employers because of the strict guidelines that must be followed.
+
+Workforce Management
+Last Updated:  November 21, 2016 | Read Time: 5 min
+To say that I-9 compliance is complex is an understatement. The proper steps organizations must follow to ensure accurate completion and retention can be daunting. In this article, Paycor offers best practices and details the steps organizations need to take to prevent penalties and fines using our Onboarding solution.
+Form I-9 is used to verify the identity and employment authorization of individuals hired for employment in the United States. All U.S. employers must ensure proper completion of an I-9 for each individual that they hire.
+Proper Filing
+For a two-page form, the I-9 can be one of the most intimidating documents for employers because of the strict guidelines that must be followed to complete it correctly. The law requires that the employer make the forms available upon request by authorized government offices after being provided 3 days’ notice prior to an inspection.
+Proper Retention
+Form I-9 should be retained for as long as the employee is working for you, and for 3 years after the date of hire, or 1 year after termination, whichever date is later.
+To calculate how long to keep an employee’s Form I-9, enter the following:
+• Employee’s Start Date + three years = date A
+• Employee’s Termination Date + one year = date B
+• Store their form I-9 until the later of the two dates
+Section 1 – Employee Section
+In this section, the employee enters their full, legal name, including any other names used such as maiden names, followed by their home address and date of birth. One common mistake that Monica often encounters is employees who accidentally enter their date of birth for today’s date on the signature line. Pay close attention to this detail as your new hires complete their information.
+Section 2, Part 1 – Employer Section
+This section must be completed by the employer or an employer representative (someone acting on the employer’s behalf). If an employer representative does complete the form, the employer is still liable for any violations in connection with the form or verification process. Possibly the most important part of Form I-9 is that this section must be completed within 3 business days of the employee’s first day of employment.
+It’s also important to note is that the same person who reviews and validates employee IDs must fully complete the employer’s section. For instance, it is not permissible for a manager to review a new hire’s IDs while HR completes the employer’s section.
+Section 2, Part II – Certification
+The dates in this section are very important, so pay close attention to them.
+First is: “The employee’s first day of employment” which is the date of hire, or the exact date that an employee began employment for wages. This date must match the payroll and timekeeping records. The second date is simply the date that you examined the IDs your employee presented and completed the employer’s section. This date must be within 3 business days of the date employment.
+When is Form I-9 Not Required?
+Volunteers, unpaid interns and independent contractors do not need to complete the form.
+I-9 Employer Penalties
+Failure to properly complete, retain and/or make an I-9 available for inspection may result in a civil penalty in an amount between $216 and $2,216 for each violation.
+On Tuesday, November 14, the United States Citizenship and Immigration Services (USCIS) published a revised version of the Form I-9.
+The USCIS has revised Form I-9 in order to make employers’ lives easier. In fact, “changes are designed to reduce errors and enhance form completion using a computer”. While this may make it easier to complete a singular Form I-9, this process represents another compliance change for employers.
+• What: A revised Form I-9 with slightly adjusted fields and drop downs. Users can now add multiple preparers and translators, and may also utilize a new area specifically for additional employee information. Section 1 of the Form I-9 also adjusted some language, such as requiring “Other Last Names Used” vs “Other Names Used”.
+• When: While the USCIS recommends immediately utilizing the revised form, organizations are not required to use the revised Form I-9 until January 22, 2017.
+• Who: All employers.
+Maintaining eligibility guidelines, including strict I-9 compliance, is essential for employers to prevent crippling liability. The best way to avoid any errors is to electronically require your employees to complete the Form I-9 before their first day at work. Paycor’s Onboarding solution will not only include an updated Form I-9, but will also allow you to have employees electronically complete the document. The Form I-9 will then be electronically stored to their record, ensuring simple and easy maintenance for you.
+To make sure you are following the proper procedures when hiring a new employee, download Paycor’s Form I-9 Guide and Checklist.
+This content is for educational purposes only and is not intended to serve as legal advice.
+
+Enter your email below to receive a weekly recap of the latest articles from Paycor’s Resource Center.
+
+
+Check your inbox for an email confirming your subscription. Enjoy!
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

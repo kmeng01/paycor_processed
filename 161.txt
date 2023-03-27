@@ -1,0 +1,58 @@
+I-9 Compliance: How to Verify Remote Employees
+
+Hiring remote employees can save an organization money. But it's crucial that I-9 compliance is maintained. Learn how to verify they're able to work in the US.
+
+Workforce Management
+Last Updated:  October 29, 2019 | Read Time: 9 min
+The I-9 is a government form filled out by an employee to confirm their identity and verify they are legally able to work in the United States. It’s also known as an Employee Eligibility Form.
+The form dates back to 1986 during the Reagan administration, which passed the Immigration Reform and Control Act (IRCA). It was created by the United States Citizenship and Immigration Services (USCIS), a division of the Department of Homeland Security (DHS). Part of the act makes employers legally responsible for verifying whether their employees can legally work in the United States.
+In addition to being used to verify employment eligibility, Form I-9 as well as the IRCA are used to attempt to reduce discrimination against employees who are not from the United States but who are legally eligible to work in the country.
+More companies are finding that hiring remote employees is a great money saver. However, that bonus comes with a bit of a challenge. Form I-9 must be completed and submitted within three days of an employee’s hire. You’re not permitted to use video conferencing. And all verification documentation must be viewed in person. So, how’s this supposed to happen?
+The government allows a “trusted agent” or “trusted representative” to represent the employer when an employee can’t hand over their documents in person. This person can be a notary public, an attorney or accountant, even a librarian. It’s important that your instructions for completing the form include which people can serve as a trusted agent for remote employees.
+As the employer it’s your responsibility to provide new hires with Form I-9 once they’ve accepted a job offer. The form has three sections to complete: one for the employee and two for you as the employer.
+Section 1 of the form is filled out by the employee. They must provide their full name, address, date of birth, Social Security number, email address and phone number. They must also state their status as an authorized employee.
+They’re either:
+If the employee falls under the last category, they will need to provide the date their authorization expires, as well as either their USCIS Number, Form I-94 Admission Number, or Foreign Passport Number, as well as the country that issued the passport. They must also sign and date the form.
+Section 2 of the form is completed by the employer, verifying that they have received the employee’s acceptable verification documents, recording which documents were viewed, and signing off on the form.
+Section 3, the “Reverification and Rehires” section is also filled out by the employer, but it isn’t always necessary. It’s filled out if the employee experienced a year-plus gap of employment or if their employment visa recently expired. The employer fills out any relevant changes and provides proof of new authorization documentation.
+FYI: The Spanish Form I-9 is for use only in Puerto Rico. All other Spanish-speaking employees can have a translator help fill out the form. If that’s the situation, the translator must fill out the bottom of Section 1 with their signature, date, name and address.
+All eligible employees have to physically provide documentation as proof of their employment eligibility, and the documents must be actually viewed by the employer. The acceptable verification documents are in the table below.
+Employees must present either one item from List A or a combination of one item from List B and one item from List C.
+• NOT VALID FOR EMPLOYMENT
+• VALID FOR WORK ONLY WITH INS AUTHORIZATION
+• VALID FOR WORK ONLY WITH DHS AUTHORIZATION
+a) A foreign passport and
+b) Form I-94 or Form I-94A that has the following: (1) The same name as the passport; and (2) An endorsement of the alien’s nonimmigrant status as long as that period of endorsement has not yet expired and the proposed employment is not in conflict with any restrictions or limitations identified on the form.
+Employers are responsible for ensuring that the Form I-9 is properly completed and the employee’s eligibility verified. If you, as the employer, fail to do so or knowingly hire unauthorized employees, you could get in hot water with the government.
+Fines for simple errors such as incomplete forms, range from $110 to $1,100 per violation. But fines climb to $16,000 per violation for knowingly employing unauthorized workers.
+An increase in government audits of Form I-9 has made the list of top compliance concerns for U.S. employers. As you’ve likely seen in the news, U.S. Department of Homeland Security Immigration and Customs Enforcement (ICE) inspections and audits have risen steeply over the past two years, resulting in a record number of arrests and fines.
+Employers are under increased scrutiny to ensure that their workers are legally employed and that their hiring practices are in line with the law. Failure to comply can really damage a company’s brand and good standing as well as its very existence. HR professionals and business owners alike must keep a close eye on the status of employees’ authorizations to work in the U.S.
+For nearly 30 years, Paycor has maintained a core expertise in payroll and compliance. And we’re proud to help our 30,000-client base adapt and stay ahead of the latest federal and state laws and regulations. Start a conversation with one of our expert consultants and learn how we can help protect your business.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

@@ -1,0 +1,49 @@
+Maintaining Recruiting Compliance
+
+Employers have their hands full maintaining recruiting compliance. Get the knowledge you need to stay compliant with your hiring process.
+
+Talent Management
+Last Updated:  January 6, 2020 | Read Time: 6 min
+Between the Department of Labor (DOL), the Equal Employment Opportunity Commission (EEOC), the Office of Federal Contract Compliance Programs (OFCCP), and the rest of the alphabet soup of government agencies, employers definitely have their hands full when it comes to maintaining compliance over hiring decisions. This situation is especially true for small and medium-sized employers, who can already be stretched thin when it comes to their resources in general. HR teams at these companies are usually small – sometimes only one person. And they’re in charge of every aspect of the company’s people management. It’s easy to see how the added burden of managing recruiting compliance – much less keeping track of and understanding it all – can be incredibly challenging. But it’s got to be done.
+To give you a better grasp of the legislation that could have an impact on your organization, we’ve created an overview of some critical compliance laws that HR must maintain throughout the recruiting process.
+The EEOC is the agency that’s in charge of enforcing federal employment discrimination laws that prohibit “discrimination against a job applicant or an employee due to that person’s race, color, religion, sex (including pregnancy, gender identity and sexual orientation), national origin, age (40 or older), disability or genetic information.”
+Private companies, state and local agencies, and labor unions with 15 or more employees who have been employed for a minimum of 20 calendar weeks must comply with EEOC regulations. What can happen if your company is found to be using discriminatory recruiting or hiring practices?
+In fiscal year 2019 (ending September 30), the Equal Employment Opportunity Commission (EEOC) recovered more than $486 million for victims of workplace discrimination. This amount includes $346.6 million in relief for private company and state and local government employees and job applicants through conciliation, mediation, and other enforcement methods, and they secured $39.1 million via litigation. Additionally, they obtained $100.6 million in relief for federal employees and job applicants.
+The commission resolved 173 merit lawsuits and achieved positive outcomes in about 95% of its district court decisions—32 more than the previous fiscal year. They filed 144 lawsuits, including 100 suits on behalf of individual employees.
+Discrimination during the recruiting process is often due to improper training or lax policies. But ignorance is no defense. As the number of violations and discrimination lawsuits continue to grow, it’s critical that businesses take a proactive approach to educating their HR employees on appropriate interview procedures. It’s also important to periodically review job descriptions and requirements to remove any potential discriminatory language or bias.
+The OFCCP helps makes sure that federal contractors use non-discriminatory hiring practices so all Americans are ensured they have equal access to federal jobs. Any federal contractor that conducts more than $10,000 per year in business with the government is subject to the rules of the OFCCP. They are forbidden to discriminate against employees based on their color, national origin, race, religion or sex. The law also mandates that contractors make efforts to employ individuals with disabilities, Vietnam-era veterans and other covered military veterans, as long as they’re qualified for the role.
+The OFCCP conducts yearly audits to ensure businesses are toeing the line with the law. The audits analyze the hiring methods and practices of all federal contractors. These are the three main things auditors are looking out for:
+Discrimination cases handled by the OFCCP are on the rise. In fiscal year 2018, 94 cases were completed with monetary relief of $16,441,619. In 2019, that number skyrocketed to 156, with monetary relief two-and-a-half times that of FY18 at $40,569,816.
+Talent acquisition can be full of risk. But it doesn’t have to be. So how can your organization help ensure recruiting compliance so you don’t become an EEOC or OFCCP statistic (and a news headline)? The easiest way is by including an applicant tracking system (ATS) and automated recruiting in your hiring practices. As some wise person once said, “The best defense is a good offense.” To see a best-in-class defense, check out Paycor Recruiting.
+Ability to indicate where jobs were posted: This functionality is especially important in the event of an OFCCP audit. You have to be able to pull a report showing that all job openings were listed with local and state employment agencies except for:
+Reasons for non-selection: Requiring a reason for non-selection means that your applicant flow logs will always be up-to-date. The system should provide standard reasons for passing on a candidate, such as conflicts with salary, education, or experience. Make sure you consult with a labor attorney or other EEOC to ensure the reasons are in compliance.
+Cloud-based applicant data storage: If you’re still maintaining paper files, it’s easy for candidate information to get lost in the shuffle. Having a system that stores everything electronically so you can easily access documents with a few clicks of the mouse will help in the event of an EEOC or OFCCP audit.
+We’re here to help! Our applicant tracking system can help streamline your recruiting and hiring process. And we have compliance features baked in to help your business stay on the right side of the law. Contact us today for a demo!
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people

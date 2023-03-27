@@ -1,0 +1,57 @@
+W-2 Employer Responsibilities
+
+Employers are required to provide W-2 forms to each employee. View all the pertinent dates and regulations on W-2 forms here.
+
+Workforce Management
+Last Updated: August 30, 2022 | Read Time: 9 min
+Even though it might seem ages away, W-2 time is fast approaching! Forms W-2 must be prepared and provided to employees (with copies sent to the Social Security Administration) on or before Wednesday, February 1, 2023. Don’t worry if you’re not quite prepared—we’ll explain everything you need to know.
+W-2 forms are an important part of employees’ tax filings. They detail all wages and salary paid, along with the amounts withheld for taxes and benefits and other information such as imputed income. Form W-2 includes information about your company and employee details along with how much employees earn (including tip income), how much they withhold for tax (as specified on their Form W-4) plus Social Security and Medicare contributions. A W-2 form is mandatory for all employees, and an especially important distinction to pay attention to is the word “employees.” Independent contractors—such as freelance graphic designers or bookkeepers— who you do not withhold payroll taxes for, receive a 1099-NEC form, which simply reports payments over $600 in a calendar year. (Here’s how to figure out whether someone is an employee or an independent contractor.)
+To ensure employees can file their tax returns on time, the IRS requires that employers prepare W-2 forms and provide them to employees on or before February 1 of the year following the tax year. So that an employee’s tax returns can be verified, copies must also be sent to the Social Security Administration (also by February 1) and, in some cases, to state-level administration.
+Sent to Employees
+Submitted to the Social Security Administration
+Submitted to State Tax Authority (if required)
+Kept for employer’s records
+If someone has been employed by more than one company during the tax year, they will require W-2s from their multiple employers. However, a single employer is only required to submit one W-2 per employee, even if they worked in multiple roles. There are rare exceptions when one employee works in different roles across different locations or when company ownership (or payroll provider) has changed mid-year— in these cases multiple W-2s will be issued with different Employer Identification Numbers.
+Your organization may face penalties if you fail to complete your employees’ W-2 forms accurately and on time. The IRS imposes different maximum penalties based on company size, and they define a “small business” as one that has average annual gross receipts of $5 million or less in the three most recent tax years.
+For W-2 submissions up to 30 days late, the IRS can fine your company $50 per form with a maximum penalty for small businesses of $197,500 and $565,500 for others.
+For submissions after 30 days but before August 1, the IRS can impose a fine of $110 per form, up to a maximum of $565,500 for small businesses, and $1,696,500 for larger businesses.
+For submissions made on or after August 1, the fine per form will rise to $280, up to a maximum of $1,130,000 for small businesses, and $3,392,000 generally.
+And if you choose not to submit forms at all, the fine for the 2022 tax year is $570 per form with no maximum penalty.
+If you know your company will be unable to prepare your W-2 filings by February 1, you can request a 30-day extension (using Form 8809), with an explanation of why you need the extra time; however, extra time will only be granted in the event of “an extraordinary circumstance or catastrophe.” It’s also important to note that you can only apply for an extension one time.
+If an employee loses their Form W-2, you are obligated to supply a replacement, but you are allowed to charge a “nominal amount” for this service.
+If errors were minor, you may benefit from “safe harbor” relief, whereby no penalties apply and no correction is necessary if the error is less than $100, and no single reported amount of withheld tax is off by more than $25.
+If errors exceed these rates, penalties will still be limited if you submit a new, corrected form before August 1, and you can explain how the error was made; however, for more serious errors, especially where no reasonable explanation is given, penalties can be severe.
+To make sure any errors are spotted as soon as possible, it is good practice to send completed W-2 forms to employees before the February 1 deadline.
+If you file more than 250 W-2s in paper form, rather than online, you may receive a fine. You can also be penalized for submitting forms that are unreadable by machine. You can also be fined for misclassifying employees by filing a 1099-MISC (intended for independent contractors) for someone who should be receiving a W-2. Lastly, if you deliberately fail to submit a W-2 for an employee who requires one, the IRS can impose a fine of $570 per form, with no maximum limit.
+If a W-2 is sent to an employee but is then returned as undeliverable, it does not need to be forwarded to the Social Security Administration but should be kept in company records for four years.
+Filing W-2s online is increasingly popular, more efficient and—for many companies—mandatory. The Taxpayer First Act of 2019 allows for increased electronic filing of IRS forms based on the number of W-2s a company issues each year. The current threshold for electronic filing is 250 or more W-2s. Pending final IRS regulations, the threshold will drop to 100 in 2022 and 10 in 2023.
+Start preparing now and move your filing process online. With Paycor, the process is easy. As soon as your last payroll processing of the year is complete or after your books are closed, our experts get to work producing accurate and timely W-2s.
+For more than 30 years, Paycor has perfected the payroll process so you can confidently and accurately pay employees. Check out our payroll product features products to learn more.
+ Previous:
+Next:
+Stay up to date with the latest HR trends
+
+        Article      
+Read Time: 9 min
+Employee satisfaction surveys are a great way to stay in tune with what your employees are thinking. Get real insights on how to engage and motivate your team.
+
+        Article      
+Read Time: 10 min
+Employee burnout can impact work quality and morale. Discover the warning signs for burnout and how to prevent it in your workplace.
+
+        Article      
+Read Time: 9 min
+Being an effective leader requires more than just technical knowledge. Create an environment where everyone can thrive and understand emotions in oneself and others.
+HCM Software
+HR + Payroll Software
+Talent Management
+Workforce Management
+Employee Experience
+Benefits Administration
+Quick Links
+Services + Support
+855-565-3285
+Talk to Sales
+855-752-8564
+© 2023 Paycor, Inc  |  Refer Paycor  |  Privacy Policy  |  1-800-501-9462 |
+*Represents approximately 30,000 corporate clients covering 40,000 businesses employing people
